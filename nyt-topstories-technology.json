@@ -1,0 +1,2468 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+    "section": "Technology",
+    "last_updated": "2020-08-01T10:42:26-04:00",
+    "num_results": 29,
+    "results": [
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "ByteDance Said to Offer to Sell TikTok’s U.S. Operations",
+            "abstract": "The Trump administration has said the video app poses security concerns because of its Chinese ownership.",
+            "url": "https://www.nytimes.com/2020/08/01/technology/tiktok-sale-trump-ban.html",
+            "uri": "nyt://article/3778e05b-a512-5bc7-b6ba-86a68666eddf",
+            "byline": "By Raymond Zhong and Steve Lohr",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T00:39:48-04:00",
+            "created_date": "2020-08-01T10:40:31-04:00",
+            "published_date": "2020-08-01T10:40:31-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mergers, Acquisitions and Divestitures",
+                "Mobile Applications",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has said that he was considering various options for the popular video app TikTok, including banning it.",
+                    "copyright": "Martin Bureau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has said that he was considering various options for the popular video app TikTok, including banning it.",
+                    "copyright": "Martin Bureau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has said that he was considering various options for the popular video app TikTok, including banning it.",
+                    "copyright": "Martin Bureau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has said that he was considering various options for the popular video app TikTok, including banning it.",
+                    "copyright": "Martin Bureau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has said that he was considering various options for the popular video app TikTok, including banning it.",
+                    "copyright": "Martin Bureau/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/39KJcXr"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Florida Teenager Is Charged as ‘Mastermind’ of Twitter Hack",
+            "abstract": "The authorities arrested a 17-year-old who they said ran a scheme that targeted the accounts of celebrities, including former President Barack Obama and Elon Musk. Two others were also charged.",
+            "url": "https://www.nytimes.com/2020/07/31/technology/twitter-hack-arrest.html",
+            "uri": "nyt://article/8574641a-1348-573b-aeea-2ef76a85be1c",
+            "byline": "By Kate Conger and Nathaniel Popper",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T08:48:29-04:00",
+            "created_date": "2020-07-31T15:16:23-04:00",
+            "published_date": "2020-07-31T15:16:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cyberattacks and Hackers",
+                "Computer Security",
+                "Computers and the Internet",
+                "Social Media",
+                "Bitcoin (Currency)",
+                "Frauds and Swindling"
+            ],
+            "org_facet": [
+                "Twitter"
+            ],
+            "per_facet": [
+                "Clark, Graham Ivan"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The hack embarrassed Twitter and called into question the security provided by a range of tech companies.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/31twitter1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The hack embarrassed Twitter and called into question the security provided by a range of tech companies.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/31twitter1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The hack embarrassed Twitter and called into question the security provided by a range of tech companies.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The hack embarrassed Twitter and called into question the security provided by a range of tech companies.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The hack embarrassed Twitter and called into question the security provided by a range of tech companies.",
+                    "copyright": "Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3gi8w9n"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "‘Hey, You Free on Friday for a Meeting and a Bank Heist?’",
+            "abstract": "Eager for an alternative to Zoom, executives are getting together in video games, to bond, brainstorm or rampage.",
+            "url": "https://www.nytimes.com/2020/07/31/business/video-game-meetings.html",
+            "uri": "nyt://article/0db8891f-db6b-5563-acd2-02b04028c75f",
+            "byline": "By David Segal",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T00:46:10-04:00",
+            "created_date": "2020-07-31T05:00:27-04:00",
+            "published_date": "2020-07-31T05:00:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computer and Video Games",
+                "Videophones and Videoconferencing",
+                "Animal Crossing: New Horizons (Video Game)",
+                "Minecraft (Video Game)",
+                "Red Dead Redemption 2 (Video Game)",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "MediaMonks BV",
+                "World Wildlife Fund",
+                "Zoom Video Communications"
+            ],
+            "per_facet": [
+                "Lee, Bruce"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1141,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Smithingham playing Grand Theft Auto with a client.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Smithingham playing Grand Theft Auto with a client.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Smithingham playing Grand Theft Auto with a client.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Smithingham playing Grand Theft Auto with a client.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 106,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Smithingham playing Grand Theft Auto with a client.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/2ECKwQC"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Amazon Wins Without Even Trying",
+            "abstract": "As America’s economy suffers, Big Tech does shockingly well.",
+            "url": "https://www.nytimes.com/2020/07/31/technology/amazon-earnings.html",
+            "uri": "nyt://article/4cb6d4d9-3b1b-5c32-9f56-8453dd400f4d",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T13:19:25-04:00",
+            "created_date": "2020-07-31T13:19:25-04:00",
+            "published_date": "2020-07-31T13:19:25-04:00",
+            "material_type_facet": "",
+            "kicker": "on tech",
+            "des_facet": [
+                "Computers and the Internet",
+                "Antitrust Laws and Competition Issues",
+                "United States Economy",
+                "Prices (Fares, Fees and Rates)"
+            ],
+            "org_facet": [
+                "Amazon.com Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31ontech/31ontech-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kenny Brandenberger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31ontech/31ontech-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kenny Brandenberger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31ontech/31ontech-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kenny Brandenberger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31ontech/31ontech-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kenny Brandenberger"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31ontech/31ontech-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kenny Brandenberger"
+                }
+            ],
+            "short_url": "https://nyti.ms/39H2xbY"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "What’s Going On With TikTok? Here’s What We Know",
+            "abstract": "President Trump is talking about banning the app. TikTok may also sell its U.S. operations. Let’s sort through it all here.",
+            "url": "https://www.nytimes.com/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html",
+            "uri": "nyt://article/9a2cd2b4-1500-54b5-a882-eb27b931dce8",
+            "byline": "By David McCabe",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T19:21:23-04:00",
+            "created_date": "2020-08-01T13:48:09-04:00",
+            "published_date": "2020-08-01T13:48:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mobile Applications",
+                "Social Media",
+                "United States Politics and Government",
+                "Executive Orders and Memorandums",
+                "Mergers, Acquisitions and Divestitures",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1406,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have become increasingly concerned that the Chinese government could get access to information about Americans who use TikTok.",
+                    "copyright": "Anjum Naveed/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/01tiktok-explainer-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have become increasingly concerned that the Chinese government could get access to information about Americans who use TikTok.",
+                    "copyright": "Anjum Naveed/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/01tiktok-explainer-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have become increasingly concerned that the Chinese government could get access to information about Americans who use TikTok.",
+                    "copyright": "Anjum Naveed/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have become increasingly concerned that the Chinese government could get access to information about Americans who use TikTok.",
+                    "copyright": "Anjum Naveed/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 130,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have become increasingly concerned that the Chinese government could get access to information about Americans who use TikTok.",
+                    "copyright": "Anjum Naveed/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2PgtQjO"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Why a Data Breach at a Genealogy Site Has Privacy Experts Worried",
+            "abstract": "Nearly two-thirds of GEDmatch’s users opt out of helping law enforcement. For a brief window this month, that didn’t matter.",
+            "url": "https://www.nytimes.com/2020/08/01/technology/gedmatch-breach-privacy.html",
+            "uri": "nyt://article/8d2ac0d4-6823-5288-a8ce-c6c066e35f7b",
+            "byline": "By Heather Murphy",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T18:49:40-04:00",
+            "created_date": "2020-08-01T05:00:15-04:00",
+            "published_date": "2020-08-01T05:00:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Genealogy",
+                "Forensic Science",
+                "Genetics and Heredity",
+                "Computer Security",
+                "DNA (Deoxyribonucleic Acid)",
+                "Computers and the Internet",
+                "Cyberattacks and Hackers",
+                "Murders, Attempted Murders and Homicides"
+            ],
+            "org_facet": [
+                "GEDMatch",
+                "GEDmatch Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/arts/00xp-GEDmatch-pix-sub/00xp-GEDmatch-pix-sub-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1270,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The GEDmatch breach shows what can go wrong when stored genetic information isn’t adequately safeguarded.",
+                    "copyright": "James King-Holmes/Science Source"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/arts/00xp-GEDmatch-pix-sub/00xp-GEDmatch-pix-sub-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The GEDmatch breach shows what can go wrong when stored genetic information isn’t adequately safeguarded.",
+                    "copyright": "James King-Holmes/Science Source"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/arts/00xp-GEDmatch-pix-sub/00xp-GEDmatch-pix-sub-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The GEDmatch breach shows what can go wrong when stored genetic information isn’t adequately safeguarded.",
+                    "copyright": "James King-Holmes/Science Source"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/arts/00xp-GEDmatch-pix-sub/00xp-GEDmatch-pix-sub-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The GEDmatch breach shows what can go wrong when stored genetic information isn’t adequately safeguarded.",
+                    "copyright": "James King-Holmes/Science Source"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/arts/00xp-GEDmatch-pix-sub/00xp-GEDmatch-pix-sub-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 118,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The GEDmatch breach shows what can go wrong when stored genetic information isn’t adequately safeguarded.",
+                    "copyright": "James King-Holmes/Science Source"
+                }
+            ],
+            "short_url": "https://nyti.ms/2BMBLCj"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App",
+            "abstract": "The discussions come as TikTok’s ownership by a Chinese company is under scrutiny by the White House and lawmakers.",
+            "url": "https://www.nytimes.com/2020/07/31/technology/tiktok-microsoft.html",
+            "uri": "nyt://article/4630f782-7bd9-559c-a3e4-e33c52271b16",
+            "byline": "By Mike Isaac, Ana Swanson and Alan Rappeport",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T11:53:10-04:00",
+            "created_date": "2020-07-31T14:48:22-04:00",
+            "published_date": "2020-07-31T14:48:22-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Foreign Investments",
+                "Mobile Applications",
+                "Computers and the Internet",
+                "Mergers, Acquisitions and Divestitures",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "TikTok (ByteDance)",
+                "Musical.ly Inc",
+                "Committee on Foreign Investment in the United States (CFIUS)",
+                "Microsoft Corp"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have been concerned that TikTok poses a threat to national security.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have been concerned that TikTok poses a threat to national security.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have been concerned that TikTok poses a threat to national security.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have been concerned that TikTok poses a threat to national security.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have been concerned that TikTok poses a threat to national security.",
+                    "copyright": "Andrew Kelly/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ffaaHO"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "What Is Randonautica Really About?",
+            "abstract": "An app that generates coordinates for adventurers claims to turn your thoughts into reality. TikTok and YouTube creators want you to believe it — but you shouldn’t.",
+            "url": "https://www.nytimes.com/2020/07/31/style/randonautica-app.html",
+            "uri": "nyt://article/a5bd6ffd-52be-51a5-a7ca-d91a97c93808",
+            "byline": "By Lena Wilson",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T04:22:23-04:00",
+            "created_date": "2020-07-31T11:42:07-04:00",
+            "published_date": "2020-07-31T11:42:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mobile Applications",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "Randonauts LLC"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1350,
+                    "width": 1950,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jonathan Muroya"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jonathan Muroya"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jonathan Muroya"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jonathan Muroya"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 132,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jonathan Muroya"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hUNxds"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "I Tried to Live Without the Tech Giants. It Was Impossible.",
+            "abstract": "As lawmakers debate whether Apple, Google, Facebook, and Amazon are monopolies, a reporter recalls her attempt to avoid interacting with the companies.",
+            "url": "https://www.nytimes.com/2020/07/31/technology/blocking-the-tech-giants.html",
+            "uri": "nyt://article/7b88b798-e6d0-5e91-aed8-064d3fcd0b30",
+            "byline": "By Kashmir Hill",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T00:47:53-04:00",
+            "created_date": "2020-07-31T11:40:22-04:00",
+            "published_date": "2020-07-31T11:40:22-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Data-Mining and Database Marketing",
+                "Antitrust Laws and Competition Issues",
+                "Software",
+                "Social Media",
+                "Cloud Computing",
+                "Smartphones"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc",
+                "Microsoft Corp",
+                "YouTube.com"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1749,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Efi Chalikopoulou"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Efi Chalikopoulou"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Efi Chalikopoulou"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Efi Chalikopoulou"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 222,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Efi Chalikopoulou"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CWI86R"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "The Economy Is in Record Decline, but Not for the Tech Giants",
+            "abstract": "Even though the tech industry’s four biggest companies were stung by a slowdown in spending, they reported a combined $28 billion in profits on Thursday.",
+            "url": "https://www.nytimes.com/2020/07/30/technology/tech-company-earnings-amazon-apple-facebook-google.html",
+            "uri": "nyt://article/75acb578-88be-52a6-aed9-efd1f7312fe6",
+            "byline": "By Daisuke Wakabayashi, Karen Weise, Jack Nicas and Mike Isaac",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T11:33:59-04:00",
+            "created_date": "2020-07-30T19:02:11-04:00",
+            "published_date": "2020-07-30T19:02:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Social Media",
+                "Online Advertising",
+                "Coronavirus (2019-nCoV)",
+                "Antitrust Laws and Competition Issues",
+                "United States Economy",
+                "Company Reports",
+                "Stocks and Bonds"
+            ],
+            "org_facet": [
+                "Alphabet Inc",
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/technology/30tech-earnings/oakImage-1596148409520-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1369,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alphabet, Facebook, Apple and Amazon reported a combined $28 billion in profits on Thursday.",
+                    "copyright": "Clockwise from left: Jason Henry for The New York Times, Victor J. Blue for The New York Times, Philip Cheung for The New York Times, Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/technology/30tech-earnings/oakImage-1596148409520-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alphabet, Facebook, Apple and Amazon reported a combined $28 billion in profits on Thursday.",
+                    "copyright": "Clockwise from left: Jason Henry for The New York Times, Victor J. Blue for The New York Times, Philip Cheung for The New York Times, Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/technology/30tech-earnings/oakImage-1596148409520-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alphabet, Facebook, Apple and Amazon reported a combined $28 billion in profits on Thursday.",
+                    "copyright": "Clockwise from left: Jason Henry for The New York Times, Victor J. Blue for The New York Times, Philip Cheung for The New York Times, Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/technology/30tech-earnings/oakImage-1596148409520-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alphabet, Facebook, Apple and Amazon reported a combined $28 billion in profits on Thursday.",
+                    "copyright": "Clockwise from left: Jason Henry for The New York Times, Victor J. Blue for The New York Times, Philip Cheung for The New York Times, Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/technology/30tech-earnings/oakImage-1596148409520-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Alphabet, Facebook, Apple and Amazon reported a combined $28 billion in profits on Thursday.",
+                    "copyright": "Clockwise from left: Jason Henry for The New York Times, Victor J. Blue for The New York Times, Philip Cheung for The New York Times, Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/30fLsCN"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Big Tech’s Backlash Is Just Starting",
+            "abstract": "The congressional antitrust hearing showed that concerns about the tech stars aren’t going away.",
+            "url": "https://www.nytimes.com/2020/07/30/technology/big-tech-backlash.html",
+            "uri": "nyt://article/c7bcbb3e-f9df-5b7a-b046-6a9b0136594d",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T06:13:26-04:00",
+            "created_date": "2020-07-30T12:48:02-04:00",
+            "published_date": "2020-07-30T12:48:02-04:00",
+            "material_type_facet": "",
+            "kicker": "on tech",
+            "des_facet": [
+                "Computers and the Internet",
+                "Antitrust Laws and Competition Issues"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc",
+                "House of Representatives"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/business/30ontech/30ontech-superJumbo-v2.gif",
+                    "format": "superJumbo",
+                    "height": 679,
+                    "width": 1024,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ari Melenciano"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/business/30ontech/30ontech-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ari Melenciano"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/business/30ontech/30ontech-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ari Melenciano"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/business/30ontech/30ontech-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ari Melenciano"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/business/30ontech/30ontech-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 130,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ari Melenciano"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Pc0F1w"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Grilled by Lawmakers, Big Tech Turns Up the Gaslight",
+            "abstract": "It is less clear that tech executives’ strategy of evasive answers will continue to work now that lawmakers have begun doing their homework.",
+            "url": "https://www.nytimes.com/2020/07/30/technology/big-tech-ceos.html",
+            "uri": "nyt://article/56168724-600c-5a0e-8586-e6515edcf0ae",
+            "byline": "By Kevin Roose",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T12:41:05-04:00",
+            "created_date": "2020-07-30T09:52:44-04:00",
+            "published_date": "2020-07-30T09:52:44-04:00",
+            "material_type_facet": "",
+            "kicker": "The Shift",
+            "des_facet": [
+                "Computers and the Internet",
+                "United States Politics and Government",
+                "Antitrust Laws and Competition Issues",
+                "Regulation and Deregulation of Industry",
+                "Start-ups"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc",
+                "House Committee on the Judiciary"
+            ],
+            "per_facet": [
+                "Bezos, Jeffrey P",
+                "Cook, Timothy D",
+                "Pichai, Sundar",
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31roose/31roose-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1750,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pablo Rochat"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31roose/31roose-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pablo Rochat"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31roose/31roose-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pablo Rochat"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31roose/31roose-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pablo Rochat"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31roose/31roose-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 222,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Pablo Rochat"
+                }
+            ],
+            "short_url": "https://nyti.ms/39IyOPC"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "‘This Is a New Phase’: Europe Shifts Tactics to Limit Tech’s Power",
+            "abstract": "The region’s lawmakers and regulators are taking direct aim at Amazon, Facebook, Google and Apple in a series of proposed laws.",
+            "url": "https://www.nytimes.com/2020/07/30/technology/europe-new-phase-tech-amazon-apple-facebook-google.html",
+            "uri": "nyt://article/727df7e7-edcf-5e8e-9451-bfb1c458b107",
+            "byline": "By Adam Satariano",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T12:37:37-04:00",
+            "created_date": "2020-07-30T05:00:30-04:00",
+            "published_date": "2020-07-30T05:00:30-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Antitrust Laws and Competition Issues",
+                "Politics and Government",
+                "Data-Mining and Database Marketing",
+                "Law and Legislation",
+                "Regulation and Deregulation of Industry",
+                "Censorship"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Apple Inc",
+                "European Union",
+                "Facebook Inc",
+                "Google Inc",
+                "European Commission"
+            ],
+            "per_facet": [
+                "Vestager, Margrethe"
+            ],
+            "geo_facet": [
+                "Europe"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/24/business/00eutech/00eutech-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1781,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Matt Chase"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/24/business/00eutech/00eutech-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Matt Chase"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/24/business/00eutech/00eutech-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Matt Chase"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/24/business/00eutech/00eutech-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Matt Chase"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/24/business/00eutech/00eutech-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 165,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Matt Chase"
+                }
+            ],
+            "short_url": "https://nyti.ms/2D1uiQy"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Lawmakers, United in Their Ire, Lash Out at Big Tech’s Leaders",
+            "abstract": "The chiefs of Amazon, Apple, Google and Facebook faced withering questions from Democrats about anti-competitive practices and from Republicans about anti-conservative bias.",
+            "url": "https://www.nytimes.com/2020/07/29/technology/big-tech-hearing-apple-amazon-facebook-google.html",
+            "uri": "nyt://article/87d7825c-b856-57b7-8346-1d41ffd34917",
+            "byline": "By Cecilia Kang and David McCabe",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T06:26:30-04:00",
+            "created_date": "2020-07-29T19:28:48-04:00",
+            "published_date": "2020-07-29T19:28:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Antitrust Laws and Competition Issues",
+                "United States Politics and Government",
+                "Computers and the Internet",
+                "E-Commerce",
+                "Social Media",
+                "Online Advertising"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc",
+                "House of Representatives",
+                "House Committee on the Judiciary"
+            ],
+            "per_facet": [
+                "Bezos, Jeffrey P",
+                "Cook, Timothy D",
+                "Pichai, Sundar",
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/reader-center/29TECHHEARING-A1/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, the Facebook chief executive, was confronted with his own emails by one lawmaker, who said he had plotted to take out a competitor.",
+                    "copyright": "Pool photo by Graeme Jennings"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/reader-center/29TECHHEARING-A1/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, the Facebook chief executive, was confronted with his own emails by one lawmaker, who said he had plotted to take out a competitor.",
+                    "copyright": "Pool photo by Graeme Jennings"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/reader-center/29TECHHEARING-A1/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, the Facebook chief executive, was confronted with his own emails by one lawmaker, who said he had plotted to take out a competitor.",
+                    "copyright": "Pool photo by Graeme Jennings"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/reader-center/29TECHHEARING-A1/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, the Facebook chief executive, was confronted with his own emails by one lawmaker, who said he had plotted to take out a competitor.",
+                    "copyright": "Pool photo by Graeme Jennings"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/reader-center/29TECHHEARING-A1/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, the Facebook chief executive, was confronted with his own emails by one lawmaker, who said he had plotted to take out a competitor.",
+                    "copyright": "Pool photo by Graeme Jennings"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hNC8vL"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "Titans of Tech Testify in Their Trust-Me Suits",
+            "abstract": "It’s a tongue twister, but also a strategy. Jeff Bezos, Mark Zuckerberg, Tim Cook and Sundar Pichai appeared before Congress and dressed the part.",
+            "url": "https://www.nytimes.com/2020/07/29/style/Bezos-zuckerberg-cook-pichai-testimony-suits.html",
+            "uri": "nyt://article/d9705903-55cb-5c5f-9191-ed7afe490afd",
+            "byline": "By Vanessa Friedman",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T10:23:36-04:00",
+            "created_date": "2020-07-29T17:51:25-04:00",
+            "published_date": "2020-07-29T17:51:25-04:00",
+            "material_type_facet": "",
+            "kicker": "Critic’s Notebook",
+            "des_facet": [
+                "United States Politics and Government",
+                "Suits (Apparel)",
+                "Fashion and Apparel",
+                "Computers and the Internet",
+                "your-feed-fashion"
+            ],
+            "org_facet": [
+                "Alphabet Inc",
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc",
+                "House Committee on the Judiciary"
+            ],
+            "per_facet": [
+                "Bezos, Jeffrey P",
+                "Cook, Timothy D",
+                "Pichai, Sundar",
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/29ZOOMSUITS-COMBO-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 913,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Mark Zuckerberg of Facebook, Sundar Pichai of Google, Tim Cook of Apple and Jeff Bezos of Amazon answered questions from House lawmakers about their business practices via videoconference.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/30ZOOMSUITS-COMBO-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Mark Zuckerberg of Facebook, Sundar Pichai of Google, Tim Cook of Apple and Jeff Bezos of Amazon answered questions from House lawmakers about their business practices via videoconference.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/30ZOOMSUITS-COMBO-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Mark Zuckerberg of Facebook, Sundar Pichai of Google, Tim Cook of Apple and Jeff Bezos of Amazon answered questions from House lawmakers about their business practices via videoconference.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/30ZOOMSUITS-COMBO-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Mark Zuckerberg of Facebook, Sundar Pichai of Google, Tim Cook of Apple and Jeff Bezos of Amazon answered questions from House lawmakers about their business practices via videoconference.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/29ZOOMSUITS-COMBO-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 85,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "From left, Mark Zuckerberg of Facebook, Sundar Pichai of Google, Tim Cook of Apple and Jeff Bezos of Amazon answered questions from House lawmakers about their business practices via videoconference.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/307J3Km"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "Memers Have a New Campaign Aimed at Getting Trump Out of Office",
+            "abstract": "Meme 2020, the social media collective that supported Michael Bloomberg’s presidential primary run, is back with a new focus: mail-in ballot registration.",
+            "url": "https://www.nytimes.com/2020/07/29/style/meme-2020-lincoln-project-election.html",
+            "uri": "nyt://article/4eb6cdbe-55b1-5ab1-be16-e43195495f6c",
+            "byline": "By Taylor Lorenz",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T00:42:37-04:00",
+            "created_date": "2020-07-29T16:00:07-04:00",
+            "published_date": "2020-07-29T16:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Presidential Election of 2020",
+                "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+                "Political Advertising"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Bloomberg, Michael R",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/fashion/29MEME-2020-1/29MEME-2020-1-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1080,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A sponsored post from Meme 2020’s vote-by-mail campaign.",
+                    "copyright": "via Meme2020"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/fashion/29MEME-2020-1/29MEME-2020-1-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A sponsored post from Meme 2020’s vote-by-mail campaign.",
+                    "copyright": "via Meme2020"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/fashion/29MEME-2020-1/29MEME-2020-1-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A sponsored post from Meme 2020’s vote-by-mail campaign.",
+                    "copyright": "via Meme2020"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/fashion/29MEME-2020-1/29MEME-2020-1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A sponsored post from Meme 2020’s vote-by-mail campaign.",
+                    "copyright": "via Meme2020"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/fashion/29MEME-2020-1/29MEME-2020-1-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 190,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A sponsored post from Meme 2020’s vote-by-mail campaign.",
+                    "copyright": "via Meme2020"
+                }
+            ],
+            "short_url": "https://nyti.ms/309Mq3g"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Commerce Department Asks F.C.C. to Narrow Protections for Web Platforms",
+            "abstract": "The request comes as President Trump continues to accuse tech platforms like Facebook and Twitter of suppressing conservative content.",
+            "url": "https://www.nytimes.com/2020/07/29/technology/trump-fcc-twitter-facebook.html",
+            "uri": "nyt://article/ef6298b9-9d45-56a4-b151-a6d97a52833f",
+            "byline": "By David McCabe",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T00:52:53-04:00",
+            "created_date": "2020-07-29T12:21:00-04:00",
+            "published_date": "2020-07-29T12:21:00-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Executive Orders and Memorandums",
+                "Social Media",
+                "Freedom of Speech and Expression"
+            ],
+            "org_facet": [
+                "Twitter",
+                "Facebook Inc",
+                "Commerce Department"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/business/29DC-TrumpCensor/merlin_172932390_d5abf51f-906e-4707-872e-6e1be2d64d43-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump signed an executive order in May directing federal regulators to crack down on companies like Twitter and curtail some of their legal protections.",
+                    "copyright": "Pool photo by Doug Mills"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/business/29DC-TrumpCensor/29DC-TrumpCensor-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump signed an executive order in May directing federal regulators to crack down on companies like Twitter and curtail some of their legal protections.",
+                    "copyright": "Pool photo by Doug Mills"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/business/29DC-TrumpCensor/29DC-TrumpCensor-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump signed an executive order in May directing federal regulators to crack down on companies like Twitter and curtail some of their legal protections.",
+                    "copyright": "Pool photo by Doug Mills"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/business/29DC-TrumpCensor/merlin_172932390_d5abf51f-906e-4707-872e-6e1be2d64d43-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump signed an executive order in May directing federal regulators to crack down on companies like Twitter and curtail some of their legal protections.",
+                    "copyright": "Pool photo by Doug Mills"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/business/29DC-TrumpCensor/merlin_172932390_d5abf51f-906e-4707-872e-6e1be2d64d43-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump signed an executive order in May directing federal regulators to crack down on companies like Twitter and curtail some of their legal protections.",
+                    "copyright": "Pool photo by Doug Mills"
+                }
+            ],
+            "short_url": "https://nyti.ms/2DcOLBE"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Congress Doesn’t Get Big Tech. By Design.",
+            "abstract": "Members of Congress may say dumb things at the tech hearing, but it’s not necessarily their fault.",
+            "url": "https://www.nytimes.com/2020/07/29/technology/congress-big-tech.html",
+            "uri": "nyt://article/0bd1b1f0-7f90-5da2-bc7b-7b8cac4430ce",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T12:32:17-04:00",
+            "created_date": "2020-07-29T12:01:54-04:00",
+            "published_date": "2020-07-29T12:01:54-04:00",
+            "material_type_facet": "",
+            "kicker": "on tech",
+            "des_facet": [
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc",
+                "House of Representatives"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/business/29OnTech-congress-NL/merlin_136662141_d00edf4e-32e1-4792-838d-be6203b96ea3-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, chief executive of Facebook, testified before the Senate in 2018.",
+                    "copyright": "Tom Brenner/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/business/29OnTech-congress-NL/29OnTech-congress-NL-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, chief executive of Facebook, testified before the Senate in 2018.",
+                    "copyright": "Tom Brenner/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/business/29OnTech-congress-NL/29OnTech-congress-NL-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, chief executive of Facebook, testified before the Senate in 2018.",
+                    "copyright": "Tom Brenner/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/business/29OnTech-congress-NL/merlin_136662141_d00edf4e-32e1-4792-838d-be6203b96ea3-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, chief executive of Facebook, testified before the Senate in 2018.",
+                    "copyright": "Tom Brenner/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/business/29OnTech-congress-NL/merlin_136662141_d00edf4e-32e1-4792-838d-be6203b96ea3-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mark Zuckerberg, chief executive of Facebook, testified before the Senate in 2018.",
+                    "copyright": "Tom Brenner/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/309BcvJ"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Turkey Passes Law Extending Sweeping Powers Over Social Media",
+            "abstract": "The legislation extends control over platforms like Facebook, Twitter and YouTube. Critics worry it will be used to stifle dissent and criticism of the government.",
+            "url": "https://www.nytimes.com/2020/07/29/world/europe/turkey-social-media-control.html",
+            "uri": "nyt://article/7a726e1e-3f5e-55da-b432-db5e1a0a70d2",
+            "byline": "By Marc Santora",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T00:20:34-04:00",
+            "created_date": "2020-07-29T05:11:23-04:00",
+            "published_date": "2020-07-29T05:11:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Censorship",
+                "Politics and Government"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Twitter"
+            ],
+            "per_facet": [
+                "Albayrak, Berat",
+                "Erdogan, Recep Tayyip"
+            ],
+            "geo_facet": [
+                "Turkey"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/world/29turkey-social-media01/29turkey-social-media01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1372,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A new law in Turkey requires large social media companies like Facebook to open offices in Turkey and remove content deemed offensive, or risk stiff penalties.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/world/29turkey-social-media01/29turkey-social-media01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A new law in Turkey requires large social media companies like Facebook to open offices in Turkey and remove content deemed offensive, or risk stiff penalties.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/world/29turkey-social-media01/29turkey-social-media01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A new law in Turkey requires large social media companies like Facebook to open offices in Turkey and remove content deemed offensive, or risk stiff penalties.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/world/29turkey-social-media01/29turkey-social-media01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A new law in Turkey requires large social media companies like Facebook to open offices in Turkey and remove content deemed offensive, or risk stiff penalties.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/world/29turkey-social-media01/29turkey-social-media01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A new law in Turkey requires large social media companies like Facebook to open offices in Turkey and remove content deemed offensive, or risk stiff penalties.",
+                    "copyright": "Justin Sullivan/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2BClU9k"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "A Handbook to Today’s Tech Hearing",
+            "abstract": "The C.E.O.s are likely to argue before Congress that their companies aren’t anticompetitive. Here are the facts.",
+            "url": "https://www.nytimes.com/2020/07/29/technology/tech-ceos-congress-what-to-know.html",
+            "uri": "nyt://article/ee02e596-8b3d-5b15-87bf-e1db9020e602",
+            "byline": "By Jack Nicas, Daisuke Wakabayashi, Karen Weise and Mike Isaac",
+            "item_type": "Article",
+            "updated_date": "2020-07-29T11:20:28-04:00",
+            "created_date": "2020-07-29T03:00:12-04:00",
+            "published_date": "2020-07-29T03:00:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "E-Commerce",
+                "Mobile Applications",
+                "Online Advertising",
+                "Search Engines",
+                "Social Media",
+                "Shopping and Retail",
+                "Advertising and Marketing",
+                "Smartphones",
+                "Software",
+                "Antitrust Laws and Competition Issues"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc",
+                "House of Representatives"
+            ],
+            "per_facet": [
+                "Bezos, Jeffrey P",
+                "Cook, Timothy D",
+                "Pichai, Sundar",
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [
+                "Washington (DC)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28hearing-handbook-combo-web-PROMO/28hearing-handbook-combo-web-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 780,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28hearing-handbook-combo-web-PROMO/24hearing-handbook-combo-web-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28hearing-handbook-combo-web-PROMO/24hearing-handbook-combo-web-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28hearing-handbook-combo-web-PROMO/28hearing-handbook-combo-web-PROMO-mediumThreeByTwo210-v4.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28hearing-handbook-combo-web-PROMO/28hearing-handbook-combo-web-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 72,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3jQ2kb2"
+        },
+        {
+            "section": "business",
+            "subsection": "media",
+            "title": "Universal’s Theatrical Releases Will Quickly Be Available in Homes",
+            "abstract": "The studio agreed to a deal with AMC, the world’s biggest theater chain, to shorten the exclusive window for new movies to 17 days from 90, likely changing the way Hollywood does business.",
+            "url": "https://www.nytimes.com/2020/07/28/business/media/universal-amc-movies-at-home.html",
+            "uri": "nyt://article/305dbe5b-be85-5f90-8fd1-7a5e71f12593",
+            "byline": "By Brooks Barnes and Nicole Sperling",
+            "item_type": "Article",
+            "updated_date": "2020-07-29T00:54:22-04:00",
+            "created_date": "2020-07-28T17:27:20-04:00",
+            "published_date": "2020-07-28T17:27:20-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Movies",
+                "Coronavirus (2019-nCoV)",
+                "Video Recordings, Downloads and Streaming"
+            ],
+            "org_facet": [
+                "AMC Entertainment Holding Inc.",
+                "Universal Pictures",
+                "Focus Features",
+                "Netflix Inc"
+            ],
+            "per_facet": [
+                "Aron, Adam M"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-movierelease-2/merlin_171221439_ff3647e6-ca5c-469a-98c5-adf9d00d4537-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 849,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Universal had success when it released “Trolls World Tour” in April without an exclusive theatrical run.",
+                    "copyright": "DreamWorks Animation/Universal"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-movierelease-2/28virus-movierelease-2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Universal had success when it released “Trolls World Tour” in April without an exclusive theatrical run.",
+                    "copyright": "DreamWorks Animation/Universal"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-movierelease-2/28virus-movierelease-2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Universal had success when it released “Trolls World Tour” in April without an exclusive theatrical run.",
+                    "copyright": "DreamWorks Animation/Universal"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-movierelease-2/28virus-movierelease-2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Universal had success when it released “Trolls World Tour” in April without an exclusive theatrical run.",
+                    "copyright": "DreamWorks Animation/Universal"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-movierelease-2/merlin_171221439_ff3647e6-ca5c-469a-98c5-adf9d00d4537-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 79,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Universal had success when it released “Trolls World Tour” in April without an exclusive theatrical run.",
+                    "copyright": "DreamWorks Animation/Universal"
+                }
+            ],
+            "short_url": "https://nyti.ms/39yOLrE"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Misleading Virus Video, Pushed by the Trumps, Spreads Online",
+            "abstract": "Social media companies took down the video within hours. But by then, it had already been viewed tens of millions of times.",
+            "url": "https://www.nytimes.com/2020/07/28/technology/virus-video-trump.html",
+            "uri": "nyt://article/680fc868-2e21-5895-a93a-b20d2660b3bb",
+            "byline": "By Sheera Frenkel and Davey Alba",
+            "item_type": "Article",
+            "updated_date": "2020-07-29T08:07:58-04:00",
+            "created_date": "2020-07-28T16:42:13-04:00",
+            "published_date": "2020-07-28T16:42:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Video Recordings, Downloads and Streaming",
+                "Computers and the Internet",
+                "Rumors and Misinformation",
+                "Hydroxychloroquine (Drug)",
+                "Masks",
+                "Coronavirus (2019-nCoV)",
+                "Fringe Groups and Movements",
+                "Corporate Social Responsibility"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "YouTube.com",
+                "Instagram Inc",
+                "Twitter"
+            ],
+            "per_facet": [
+                "Trump, Donald J",
+                "Trump, Donald J Jr"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-disinfo/28virus-disinfo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1125,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A woman who identified herself as Dr. Stella Immanuel speaking during a video shared by “America’s Frontline Doctors.”",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-disinfo/28virus-disinfo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A woman who identified herself as Dr. Stella Immanuel speaking during a video shared by “America’s Frontline Doctors.”",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-disinfo/28virus-disinfo-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A woman who identified herself as Dr. Stella Immanuel speaking during a video shared by “America’s Frontline Doctors.”",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-disinfo/28virus-disinfo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A woman who identified herself as Dr. Stella Immanuel speaking during a video shared by “America’s Frontline Doctors.”",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-disinfo/28virus-disinfo-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 104,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A woman who identified herself as Dr. Stella Immanuel speaking during a video shared by “America’s Frontline Doctors.”",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/311XFKG"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Amazon Is Jeff Bezos",
+            "abstract": "Bezos built Amazon into a central force in the world. This week he’ll have to answer for it.",
+            "url": "https://www.nytimes.com/2020/07/28/technology/amazon-jeff-bezos.html",
+            "uri": "nyt://article/1f935e9c-eece-5dc4-94ab-973acc03d8e8",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T23:48:13-04:00",
+            "created_date": "2020-07-28T13:00:46-04:00",
+            "published_date": "2020-07-28T13:00:46-04:00",
+            "material_type_facet": "",
+            "kicker": "on Tech",
+            "des_facet": [
+                "Computers and the Internet",
+                "Social Media",
+                "Rumors and Misinformation"
+            ],
+            "org_facet": [
+                "Amazon.com Inc"
+            ],
+            "per_facet": [
+                "Bezos, Jeffrey P"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28ontech/28ontech-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Adam Maida"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28ontech/28ontech-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Adam Maida"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28ontech/28ontech-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Adam Maida"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28ontech/28ontech-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Adam Maida"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28ontech/28ontech-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Adam Maida"
+                }
+            ],
+            "short_url": "https://nyti.ms/3gl5nGd"
+        },
+        {
+            "section": "business",
+            "subsection": "economy",
+            "title": "Uber and Lyft Drivers Win Ruling on Unemployment Benefits",
+            "abstract": "A federal judge’s decision in New York is a key victory in efforts to secure the protections extended to other workers.",
+            "url": "https://www.nytimes.com/2020/07/28/business/economy/lyft-uber-drivers-unemployment.html",
+            "uri": "nyt://article/37bfa003-3167-5f63-ba87-4eeb04f81c89",
+            "byline": "By Noam Scheiber",
+            "item_type": "Article",
+            "updated_date": "2020-07-29T14:30:50-04:00",
+            "created_date": "2020-07-28T10:31:10-04:00",
+            "published_date": "2020-07-28T10:31:10-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Car Services and Livery Cabs",
+                "Unemployment Insurance",
+                "Labor and Jobs",
+                "Suits and Litigation (Civil)",
+                "Freelancing, Self-Employment and Independent Contracting",
+                "Unemployment",
+                "Coronavirus (2019-nCoV)",
+                "Decisions and Verdicts"
+            ],
+            "org_facet": [
+                "Lyft Inc",
+                "Uber Technologies Inc"
+            ],
+            "per_facet": [
+                "DeArcy Hall, LaShann"
+            ],
+            "geo_facet": [
+                "New York State"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28drivers-1/merlin_174443184_26f7e1ca-cbdc-445c-9cf8-ff9a5c7b7d74-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A lawsuit asserted that New York State was taking months to pay  traditional unemployment benefits to Uber and Lyft drivers, compared with two to three weeks for other workers.",
+                    "copyright": "Mark Abramson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28drivers-1/28drivers-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A lawsuit asserted that New York State was taking months to pay  traditional unemployment benefits to Uber and Lyft drivers, compared with two to three weeks for other workers.",
+                    "copyright": "Mark Abramson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28drivers-1/28drivers-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A lawsuit asserted that New York State was taking months to pay  traditional unemployment benefits to Uber and Lyft drivers, compared with two to three weeks for other workers.",
+                    "copyright": "Mark Abramson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28drivers-1/28drivers-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A lawsuit asserted that New York State was taking months to pay  traditional unemployment benefits to Uber and Lyft drivers, compared with two to three weeks for other workers.",
+                    "copyright": "Mark Abramson for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28drivers-1/merlin_174443184_26f7e1ca-cbdc-445c-9cf8-ff9a5c7b7d74-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A lawsuit asserted that New York State was taking months to pay  traditional unemployment benefits to Uber and Lyft drivers, compared with two to three weeks for other workers.",
+                    "copyright": "Mark Abramson for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2DabmyT"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Their Businesses Went Virtual. Then Apple Wanted a Cut.",
+            "abstract": "After Airbnb and ClassPass began selling virtual classes because of the pandemic, Apple tried to collect its commission on the sales.",
+            "url": "https://www.nytimes.com/2020/07/28/technology/apple-app-store-airbnb-classpass.html",
+            "uri": "nyt://article/e9d159f9-da97-5d34-8d43-91df8756c077",
+            "byline": "By Jack Nicas and David McCabe",
+            "item_type": "Article",
+            "updated_date": "2020-07-29T00:46:04-04:00",
+            "created_date": "2020-07-28T05:00:21-04:00",
+            "published_date": "2020-07-28T05:00:21-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mobile Applications",
+                "Computers and the Internet",
+                "E-Commerce",
+                "Prices (Fares, Fees and Rates)",
+                "Coronavirus (2019-nCoV)",
+                "Antitrust Laws and Competition Issues"
+            ],
+            "org_facet": [
+                "Airbnb",
+                "ClassPass Inc",
+                "Apple Inc",
+                "Proton Technologies AG"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-apple1/merlin_175008315_b71321c6-4491-4190-a975-7fa298305db0-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An online coffee lesson. After Airbnb began to offer online experiences, Apple said it planned to enforce an existing rule that said it was entitled to 30 percent of the sales.",
+                    "copyright": "Airbnb"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-apple1/28virus-apple1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An online coffee lesson. After Airbnb began to offer online experiences, Apple said it planned to enforce an existing rule that said it was entitled to 30 percent of the sales.",
+                    "copyright": "Airbnb"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-apple1/28virus-apple1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An online coffee lesson. After Airbnb began to offer online experiences, Apple said it planned to enforce an existing rule that said it was entitled to 30 percent of the sales.",
+                    "copyright": "Airbnb"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-apple1/28virus-apple1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An online coffee lesson. After Airbnb began to offer online experiences, Apple said it planned to enforce an existing rule that said it was entitled to 30 percent of the sales.",
+                    "copyright": "Airbnb"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/28virus-apple1/merlin_175008315_b71321c6-4491-4190-a975-7fa298305db0-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An online coffee lesson. After Airbnb began to offer online experiences, Apple said it planned to enforce an existing rule that said it was entitled to 30 percent of the sales.",
+                    "copyright": "Airbnb"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CMhnC5"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Amazon, Apple, Facebook and Google Prepare for Their ‘Big Tobacco Moment’",
+            "abstract": "The tech C.E.O.s will appear together at a congressional hearing on Wednesday to argue that their companies do not stifle competition.",
+            "url": "https://www.nytimes.com/2020/07/28/technology/amazon-apple-facebook-google-antitrust-hearing.html",
+            "uri": "nyt://article/528d6f90-f902-58e1-8621-3a5961fab7d4",
+            "byline": "By Cecilia Kang, Jack Nicas and David McCabe",
+            "item_type": "Article",
+            "updated_date": "2020-07-29T11:18:21-04:00",
+            "created_date": "2020-07-28T05:00:19-04:00",
+            "published_date": "2020-07-28T05:00:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Antitrust Laws and Competition Issues",
+                "Computers and the Internet",
+                "Mobile Applications",
+                "United States Politics and Government",
+                "Social Media",
+                "E-Commerce",
+                "Online Advertising"
+            ],
+            "org_facet": [
+                "Alphabet Inc",
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc",
+                "House of Representatives"
+            ],
+            "per_facet": [
+                "Bezos, Jeffrey P",
+                "Cook, Timothy D",
+                "Pichai, Sundar",
+                "Zuckerberg, Mark E",
+                "Cicilline, David N"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/24/business/24TECHCEOS-GRID/24TECHCEOS-GRID-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Clockwise from top left: Sundar Pichai of Google, Jeff Bezos of Amazon, Tim Cook of Apple and Mark Zuckerberg of Facebook.",
+                    "copyright": "Clockwise from top left: Erik Tanner for The New York Times; Kyle Johnson for The New York Times; Jim Wilson/The New York Times; Jessica Chou for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/24/business/24TECHCEOS-GRID/24TECHCEOS-GRID-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Clockwise from top left: Sundar Pichai of Google, Jeff Bezos of Amazon, Tim Cook of Apple and Mark Zuckerberg of Facebook.",
+                    "copyright": "Clockwise from top left: Erik Tanner for The New York Times; Kyle Johnson for The New York Times; Jim Wilson/The New York Times; Jessica Chou for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/24/business/24TECHCEOS-GRID/24TECHCEOS-GRID-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Clockwise from top left: Sundar Pichai of Google, Jeff Bezos of Amazon, Tim Cook of Apple and Mark Zuckerberg of Facebook.",
+                    "copyright": "Clockwise from top left: Erik Tanner for The New York Times; Kyle Johnson for The New York Times; Jim Wilson/The New York Times; Jessica Chou for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/24/business/24TECHCEOS-GRID/24TECHCEOS-GRID-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Clockwise from top left: Sundar Pichai of Google, Jeff Bezos of Amazon, Tim Cook of Apple and Mark Zuckerberg of Facebook.",
+                    "copyright": "Clockwise from top left: Erik Tanner for The New York Times; Kyle Johnson for The New York Times; Jim Wilson/The New York Times; Jessica Chou for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/24/business/24TECHCEOS-GRID/24TECHCEOS-GRID-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Clockwise from top left: Sundar Pichai of Google, Jeff Bezos of Amazon, Tim Cook of Apple and Mark Zuckerberg of Facebook.",
+                    "copyright": "Clockwise from top left: Erik Tanner for The New York Times; Kyle Johnson for The New York Times; Jim Wilson/The New York Times; Jessica Chou for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3f7lchW"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "‘Challenge Accepted’: Why Women Are Posting Black-and-White Selfies",
+            "abstract": "A campaign that purports to be about “women supporting women” is filling people’s Instagram feeds with striking, if opaque, imagery.",
+            "url": "https://www.nytimes.com/2020/07/27/style/challenge-accepted-instagram.html",
+            "uri": "nyt://article/89a5620b-b5f2-56f9-9f79-f425a1da1ec8",
+            "byline": "By Taylor Lorenz",
+            "item_type": "Article",
+            "updated_date": "2020-07-29T05:57:58-04:00",
+            "created_date": "2020-07-27T17:20:48-04:00",
+            "published_date": "2020-07-27T17:20:48-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Women and Girls",
+                "Social Media",
+                "Photography",
+                "your-feed-selfcare",
+                "your-feed-fashion",
+                "Celebrities"
+            ],
+            "org_facet": [
+                "Instagram Inc"
+            ],
+            "per_facet": [
+                "Garner, Jennifer",
+                "Washington, Kerry"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/27/fashion/27CHALLENGEACCEPTED-2/27CHALLENGEACCEPTED-2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2000,
+                    "width": 1502,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The model Ashley Smouter’s contribution to the “challenge accepted” campaign on Instagram.",
+                    "copyright": "via Ashley Smouter"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/27/fashion/27CHALLENGEACCEPTED-2/27CHALLENGEACCEPTED-2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The model Ashley Smouter’s contribution to the “challenge accepted” campaign on Instagram.",
+                    "copyright": "via Ashley Smouter"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/27/fashion/27CHALLENGEACCEPTED-2/27CHALLENGEACCEPTED-2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The model Ashley Smouter’s contribution to the “challenge accepted” campaign on Instagram.",
+                    "copyright": "via Ashley Smouter"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/27/fashion/27CHALLENGEACCEPTED-2/27CHALLENGEACCEPTED-2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The model Ashley Smouter’s contribution to the “challenge accepted” campaign on Instagram.",
+                    "copyright": "via Ashley Smouter"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/27/fashion/27CHALLENGEACCEPTED-2/27CHALLENGEACCEPTED-2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 253,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The model Ashley Smouter’s contribution to the “challenge accepted” campaign on Instagram.",
+                    "copyright": "via Ashley Smouter"
+                }
+            ],
+            "short_url": "https://nyti.ms/305xof0"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "What to Do About TikTok",
+            "abstract": "Instead of banning the app, U.S. officials could force it to be more transparent.",
+            "url": "https://www.nytimes.com/2020/07/27/technology/tiktok-data-privacy.html",
+            "uri": "nyt://article/f17bf7ee-a822-5946-a2e2-43757671f5a3",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2020-07-27T15:09:48-04:00",
+            "created_date": "2020-07-27T13:30:03-04:00",
+            "published_date": "2020-07-27T13:30:03-04:00",
+            "material_type_facet": "",
+            "kicker": "on tech",
+            "des_facet": [
+                "Social Media",
+                "Data-Mining and Database Marketing"
+            ],
+            "org_facet": [
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/27/business/27ontech-bluebg-copy/27ontech-bluebg-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1455,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Daniel Zender"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/27/business/27ontech-bluebg-copy/27ontech-bluebg-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Daniel Zender"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/27/business/27ontech-bluebg-copy/27ontech-bluebg-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Daniel Zender"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/27/business/27ontech-bluebg-copy/27ontech-bluebg-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Daniel Zender"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/27/business/27ontech-bluebg-copy/27ontech-bluebg-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 135,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Daniel Zender"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hSIVof"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "We’ll Be Wearing Masks for a While. Why Not Make Them Nice?",
+            "abstract": "Motorized air purifiers and heated sanitizers. Breathable fabrics and chic prints. With face coverings here to stay, consumers are starting to demand more than cheap throwaways.",
+            "url": "https://www.nytimes.com/2020/07/27/business/fashion-masks-coronavirus.html",
+            "uri": "nyt://article/7c168ea5-649d-5e51-a97a-318e985bc4b2",
+            "byline": "By Ben Dooley and Hisako Ueno",
+            "item_type": "Article",
+            "updated_date": "2020-07-29T22:44:06-04:00",
+            "created_date": "2020-07-27T05:00:31-04:00",
+            "published_date": "2020-07-27T05:00:31-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Masks",
+                "Coronavirus (2019-nCoV)",
+                "Fashion and Apparel",
+                "Innovation",
+                "Wearable Computing"
+            ],
+            "org_facet": [
+                "Uniqlo"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Japan"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/25virus-japan-masks-1/00virus-japan-masks-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A mask by Donut Robotics that serves as a combination walkie-talkie, personal secretary and translator.",
+                    "copyright": "Noriko Hayashi for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/25virus-japan-masks-1/00virus-japan-masks-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A mask by Donut Robotics that serves as a combination walkie-talkie, personal secretary and translator.",
+                    "copyright": "Noriko Hayashi for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/25virus-japan-masks-1/00virus-japan-masks-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A mask by Donut Robotics that serves as a combination walkie-talkie, personal secretary and translator.",
+                    "copyright": "Noriko Hayashi for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/25virus-japan-masks-1/25virus-japan-masks-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A mask by Donut Robotics that serves as a combination walkie-talkie, personal secretary and translator.",
+                    "copyright": "Noriko Hayashi for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/business/25virus-japan-masks-1/00virus-japan-masks-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 285,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A mask by Donut Robotics that serves as a combination walkie-talkie, personal secretary and translator.",
+                    "copyright": "Noriko Hayashi for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CPYZIk"
+        }
+    ]
+}
