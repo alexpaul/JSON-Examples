@@ -11,7 +11,7 @@ A repo for testing various JSON payloads in various programming languages.
 5. Save this file in your App navigation folder. 
 6. Use the `Bundle` class to read the `.json` file and parse to your Swift object. 
 
-> Make sure `JSON` contents you copied starts on line 1 in your new file. It won't be valid `JSON` if there are new lines or any comments other than the  `JSON` starting at the open bracket to the the last closed bracket. 
+> Make sure the `JSON` contents you copied starts on line 1 in your new file. It won't be valid `JSON` if there are new lines or any comments other than the  `JSON` starting at the open bracket to the the last closed bracket. 
 
 ## 2. Create the Swift Model that represents the JSON payload 
 
