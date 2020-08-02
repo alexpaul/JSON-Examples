@@ -1,0 +1,2710 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+    "section": "Business",
+    "last_updated": "2020-08-01T16:05:37-04:00",
+    "num_results": 34,
+    "results": [
+        {
+            "section": "business",
+            "subsection": "economy",
+            "title": "12 People in a 3-Bedroom House, Then the Virus Entered the Equation",
+            "abstract": "Overcrowding, not density, has defined many coronavirus hot spots. Service workers’ quarters skirting Silicon Valley are no exception.",
+            "url": "https://www.nytimes.com/2020/08/01/business/economy/housing-overcrowding-coronavirus.html",
+            "uri": "nyt://article/db05634f-744c-5ab4-b25d-2b9e486c8195",
+            "byline": "By Conor Dougherty",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T22:05:14-04:00",
+            "created_date": "2020-08-01T05:00:26-04:00",
+            "published_date": "2020-08-01T05:00:26-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Coronavirus Risks and Safety Concerns",
+                "Renting and Leasing (Real Estate)",
+                "Affordable Housing",
+                "Coronavirus (2019-nCoV)",
+                "Quarantines",
+                "Labor and Jobs",
+                "Income Inequality",
+                "Service Industries",
+                "Urban Areas"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "San Mateo (Calif)",
+                "Silicon Valley (Calif)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/00virus-crowding1/00virus-crowding1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1365,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Karla Lorenzo made about $16 an hour mopping floors and vacuuming carpets before the pandemic. She shared a three-bedroom house with her partner, her three children and seven others.",
+                    "copyright": "Brian L. Frank for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/00virus-crowding1/00virus-crowding1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Karla Lorenzo made about $16 an hour mopping floors and vacuuming carpets before the pandemic. She shared a three-bedroom house with her partner, her three children and seven others.",
+                    "copyright": "Brian L. Frank for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/00virus-crowding1/00virus-crowding1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Karla Lorenzo made about $16 an hour mopping floors and vacuuming carpets before the pandemic. She shared a three-bedroom house with her partner, her three children and seven others.",
+                    "copyright": "Brian L. Frank for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/00virus-crowding1/00virus-crowding1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Karla Lorenzo made about $16 an hour mopping floors and vacuuming carpets before the pandemic. She shared a three-bedroom house with her partner, her three children and seven others.",
+                    "copyright": "Brian L. Frank for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/00virus-crowding1/00virus-crowding1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 285,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Karla Lorenzo made about $16 an hour mopping floors and vacuuming carpets before the pandemic. She shared a three-bedroom house with her partner, her three children and seven others.",
+                    "copyright": "Brian L. Frank for The New York Times"
+                }
+            ],
+            "short_url": ""
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "ByteDance Said to Offer to Sell TikTok’s U.S. Operations",
+            "abstract": "The Trump administration has said the video app poses security concerns because of its Chinese ownership.",
+            "url": "https://www.nytimes.com/2020/08/01/technology/tiktok-sale-trump-ban.html",
+            "uri": "nyt://article/3778e05b-a512-5bc7-b6ba-86a68666eddf",
+            "byline": "By Raymond Zhong and Steve Lohr",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T00:39:48-04:00",
+            "created_date": "2020-08-01T10:40:31-04:00",
+            "published_date": "2020-08-01T10:40:31-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mergers, Acquisitions and Divestitures",
+                "Mobile Applications",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has said that he was considering various options for the popular video app TikTok, including banning it.",
+                    "copyright": "Martin Bureau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has said that he was considering various options for the popular video app TikTok, including banning it.",
+                    "copyright": "Martin Bureau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has said that he was considering various options for the popular video app TikTok, including banning it.",
+                    "copyright": "Martin Bureau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has said that he was considering various options for the popular video app TikTok, including banning it.",
+                    "copyright": "Martin Bureau/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump has said that he was considering various options for the popular video app TikTok, including banning it.",
+                    "copyright": "Martin Bureau/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/39KJcXr"
+        },
+        {
+            "section": "business",
+            "subsection": "media",
+            "title": "More Than 1,000 Companies Boycotted Facebook. Did It Work?",
+            "abstract": "Major advertisers on Facebook reduced their spending by millions of dollars in July, but not enough to significantly damage the platform’s revenue.",
+            "url": "https://www.nytimes.com/2020/08/01/business/media/facebook-boycott.html",
+            "uri": "nyt://article/c9a404dd-a95d-505f-b0f1-fd0aaeaaba1d",
+            "byline": "By Tiffany Hsu and Eleanor Lutz",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T07:23:15-04:00",
+            "created_date": "2020-08-01T16:03:59-04:00",
+            "published_date": "2020-08-01T16:03:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Online Advertising",
+                "Advertising and Marketing",
+                "Boycotts",
+                "Media",
+                "Civil Rights and Liberties",
+                "Small Business",
+                "Hate Speech"
+            ],
+            "org_facet": [
+                "ALLEN & GERRITSEN",
+                "Facebook Inc"
+            ],
+            "per_facet": [
+                "Zuckerberg, Mark E"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 1252,
+                    "width": 1876,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-thumbStandard.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-thumbLarge.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-mediumThreeByTwo210.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-articleInline.png",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/2D9Jyeb"
+        },
+        {
+            "section": "business",
+            "subsection": "media",
+            "title": "James Murdoch Resigns From News Corp, Ending Role in Family Empire",
+            "abstract": "While his elder brother, Lachlan Murdoch, rises in the family business, James Murdoch has grown more distant from his father’s companies.",
+            "url": "https://www.nytimes.com/2020/07/31/business/media/james-murdoch-resigns-news-corp.html",
+            "uri": "nyt://article/318cb163-62d6-545a-9f90-084b41d0766d",
+            "byline": "By Michael M. Grynbaum and Edmund Lee",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T17:29:52-04:00",
+            "created_date": "2020-07-31T17:45:53-04:00",
+            "published_date": "2020-07-31T17:45:53-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "News and News Media"
+            ],
+            "org_facet": [
+                "News Corporation",
+                "Fox News Channel"
+            ],
+            "per_facet": [
+                "Murdoch, James R",
+                "Murdoch, Lachlan",
+                "Murdoch, Rupert"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1637,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "James Murdoch said he was leaving his family&rsquo;s media company because he disagreed with content it had published.",
+                    "copyright": "Bryan Bedder/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "James Murdoch said he was leaving his family&rsquo;s media company because he disagreed with content it had published.",
+                    "copyright": "Bryan Bedder/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "James Murdoch said he was leaving his family&rsquo;s media company because he disagreed with content it had published.",
+                    "copyright": "Bryan Bedder/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "James Murdoch said he was leaving his family&rsquo;s media company because he disagreed with content it had published.",
+                    "copyright": "Bryan Bedder/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 152,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "James Murdoch said he was leaving his family&rsquo;s media company because he disagreed with content it had published.",
+                    "copyright": "Bryan Bedder/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3k1XgQM"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Ivanka Trump and Jared Kushner Report Income of at Least $36 Million in 2019",
+            "abstract": "The couple’s investments, mostly in real estate, were worth at least $204 million and as much as $783 million.",
+            "url": "https://www.nytimes.com/2020/08/01/business/ivanka-trump-jared-kushner-financial-disclosure.html",
+            "uri": "nyt://article/ac81bc6f-0e09-5480-b661-9b90d5f27998",
+            "byline": "By Jesse Drucker and Robert Gebeloff",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T00:46:18-04:00",
+            "created_date": "2020-08-01T14:37:34-04:00",
+            "published_date": "2020-08-01T14:37:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Appointments and Executive Changes",
+                "United States Politics and Government",
+                "Income"
+            ],
+            "org_facet": [
+                "Kushner Cos",
+                "Trump International Hotel (Washington, DC)"
+            ],
+            "per_facet": [
+                "Kushner, Jared",
+                "Trump, Ivanka",
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01kushner/01kushner-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ivanka Trump and Jared Kushner, getting off Air Force One, released their financial disclosure reports on Friday.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01kushner/01kushner-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ivanka Trump and Jared Kushner, getting off Air Force One, released their financial disclosure reports on Friday.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01kushner/01kushner-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ivanka Trump and Jared Kushner, getting off Air Force One, released their financial disclosure reports on Friday.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01kushner/01kushner-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ivanka Trump and Jared Kushner, getting off Air Force One, released their financial disclosure reports on Friday.",
+                    "copyright": "Al Drago for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01kushner/01kushner-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ivanka Trump and Jared Kushner, getting off Air Force One, released their financial disclosure reports on Friday.",
+                    "copyright": "Al Drago for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2PfiD2X"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Despite Historic Plunge, Europe’s Economy Flashes Signs of Recovery",
+            "abstract": "European countries that have better contained the virus are poised for speedier economic recovery than the United States.",
+            "url": "https://www.nytimes.com/2020/07/31/business/europe-economy-recovery-coronavirus.html",
+            "uri": "nyt://article/22a5e3f5-a9f4-53d2-8a6d-7c0b0a19e757",
+            "byline": "By Peter S. Goodman, Liz Alderman and Jack Ewing",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T09:47:43-04:00",
+            "created_date": "2020-07-31T17:26:07-04:00",
+            "published_date": "2020-07-31T17:26:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Economy",
+                "International Trade and World Market",
+                "Coronavirus (2019-nCoV)",
+                "Economic Conditions and Trends"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Europe",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31eu-econ-promo/31eu-econ-promo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 699,
+                    "width": 1050,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31eu-econ-promo/31eu-econ-promo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31eu-econ-promo/31eu-econ-promo-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31eu-econ-promo/31eu-econ-promo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31eu-econ-promo/31eu-econ-promo-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3jYA9H0"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Florida Teenager Is Charged as ‘Mastermind’ of Twitter Hack",
+            "abstract": "The authorities arrested a 17-year-old who they said ran a scheme that targeted the accounts of celebrities, including former President Barack Obama and Elon Musk. Two others were also charged.",
+            "url": "https://www.nytimes.com/2020/07/31/technology/twitter-hack-arrest.html",
+            "uri": "nyt://article/8574641a-1348-573b-aeea-2ef76a85be1c",
+            "byline": "By Kate Conger and Nathaniel Popper",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T08:48:29-04:00",
+            "created_date": "2020-07-31T15:16:23-04:00",
+            "published_date": "2020-07-31T15:16:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Cyberattacks and Hackers",
+                "Computer Security",
+                "Computers and the Internet",
+                "Social Media",
+                "Bitcoin (Currency)",
+                "Frauds and Swindling"
+            ],
+            "org_facet": [
+                "Twitter"
+            ],
+            "per_facet": [
+                "Clark, Graham Ivan"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The hack embarrassed Twitter and called into question the security provided by a range of tech companies.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/31twitter1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The hack embarrassed Twitter and called into question the security provided by a range of tech companies.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/31twitter1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The hack embarrassed Twitter and called into question the security provided by a range of tech companies.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The hack embarrassed Twitter and called into question the security provided by a range of tech companies.",
+                    "copyright": "Jim Wilson/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The hack embarrassed Twitter and called into question the security provided by a range of tech companies.",
+                    "copyright": "Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3gi8w9n"
+        },
+        {
+            "section": "your-money",
+            "subsection": "",
+            "title": "Can’t Afford a Birkin Bag or a Racehorse? You Can Invest in One",
+            "abstract": "Interest in fractional investments has grown as the pandemic has forced more people to spend time at home, but advisers say the strategy has risks.",
+            "url": "https://www.nytimes.com/2020/07/31/your-money/birkin-bag-racehorse-invest.html",
+            "uri": "nyt://article/ee39da2a-4488-58ed-87ee-b30da7d0f6c4",
+            "byline": "By Paul Sullivan",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T15:52:03-04:00",
+            "created_date": "2020-07-31T09:00:09-04:00",
+            "published_date": "2020-07-31T09:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "Wealth Matters",
+            "des_facet": [
+                "Stocks and Bonds",
+                "Initial Public Offerings",
+                "Handbags and Purses",
+                "Horses",
+                "Luxury Goods and Services",
+                "Personal Finances",
+                "High Net Worth Individuals",
+                "Horse Racing",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01Wealth-01/31Wealth-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Antonella Carbonaro, 30, in Manhattan with her Birkin bag. When she heard that there was a marketplace to buy shares in other Birkins, she was in.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01Wealth-01/31Wealth-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Antonella Carbonaro, 30, in Manhattan with her Birkin bag. When she heard that there was a marketplace to buy shares in other Birkins, she was in.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01Wealth-01/31Wealth-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Antonella Carbonaro, 30, in Manhattan with her Birkin bag. When she heard that there was a marketplace to buy shares in other Birkins, she was in.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01Wealth-01/31Wealth-01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Antonella Carbonaro, 30, in Manhattan with her Birkin bag. When she heard that there was a marketplace to buy shares in other Birkins, she was in.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01Wealth-01/31Wealth-01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Antonella Carbonaro, 30, in Manhattan with her Birkin bag. When she heard that there was a marketplace to buy shares in other Birkins, she was in.",
+                    "copyright": "Hiroko Masuike/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2PpbPA9"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "In Britain, the Economic Comeback Is in the Suburbs",
+            "abstract": "Central London remains “very, very quiet” while shops and cafes outside town centers are seeing a fragile recovery.",
+            "url": "https://www.nytimes.com/2020/07/31/business/britain-economic-comeback-suburbs.html",
+            "uri": "nyt://article/752947a8-b331-57cc-855c-84bafce745ed",
+            "byline": "By Eshe Nelson",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T04:03:30-04:00",
+            "created_date": "2020-07-31T11:07:28-04:00",
+            "published_date": "2020-07-31T11:07:28-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Shopping and Retail",
+                "Coronavirus Reopenings",
+                "Economic Conditions and Trends",
+                "Suburbs",
+                "Coronavirus (2019-nCoV)",
+                "Shutdowns (Institutional)",
+                "Quarantines"
+            ],
+            "org_facet": [
+                "Travel Buff Ltd (Daunt Books)",
+                "Tutu's Ethiopian Table (London, England, Restaurant)",
+                "Preserve Foods (Retailer)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Great Britain",
+                "London (England)",
+                "England"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/business/00virus-uk-cities-1/merlin_174873252_01a5e146-783a-484c-a317-5c6cdff2819f-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daunt Books is opening in Summertown, a suburb north of Oxford, England. “People are so delighted a shop is opening and not closing,” the manager of the bookseller said.",
+                    "copyright": "Suzie Howell for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/business/00virus-uk-cities-1/00virus-uk-cities-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daunt Books is opening in Summertown, a suburb north of Oxford, England. “People are so delighted a shop is opening and not closing,” the manager of the bookseller said.",
+                    "copyright": "Suzie Howell for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/business/00virus-uk-cities-1/00virus-uk-cities-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daunt Books is opening in Summertown, a suburb north of Oxford, England. “People are so delighted a shop is opening and not closing,” the manager of the bookseller said.",
+                    "copyright": "Suzie Howell for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/business/00virus-uk-cities-1/00virus-uk-cities-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daunt Books is opening in Summertown, a suburb north of Oxford, England. “People are so delighted a shop is opening and not closing,” the manager of the bookseller said.",
+                    "copyright": "Suzie Howell for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/business/00virus-uk-cities-1/00virus-uk-cities-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 124,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Daunt Books is opening in Summertown, a suburb north of Oxford, England. “People are so delighted a shop is opening and not closing,” the manager of the bookseller said.",
+                    "copyright": "Suzie Howell for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2EzZ6YZ"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Driving Across the Globe to Fight Child Trafficking",
+            "abstract": "Renée Brinkerhoff has been on a quest, on almost every continent, to use racing “as a platform to do something about” a global scourge. Next stop, Antarctica.",
+            "url": "https://www.nytimes.com/2020/08/02/business/brinkerhoff-racing-child-trafficking.html",
+            "uri": "nyt://article/1be200e0-4bea-5b7b-949e-66435225d7ee",
+            "byline": "By Mercedes Lilienthal",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T06:00:09-04:00",
+            "created_date": "2020-08-02T06:00:09-04:00",
+            "published_date": "2020-08-02T06:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "Wheels",
+            "des_facet": [
+                "Automobiles",
+                "Philanthropy",
+                "Children and Childhood",
+                "Human Trafficking",
+                "Child Abuse and Neglect",
+                "Automobile Racing"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Brinkerhoff, Renee"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/02wheels-1/02wheels-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Renée Brinkerhoff, right, with Juliette Brinkerhoff, her daughter and navigator, at the 2019 East African Safari Classic Rally.",
+                    "copyright": "Christina Brinkerhoff"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/02wheels-1/02wheels-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Renée Brinkerhoff, right, with Juliette Brinkerhoff, her daughter and navigator, at the 2019 East African Safari Classic Rally.",
+                    "copyright": "Christina Brinkerhoff"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/02wheels-1/02wheels-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Renée Brinkerhoff, right, with Juliette Brinkerhoff, her daughter and navigator, at the 2019 East African Safari Classic Rally.",
+                    "copyright": "Christina Brinkerhoff"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/02wheels-1/02wheels-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Renée Brinkerhoff, right, with Juliette Brinkerhoff, her daughter and navigator, at the 2019 East African Safari Classic Rally.",
+                    "copyright": "Christina Brinkerhoff"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/02wheels-1/02wheels-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Renée Brinkerhoff, right, with Juliette Brinkerhoff, her daughter and navigator, at the 2019 East African Safari Classic Rally.",
+                    "copyright": "Christina Brinkerhoff"
+                }
+            ],
+            "short_url": "https://nyti.ms/2XjmZue"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Trader Joe’s Defends Product Labels Criticized as Racist",
+            "abstract": "The company had previously said the names of international-themed products that were intended to promote inclusiveness, such as Trader José and Trader Ming’s, “may now have the opposite effect.”",
+            "url": "https://www.nytimes.com/2020/08/01/us/trader-joes-jose-ming-joe-san.html",
+            "uri": "nyt://article/d0cb67b3-78d5-577d-aff1-b573d7e72e80",
+            "byline": "By Allyson Waller",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T07:14:49-04:00",
+            "created_date": "2020-08-01T17:27:59-04:00",
+            "published_date": "2020-08-01T17:27:59-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Labeling and Labels (Product)",
+                "Supermarkets and Grocery Stores",
+                "Customer Relations",
+                "Police Brutality, Misconduct and Shootings"
+            ],
+            "org_facet": [
+                "Trader Joe's",
+                "Aunt Jemima Milling Co",
+                "Quaker Oats Co"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/19/multimedia/19xp-trader-joes-pix/19xp-trader-joes-pix-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1340,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A petition created last month said that Trader Joe’s “exoticizes other cultures” with certain branded products, like its Trader José beer.",
+                    "copyright": "Joe Raedle/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/19/multimedia/19xp-trader-joes-pix/19xp-trader-joes-pix-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A petition created last month said that Trader Joe’s “exoticizes other cultures” with certain branded products, like its Trader José beer.",
+                    "copyright": "Joe Raedle/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/19/multimedia/19xp-trader-joes-pix/19xp-trader-joes-pix-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A petition created last month said that Trader Joe’s “exoticizes other cultures” with certain branded products, like its Trader José beer.",
+                    "copyright": "Joe Raedle/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/19/multimedia/19xp-trader-joes-pix/19xp-trader-joes-pix-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A petition created last month said that Trader Joe’s “exoticizes other cultures” with certain branded products, like its Trader José beer.",
+                    "copyright": "Joe Raedle/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/19/multimedia/19xp-trader-joes-pix/19xp-trader-joes-pix-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 124,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A petition created last month said that Trader Joe’s “exoticizes other cultures” with certain branded products, like its Trader José beer.",
+                    "copyright": "Joe Raedle/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2XiX7z0"
+        },
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Red Onions Linked to Salmonella Outbreak, Officials Say",
+            "abstract": "More than 500 cases and at least 75 hospitalizations have been reported in the United States and Canada, the health authorities said.",
+            "url": "https://www.nytimes.com/2020/08/01/us/salmonella-outbreak-onions.html",
+            "uri": "nyt://article/75b89f34-561d-5eb7-9ade-a5343fbc931a",
+            "byline": "By Christina Morales",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T07:14:49-04:00",
+            "created_date": "2020-08-01T15:34:39-04:00",
+            "published_date": "2020-08-01T15:34:39-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Food Contamination and Poisoning",
+                "Salmonella (Bacteria)",
+                "Onions"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1334,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Red onions from Thomson International were contaminated with salmonella but officials recommend consumers throw away any onions if they are unsure where they came from.",
+                    "copyright": "Tony Cenicola/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Red onions from Thomson International were contaminated with salmonella but officials recommend consumers throw away any onions if they are unsure where they came from.",
+                    "copyright": "Tony Cenicola/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Red onions from Thomson International were contaminated with salmonella but officials recommend consumers throw away any onions if they are unsure where they came from.",
+                    "copyright": "Tony Cenicola/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Red onions from Thomson International were contaminated with salmonella but officials recommend consumers throw away any onions if they are unsure where they came from.",
+                    "copyright": "Tony Cenicola/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 124,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Red onions from Thomson International were contaminated with salmonella but officials recommend consumers throw away any onions if they are unsure where they came from.",
+                    "copyright": "Tony Cenicola/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2EHemn2"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "What’s Going On With TikTok? Here’s What We Know",
+            "abstract": "President Trump is talking about banning the app. TikTok may also sell its U.S. operations. Let’s sort through it all here.",
+            "url": "https://www.nytimes.com/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html",
+            "uri": "nyt://article/9a2cd2b4-1500-54b5-a882-eb27b931dce8",
+            "byline": "By David McCabe",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T19:21:23-04:00",
+            "created_date": "2020-08-01T13:48:09-04:00",
+            "published_date": "2020-08-01T13:48:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mobile Applications",
+                "Social Media",
+                "United States Politics and Government",
+                "Executive Orders and Memorandums",
+                "Mergers, Acquisitions and Divestitures",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1406,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have become increasingly concerned that the Chinese government could get access to information about Americans who use TikTok.",
+                    "copyright": "Anjum Naveed/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/01tiktok-explainer-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have become increasingly concerned that the Chinese government could get access to information about Americans who use TikTok.",
+                    "copyright": "Anjum Naveed/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/01tiktok-explainer-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have become increasingly concerned that the Chinese government could get access to information about Americans who use TikTok.",
+                    "copyright": "Anjum Naveed/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have become increasingly concerned that the Chinese government could get access to information about Americans who use TikTok.",
+                    "copyright": "Anjum Naveed/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 130,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have become increasingly concerned that the Chinese government could get access to information about Americans who use TikTok.",
+                    "copyright": "Anjum Naveed/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2PgtQjO"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "Italy Draws a Line Under Genoa Tragedy, Shunting Aside the Benettons",
+            "abstract": "The government has leveraged anger over the collapse of Genoa’s Morandi Bridge to take back control of the nation’s highways. But critics say the deal sends a troubling message to investors.",
+            "url": "https://www.nytimes.com/2020/08/01/world/europe/italy-genoa-bridge-collapse-benettons.html",
+            "uri": "nyt://article/165b1165-3d2a-5213-8d0d-3a4ecc84ec7a",
+            "byline": "By Elisabetta Povoledo",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T00:21:59-04:00",
+            "created_date": "2020-08-01T08:49:39-04:00",
+            "published_date": "2020-08-01T08:49:39-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Politics and Government",
+                "Infrastructure (Public Works)",
+                "Bridges and Tunnels",
+                "Privatization",
+                "Roads and Traffic",
+                "Tolls",
+                "Regulation and Deregulation of Industry"
+            ],
+            "org_facet": [
+                "Autostrade SpA",
+                "Benetton Group SpA",
+                "Five Star Movement (Italy)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Genoa (Italy)",
+                "Italy"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02Italy-Autostrade/merlin_174736338_d5b14a1d-ba2f-4f1a-829e-b6d1e19756a8-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Aerial view of trucks driving over the new bridge in Genoa, Italy, this month, as part of a test to examine the robustness of the structure.",
+                    "copyright": "Luca Zennaro/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02Italy-Autostrade/merlin_174736338_d5b14a1d-ba2f-4f1a-829e-b6d1e19756a8-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Aerial view of trucks driving over the new bridge in Genoa, Italy, this month, as part of a test to examine the robustness of the structure.",
+                    "copyright": "Luca Zennaro/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02Italy-Autostrade/merlin_174736338_d5b14a1d-ba2f-4f1a-829e-b6d1e19756a8-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Aerial view of trucks driving over the new bridge in Genoa, Italy, this month, as part of a test to examine the robustness of the structure.",
+                    "copyright": "Luca Zennaro/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02Italy-Autostrade/merlin_174736338_d5b14a1d-ba2f-4f1a-829e-b6d1e19756a8-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Aerial view of trucks driving over the new bridge in Genoa, Italy, this month, as part of a test to examine the robustness of the structure.",
+                    "copyright": "Luca Zennaro/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02Italy-Autostrade/merlin_174736338_d5b14a1d-ba2f-4f1a-829e-b6d1e19756a8-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Aerial view of trucks driving over the new bridge in Genoa, Italy, this month, as part of a test to examine the robustness of the structure.",
+                    "copyright": "Luca Zennaro/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3kbtTvI"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
+            "abstract": "The world’s largest vaccine producer, the Serum Institute, announced a plan to make hundreds of millions of doses of an unproven inoculation. It’s a gamble with a huge upside. And huge risks.",
+            "url": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html",
+            "uri": "nyt://article/d78b8f2a-4ec2-5673-aa9f-45de72eaf187",
+            "byline": "By Jeffrey Gettleman",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T00:32:19-04:00",
+            "created_date": "2020-08-01T05:00:27-04:00",
+            "published_date": "2020-08-01T05:00:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Drugs (Pharmaceuticals)",
+                "Clinical Trials",
+                "Family Business",
+                "Government Contracts and Procurement",
+                "Horses",
+                "Third World and Developing Countries"
+            ],
+            "org_facet": [
+                "Serum Institute of India",
+                "Gates, Bill and Melinda, Foundation"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Pune (India)",
+                "India"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists at the Serum Institute in Pune, India, working on a bioreactor. Inside is a promising coronavirus vaccine candidate.",
+                    "copyright": "Atul Loke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/00virus-india-vaccine-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists at the Serum Institute in Pune, India, working on a bioreactor. Inside is a promising coronavirus vaccine candidate.",
+                    "copyright": "Atul Loke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/00virus-india-vaccine-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists at the Serum Institute in Pune, India, working on a bioreactor. Inside is a promising coronavirus vaccine candidate.",
+                    "copyright": "Atul Loke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists at the Serum Institute in Pune, India, working on a bioreactor. Inside is a promising coronavirus vaccine candidate.",
+                    "copyright": "Atul Loke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists at the Serum Institute in Pune, India, working on a bioreactor. Inside is a promising coronavirus vaccine candidate.",
+                    "copyright": "Atul Loke for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2XicLKP"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Like Old Hollywood Movies, Video Games Get a Polish for New Audiences",
+            "abstract": "Game publishers are digging through their vaults to remake or remaster popular titles in a bid to kindle players’ nostalgia.",
+            "url": "https://www.nytimes.com/2020/08/01/business/video-game-remake-remaster-nostalgia.html",
+            "uri": "nyt://article/44843ca5-ea47-50b1-b440-bf0ca9dbb07b",
+            "byline": "By Imad Khan",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T05:00:23-04:00",
+            "created_date": "2020-08-01T05:00:23-04:00",
+            "published_date": "2020-08-01T05:00:23-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computer and Video Games",
+                "Video Recordings, Downloads and Streaming",
+                "PlayStation (Video Game System)",
+                "Final Fantasy VII Remake (Video Game)"
+            ],
+            "org_facet": [
+                "Capcom Co",
+                "Square Enix"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/business/00Remake-RE2-lede/00Remake-RE2-lede-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Capcom released a remake of Resident Evil 2 last year. It proved so successful that the company released a remake of Resident Evil 3 in April and has plans to remake Resident Evil 4.",
+                    "copyright": "Capcom"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/business/00Remake-RE2-lede/00Remake-RE2-lede-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Capcom released a remake of Resident Evil 2 last year. It proved so successful that the company released a remake of Resident Evil 3 in April and has plans to remake Resident Evil 4.",
+                    "copyright": "Capcom"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/business/00Remake-RE2-lede/00Remake-RE2-lede-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Capcom released a remake of Resident Evil 2 last year. It proved so successful that the company released a remake of Resident Evil 3 in April and has plans to remake Resident Evil 4.",
+                    "copyright": "Capcom"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/business/00Remake-RE2-lede/00Remake-RE2-lede-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Capcom released a remake of Resident Evil 2 last year. It proved so successful that the company released a remake of Resident Evil 3 in April and has plans to remake Resident Evil 4.",
+                    "copyright": "Capcom"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/business/00Remake-RE2-lede/00Remake-RE2-lede-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Capcom released a remake of Resident Evil 2 last year. It proved so successful that the company released a remake of Resident Evil 3 in April and has plans to remake Resident Evil 4.",
+                    "copyright": "Capcom"
+                }
+            ],
+            "short_url": "https://nyti.ms/2BRz42w"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "The War on Frats",
+            "abstract": "Groups of fraternity brothers and sorority sisters are working to kick their organizations off campus.",
+            "url": "https://www.nytimes.com/2020/08/01/style/abolish-greek-life-college-frat-racism.html",
+            "uri": "nyt://article/6fc4f282-99b0-5e7d-94a1-d842ec629734",
+            "byline": "By Ezra Marcus",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T12:26:07-04:00",
+            "created_date": "2020-08-01T05:00:18-04:00",
+            "published_date": "2020-08-01T05:00:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Fraternities and Sororities",
+                "Colleges and Universities",
+                "George Floyd Protests (2020)",
+                "Discrimination",
+                "Social Media",
+                "your-feed-selfcare"
+            ],
+            "org_facet": [
+                "Vanderbilt University"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Portraits of students who have dropped out of their fraternities and sororities at Vanderbilt University.",
+                    "copyright": "Photo Illustration by The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Portraits of students who have dropped out of their fraternities and sororities at Vanderbilt University.",
+                    "copyright": "Photo Illustration by The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Portraits of students who have dropped out of their fraternities and sororities at Vanderbilt University.",
+                    "copyright": "Photo Illustration by The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Portraits of students who have dropped out of their fraternities and sororities at Vanderbilt University.",
+                    "copyright": "Photo Illustration by The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 190,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Portraits of students who have dropped out of their fraternities and sororities at Vanderbilt University.",
+                    "copyright": "Photo Illustration by The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/39PAc3k"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "A Better Year for Trump’s Family Business (Last Year, That Is)",
+            "abstract": "In 2019, the Trump Organization showed improvement over the previous year. But the company’s minimum reported revenues still fell short of the president’s first year in office, his new financial disclosure shows.",
+            "url": "https://www.nytimes.com/2020/07/31/business/trump-financial-disclosure.html",
+            "uri": "nyt://article/b1657c60-4237-57ae-b072-0876d4c5c59b",
+            "byline": "By Ben Protess, Steve Eder and Michael H. Keller",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T00:46:10-04:00",
+            "created_date": "2020-07-31T20:38:18-04:00",
+            "published_date": "2020-07-31T20:38:18-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Hotels and Travel Lodgings",
+                "United States Politics and Government",
+                "Shutdowns (Institutional)",
+                "Real Estate (Commercial)",
+                "Company Reports"
+            ],
+            "org_facet": [
+                "Trump Organization"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/06/30/multimedia/30trump-disclosure-2/merlin_173990283_6c753136-29ac-4140-acfa-4023fc3455fa-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mar-a-Lago, in Palm Beach, Fla.",
+                    "copyright": "Saul Martinez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/06/30/multimedia/30trump-disclosure-2/30trump-disclosure-2-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mar-a-Lago, in Palm Beach, Fla.",
+                    "copyright": "Saul Martinez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/06/30/multimedia/30trump-disclosure-2/30trump-disclosure-2-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mar-a-Lago, in Palm Beach, Fla.",
+                    "copyright": "Saul Martinez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/06/30/multimedia/30trump-disclosure-2/merlin_173990283_6c753136-29ac-4140-acfa-4023fc3455fa-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mar-a-Lago, in Palm Beach, Fla.",
+                    "copyright": "Saul Martinez for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/06/30/multimedia/30trump-disclosure-2/merlin_173990283_6c753136-29ac-4140-acfa-4023fc3455fa-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mar-a-Lago, in Palm Beach, Fla.",
+                    "copyright": "Saul Martinez for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fqgGvv"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Kodak C.E.O. Got Stock Options Day Before News of Loan Sent Stock Soaring",
+            "abstract": "The stock options suddenly were worth about $50 million — the latest instance of extraordinary good timing by corporate executives.",
+            "url": "https://www.nytimes.com/2020/07/31/business/kodak-ceo-stock-options.html",
+            "uri": "nyt://article/3be0e0c1-bea1-5dd8-ba3c-073421c53cd3",
+            "byline": "By Jesse Drucker and Ellen Gabler",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T17:29:57-04:00",
+            "created_date": "2020-07-31T17:55:16-04:00",
+            "published_date": "2020-07-31T17:55:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Stock Options and Purchase Plans",
+                "Executive Compensation",
+                "Drugs (Pharmaceuticals)",
+                "Stocks and Bonds",
+                "United States Politics and Government",
+                "Federal Aid (US)"
+            ],
+            "org_facet": [
+                "Eastman Kodak Company"
+            ],
+            "per_facet": [
+                "Continenza, Jim"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31virus-kodak-print/merlin_77472113_4c707a84-2d62-47ed-bea4-1ad9ba7aae9f-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1481,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The current Kodak chief executive, Jim Continenza, left, in 2014 with Antonio Perez, the former chief. ",
+                    "copyright": "Richard Drew/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31virus-kodak-print/31virus-kodak-print-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The current Kodak chief executive, Jim Continenza, left, in 2014 with Antonio Perez, the former chief. ",
+                    "copyright": "Richard Drew/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31virus-kodak-print/31virus-kodak-print-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The current Kodak chief executive, Jim Continenza, left, in 2014 with Antonio Perez, the former chief. ",
+                    "copyright": "Richard Drew/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31virus-kodak-print/31virus-kodak-print-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The current Kodak chief executive, Jim Continenza, left, in 2014 with Antonio Perez, the former chief. ",
+                    "copyright": "Richard Drew/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31virus-kodak-print/merlin_77472113_4c707a84-2d62-47ed-bea4-1ad9ba7aae9f-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 137,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The current Kodak chief executive, Jim Continenza, left, in 2014 with Antonio Perez, the former chief. ",
+                    "copyright": "Richard Drew/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Xgs8Dp"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App",
+            "abstract": "The discussions come as TikTok’s ownership by a Chinese company is under scrutiny by the White House and lawmakers.",
+            "url": "https://www.nytimes.com/2020/07/31/technology/tiktok-microsoft.html",
+            "uri": "nyt://article/4630f782-7bd9-559c-a3e4-e33c52271b16",
+            "byline": "By Mike Isaac, Ana Swanson and Alan Rappeport",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T11:53:10-04:00",
+            "created_date": "2020-07-31T14:48:22-04:00",
+            "published_date": "2020-07-31T14:48:22-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Foreign Investments",
+                "Mobile Applications",
+                "Computers and the Internet",
+                "Mergers, Acquisitions and Divestitures",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "TikTok (ByteDance)",
+                "Musical.ly Inc",
+                "Committee on Foreign Investment in the United States (CFIUS)",
+                "Microsoft Corp"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have been concerned that TikTok poses a threat to national security.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have been concerned that TikTok poses a threat to national security.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have been concerned that TikTok poses a threat to national security.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have been concerned that TikTok poses a threat to national security.",
+                    "copyright": "Andrew Kelly/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump administration officials have been concerned that TikTok poses a threat to national security.",
+                    "copyright": "Andrew Kelly/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ffaaHO"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Mutual Fund Winners Don’t Stay Ahead for Long",
+            "abstract": "A new study finds that hot mutual funds generally don’t keep outperforming from year to year, overturning an important finding from the 1990s.",
+            "url": "https://www.nytimes.com/2020/07/31/business/mutual-fund-winners-stocks-bonds.html",
+            "uri": "nyt://article/c32edf85-64c5-5ac0-91b5-88aec47046a9",
+            "byline": "By Jeff Sommer",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T00:47:03-04:00",
+            "created_date": "2020-07-31T13:50:39-04:00",
+            "published_date": "2020-07-31T13:50:39-04:00",
+            "material_type_facet": "",
+            "kicker": "Strategies",
+            "des_facet": [
+                "Mutual Funds",
+                "Stocks and Bonds",
+                "Colleges and Universities",
+                "Research",
+                "Asset Allocation (Personal Finances)",
+                "Standard & Poor's 500-Stock Index"
+            ],
+            "org_facet": [
+                "Berkshire Hathaway Inc",
+                "MSCI Inc",
+                "Vanguard Group Inc"
+            ],
+            "per_facet": [
+                "Choi, James"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/02Strategies-illo/02Strategies-illo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1452,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Minh Uong/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/02Strategies-illo/02Strategies-illo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Minh Uong/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/02Strategies-illo/02Strategies-illo-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Minh Uong/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/02Strategies-illo/02Strategies-illo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Minh Uong/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/02Strategies-illo/02Strategies-illo-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 268,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Minh Uong/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/319LTOp"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Democrats Decry Fed Push to Ease Capital Requirements for Big Banks",
+            "abstract": "Senators Sherrod Brown and Elizabeth Warren criticized a Fed-backed effort to slip a change into the next coronavirus relief package",
+            "url": "https://www.nytimes.com/2020/07/31/business/democrats-fed-banks-capital-requirements.html",
+            "uri": "nyt://article/fab9ee72-2fa7-5b38-aa63-6b2de73b5dc9",
+            "byline": "By Emily Flitter and Jeanna Smialek",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T00:25:33-04:00",
+            "created_date": "2020-07-31T12:40:07-04:00",
+            "published_date": "2020-07-31T12:40:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Banking and Financial Institutions"
+            ],
+            "org_facet": [
+                "Federal Reserve System"
+            ],
+            "per_facet": [
+                "Powell, Jerome H",
+                "Quarles, Randal K",
+                "Brown, Sherrod",
+                "Warren, Elizabeth"
+            ],
+            "geo_facet": [
+                "Wall Street (Manhattan, NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31brownletter/merlin_135772122_e1866108-50ec-44d1-abaf-1139bb48f413-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democratic Senators Sherrod Brown of Ohio and Elizabeth Warren of Massachusetts.",
+                    "copyright": "Erin Schaff for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31brownletter/31brownletter-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democratic Senators Sherrod Brown of Ohio and Elizabeth Warren of Massachusetts.",
+                    "copyright": "Erin Schaff for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31brownletter/31brownletter-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democratic Senators Sherrod Brown of Ohio and Elizabeth Warren of Massachusetts.",
+                    "copyright": "Erin Schaff for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31brownletter/merlin_135772122_e1866108-50ec-44d1-abaf-1139bb48f413-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democratic Senators Sherrod Brown of Ohio and Elizabeth Warren of Massachusetts.",
+                    "copyright": "Erin Schaff for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31brownletter/merlin_135772122_e1866108-50ec-44d1-abaf-1139bb48f413-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Democratic Senators Sherrod Brown of Ohio and Elizabeth Warren of Massachusetts.",
+                    "copyright": "Erin Schaff for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3k0uVur"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "I Tried to Live Without the Tech Giants. It Was Impossible.",
+            "abstract": "As lawmakers debate whether Apple, Google, Facebook, and Amazon are monopolies, a reporter recalls her attempt to avoid interacting with the companies.",
+            "url": "https://www.nytimes.com/2020/07/31/technology/blocking-the-tech-giants.html",
+            "uri": "nyt://article/7b88b798-e6d0-5e91-aed8-064d3fcd0b30",
+            "byline": "By Kashmir Hill",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T00:47:53-04:00",
+            "created_date": "2020-07-31T11:40:22-04:00",
+            "published_date": "2020-07-31T11:40:22-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Data-Mining and Database Marketing",
+                "Antitrust Laws and Competition Issues",
+                "Software",
+                "Social Media",
+                "Cloud Computing",
+                "Smartphones"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc",
+                "Microsoft Corp",
+                "YouTube.com"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1749,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Efi Chalikopoulou"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Efi Chalikopoulou"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Efi Chalikopoulou"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Efi Chalikopoulou"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 222,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Efi Chalikopoulou"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CWI86R"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "‘America, What a Country.’ Michael Dell on His Life and Business",
+            "abstract": "The billionaire tech executive discusses capitalism, immigration, innovation and why 2020 has given us “a glimpse of the future.”",
+            "url": "https://www.nytimes.com/2020/07/31/business/michael-dell-corner-office.html",
+            "uri": "nyt://article/f960a51c-e67a-5392-998b-47a7ad1f4806",
+            "byline": "By David Gelles",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T10:57:12-04:00",
+            "created_date": "2020-07-31T09:40:07-04:00",
+            "published_date": "2020-07-31T09:40:07-04:00",
+            "material_type_facet": "",
+            "kicker": "corner office",
+            "des_facet": [
+                "Entrepreneurship",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "Dell Inc"
+            ],
+            "per_facet": [
+                "Dell, Michael S"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31CORNEROFFICE-DELL/31CORNEROFFICE-DELL-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1466,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Guerin Blask for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31CORNEROFFICE-DELL/31CORNEROFFICE-DELL-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Guerin Blask for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31CORNEROFFICE-DELL/31CORNEROFFICE-DELL-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Guerin Blask for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31CORNEROFFICE-DELL/31CORNEROFFICE-DELL-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Guerin Blask for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31CORNEROFFICE-DELL/31CORNEROFFICE-DELL-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 266,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Guerin Blask for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hVsBmA"
+        },
+        {
+            "section": "business",
+            "subsection": "dealbook",
+            "title": "They Made How Much?",
+            "abstract": "Big tech companies reported bumper profits in the shadow of congressional scrutiny over their outsize market power.",
+            "url": "https://www.nytimes.com/2020/07/31/business/dealbook/tech-earnings-economy.html",
+            "uri": "nyt://article/bdbaa5c8-9ee5-5b01-b762-c6c66214f07f",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T12:43:53-04:00",
+            "created_date": "2020-07-31T07:28:12-04:00",
+            "published_date": "2020-07-31T07:28:12-04:00",
+            "material_type_facet": "",
+            "kicker": "DealBook Newsletter",
+            "des_facet": [
+                "United States Economy",
+                "Stimulus (Economic)",
+                "Company Reports"
+            ],
+            "org_facet": [
+                "Alphabet Inc",
+                "Amazon.com Inc",
+                "Apple Inc",
+                "Facebook Inc",
+                "Google Inc"
+            ],
+            "per_facet": [
+                "Pichai, Sundar"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31db-newsletter-tech/merlin_143699331_c29bfe0a-ad1b-4166-b608-8b284713156f-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Cliff Owen/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31db-newsletter-tech/merlin_143699331_c29bfe0a-ad1b-4166-b608-8b284713156f-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Cliff Owen/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31db-newsletter-tech/merlin_143699331_c29bfe0a-ad1b-4166-b608-8b284713156f-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Cliff Owen/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31db-newsletter-tech/merlin_143699331_c29bfe0a-ad1b-4166-b608-8b284713156f-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Cliff Owen/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/business/31db-newsletter-tech/merlin_143699331_c29bfe0a-ad1b-4166-b608-8b284713156f-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Cliff Owen/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hWMCJA"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Catch up: Ford posts a profit, United warns pilots of furloughs and more.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/2020/07/31/business/catch-up-ford-posts-a-profit-united-warns-pilots-of-furloughs-and-more.html",
+            "uri": "nyt://article/3d4ca7c1-7316-576c-835c-b048f3615a74",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T20:02:21-04:00",
+            "created_date": "2020-07-31T06:29:13-04:00",
+            "published_date": "2020-07-31T06:29:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": null,
+            "short_url": "https://nyti.ms/39OTwgT"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Executives are getting together in video games, to bond, brainstorm or rampage.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/2020/07/31/business/executives-are-getting-together-in-video-games-to-bond-brainstorm-or-rampage.html",
+            "uri": "nyt://article/577c8a3a-6407-5117-a181-c00911ff1397",
+            "byline": "By David Segal",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T20:00:30-04:00",
+            "created_date": "2020-07-31T06:29:13-04:00",
+            "published_date": "2020-07-31T06:29:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31videogames-05/31videogames-05-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from Grand Theft Auto, a video game in which some professionals are now holding meetings with their clients.",
+                    "copyright": "Lewis Smithingham"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31videogames-05/31videogames-05-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from Grand Theft Auto, a video game in which some professionals are now holding meetings with their clients.",
+                    "copyright": "Lewis Smithingham"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31videogames-05/31videogames-05-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from Grand Theft Auto, a video game in which some professionals are now holding meetings with their clients.",
+                    "copyright": "Lewis Smithingham"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31videogames-05/31videogames-05-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from Grand Theft Auto, a video game in which some professionals are now holding meetings with their clients.",
+                    "copyright": "Lewis Smithingham"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31videogames-05/31videogames-05-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from Grand Theft Auto, a video game in which some professionals are now holding meetings with their clients.",
+                    "copyright": "Lewis Smithingham"
+                }
+            ],
+            "short_url": "https://nyti.ms/2XgeyA4"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "European stocks are looking more attractive to investors.",
+            "abstract": "",
+            "url": "https://www.nytimes.com/2020/07/31/business/european-stocks-are-looking-more-attractive-to-investors.html",
+            "uri": "nyt://article/b736e05f-3448-56ba-80b6-518e9e843a8f",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T20:00:48-04:00",
+            "created_date": "2020-07-31T06:29:13-04:00",
+            "published_date": "2020-07-31T06:29:13-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": null,
+            "short_url": "https://nyti.ms/30jZTWB"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "How to Navigate the Coronavirus Real Estate Market",
+            "abstract": "Suburbs and fashionable exurbs are hot, but don’t forget that home prices have fallen before, a Nobel laureate warns.",
+            "url": "https://www.nytimes.com/2020/07/31/business/housing-market-prices-risk.html",
+            "uri": "nyt://article/c2990c71-12ef-5361-b7dd-264c48870d11",
+            "byline": "By Robert J. Shiller",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T05:59:12-04:00",
+            "created_date": "2020-07-31T06:00:11-04:00",
+            "published_date": "2020-07-31T06:00:11-04:00",
+            "material_type_facet": "",
+            "kicker": "Economic View",
+            "des_facet": [
+                "United States Economy",
+                "Real Estate and Housing (Residential)",
+                "Subprime Mortgage Crisis",
+                "Prices (Fares, Fees and Rates)",
+                "Mortgages",
+                "Presidential Election of 2020",
+                "Recession and Depression",
+                "Presidential Election of 2012",
+                "Interest Rates",
+                "Coronavirus (2019-nCoV)",
+                "Banking and Financial Institutions",
+                "Credit and Debt",
+                "United States Politics and Government",
+                "Inflation (Economics)",
+                "Suburbs",
+                "Immigration and Emigration",
+                "Community Reinvestment Act"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31View-illo-sub/31View-illo-sub-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1563,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo Illustration by Michael Waraksa"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31View-illo-sub/31View-illo-sub-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo Illustration by Michael Waraksa"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31View-illo-sub/31View-illo-sub-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo Illustration by Michael Waraksa"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31View-illo-sub/31View-illo-sub-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo Illustration by Michael Waraksa"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/business/31View-illo-sub/31View-illo-sub-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 145,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo Illustration by Michael Waraksa"
+                }
+            ],
+            "short_url": "https://nyti.ms/33aRQwS"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Contact Tracing Is Failing in Many States. Here’s Why.",
+            "abstract": "Inadequate testing and protracted delays in producing results have crippled tracking and hampered efforts to contain major outbreaks.",
+            "url": "https://www.nytimes.com/2020/07/31/health/covid-contact-tracing-tests.html",
+            "uri": "nyt://article/931b9b92-b02d-5482-88ec-5c7ae7ad8da7",
+            "byline": "By Jennifer Steinhauer and Abby Goodnough",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T10:07:03-04:00",
+            "created_date": "2020-07-31T05:00:29-04:00",
+            "published_date": "2020-07-31T05:00:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Contact Tracing (Public Health)",
+                "Tests (Medical)",
+                "Coronavirus (2019-nCoV)",
+                "States (US)",
+                "Medicine and Health",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Arizona",
+                "Austin (Tex)",
+                "California",
+                "Florida"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/merlin_173957862_3bc4680a-bae0-43db-bf6a-1888333bef2b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Contact tracing in an office at the Florida Department of Health in Miami-Dade County in May.",
+                    "copyright": "Lynne Sladky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Contact tracing in an office at the Florida Department of Health in Miami-Dade County in May.",
+                    "copyright": "Lynne Sladky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Contact tracing in an office at the Florida Department of Health in Miami-Dade County in May.",
+                    "copyright": "Lynne Sladky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Contact tracing in an office at the Florida Department of Health in Miami-Dade County in May.",
+                    "copyright": "Lynne Sladky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/merlin_173957862_3bc4680a-bae0-43db-bf6a-1888333bef2b-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Contact tracing in an office at the Florida Department of Health in Miami-Dade County in May.",
+                    "copyright": "Lynne Sladky/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/33cvxqQ"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "‘Hey, You Free on Friday for a Meeting and a Bank Heist?’",
+            "abstract": "Eager for an alternative to Zoom, executives are getting together in video games, to bond, brainstorm or rampage.",
+            "url": "https://www.nytimes.com/2020/07/31/business/video-game-meetings.html",
+            "uri": "nyt://article/0db8891f-db6b-5563-acd2-02b04028c75f",
+            "byline": "By David Segal",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T00:46:10-04:00",
+            "created_date": "2020-07-31T05:00:27-04:00",
+            "published_date": "2020-07-31T05:00:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computer and Video Games",
+                "Videophones and Videoconferencing",
+                "Animal Crossing: New Horizons (Video Game)",
+                "Minecraft (Video Game)",
+                "Red Dead Redemption 2 (Video Game)",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "MediaMonks BV",
+                "World Wildlife Fund",
+                "Zoom Video Communications"
+            ],
+            "per_facet": [
+                "Lee, Bruce"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1141,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Smithingham playing Grand Theft Auto with a client.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Smithingham playing Grand Theft Auto with a client.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Smithingham playing Grand Theft Auto with a client.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Smithingham playing Grand Theft Auto with a client.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 106,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mr. Smithingham playing Grand Theft Auto with a client.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/2ECKwQC"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "In Argentina’s Debt Negotiations, a Kinder, Gentler Capitalism Faces a Test",
+            "abstract": "BlackRock, the world’s largest asset management company, is opposing a debt settlement deal with Argentina as the country grapples with soaring poverty and the pandemic.",
+            "url": "https://www.nytimes.com/2020/07/31/business/argentina-debt.html",
+            "uri": "nyt://article/d17ccd55-1f40-5d5d-a5dc-28add3ed93ee",
+            "byline": "By Peter S. Goodman and Daniel Politi",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T11:42:57-04:00",
+            "created_date": "2020-07-31T05:00:27-04:00",
+            "published_date": "2020-07-31T05:00:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Economic Conditions and Trends",
+                "Government Bonds",
+                "Corporate Social Responsibility",
+                "Coronavirus (2019-nCoV)",
+                "Poverty"
+            ],
+            "org_facet": [
+                "BlackRock Inc",
+                "Gramercy Funds Management LLC",
+                "International Monetary Fund"
+            ],
+            "per_facet": [
+                "Fernandez, Alberto (1959- )",
+                "Fink, Laurence D",
+                "Georgieva, Kristalina Ivanova"
+            ],
+            "geo_facet": [
+                "Argentina"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPargentinadebt2-print/31argentinadebt-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shantytown in Buenos Aires. Poverty is soaring in Argentina as the coronavirus worsens a punishing economic downturn.",
+                    "copyright": "Alejandro Pagni/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPargentinadebt2-print/31argentinadebt-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shantytown in Buenos Aires. Poverty is soaring in Argentina as the coronavirus worsens a punishing economic downturn.",
+                    "copyright": "Alejandro Pagni/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPargentinadebt2-print/31argentinadebt-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shantytown in Buenos Aires. Poverty is soaring in Argentina as the coronavirus worsens a punishing economic downturn.",
+                    "copyright": "Alejandro Pagni/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPargentinadebt2-print/31argentinadebt-1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shantytown in Buenos Aires. Poverty is soaring in Argentina as the coronavirus worsens a punishing economic downturn.",
+                    "copyright": "Alejandro Pagni/Agence France-Presse &mdash; Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/business/31JPargentinadebt2-print/31argentinadebt-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 122,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A shantytown in Buenos Aires. Poverty is soaring in Argentina as the coronavirus worsens a punishing economic downturn.",
+                    "copyright": "Alejandro Pagni/Agence France-Presse &mdash; Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fgv2OH"
+        },
+        {
+            "section": "upshot",
+            "subsection": "",
+            "title": "Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong",
+            "abstract": "Experts have tips on the office routines that need to change when everyone’s working from home. Meetings, for one.",
+            "url": "https://www.nytimes.com/2020/07/31/upshot/remote-work-tips.html",
+            "uri": "nyt://article/7a0c470f-6a72-580b-ba02-4d76ed95475c",
+            "byline": "By Claire Cain Miller",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T04:27:57-04:00",
+            "created_date": "2020-07-31T05:00:22-04:00",
+            "published_date": "2020-07-31T05:00:22-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Telecommuting",
+                "Working Hours",
+                "Labor and Jobs",
+                "Work-Life Balance",
+                "Workplace Environment",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/upshot/31up-laptop1/merlin_132079076_044095ef-af9c-4f30-b8f5-6f6dfe447e7c-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In surveys, most people say that even when it’s safe for offices to reopen, they want to return only part of the time and continue working at home several days a week. ",
+                    "copyright": "Christie Hemm Klok for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/upshot/31up-laptop1/merlin_132079076_044095ef-af9c-4f30-b8f5-6f6dfe447e7c-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In surveys, most people say that even when it’s safe for offices to reopen, they want to return only part of the time and continue working at home several days a week. ",
+                    "copyright": "Christie Hemm Klok for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/upshot/31up-laptop1/merlin_132079076_044095ef-af9c-4f30-b8f5-6f6dfe447e7c-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In surveys, most people say that even when it’s safe for offices to reopen, they want to return only part of the time and continue working at home several days a week. ",
+                    "copyright": "Christie Hemm Klok for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/upshot/31up-laptop1/merlin_132079076_044095ef-af9c-4f30-b8f5-6f6dfe447e7c-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In surveys, most people say that even when it’s safe for offices to reopen, they want to return only part of the time and continue working at home several days a week. ",
+                    "copyright": "Christie Hemm Klok for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/upshot/31up-laptop1/merlin_132079076_044095ef-af9c-4f30-b8f5-6f6dfe447e7c-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "In surveys, most people say that even when it’s safe for offices to reopen, they want to return only part of the time and continue working at home several days a week. ",
+                    "copyright": "Christie Hemm Klok for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2DpilUp"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Does Trump Want to Save His Economy?",
+            "abstract": "The president is showing little urgency or strategy as the economic recovery stalls ahead of the November election.",
+            "url": "https://www.nytimes.com/2020/07/31/business/coronavirus-trump-economy.html",
+            "uri": "nyt://article/37487911-37d1-5c0a-853e-b17829a93b3b",
+            "byline": "By Jim Tankersley",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T11:35:53-04:00",
+            "created_date": "2020-07-31T05:00:21-04:00",
+            "published_date": "2020-07-31T05:00:21-04:00",
+            "material_type_facet": "",
+            "kicker": "news analysis",
+            "des_facet": [
+                "United States Economy",
+                "Stimulus (Economic)",
+                "Coronavirus Aid, Relief, and Economic Security Act (2020)",
+                "United States Politics and Government",
+                "Presidential Election of 2020",
+                "Unemployment",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/us/politics/31dc--virus-econassess/merlin_175135461_bf96bd8c-cccb-4e5a-9833-3cf703af48c0-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": " President Trump’s approach to recovery efforts for the ailing economy has confounded allies, foes and outside observers.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/us/politics/31dc--virus-econassess/merlin_175135461_bf96bd8c-cccb-4e5a-9833-3cf703af48c0-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": " President Trump’s approach to recovery efforts for the ailing economy has confounded allies, foes and outside observers.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/us/politics/31dc--virus-econassess/merlin_175135461_bf96bd8c-cccb-4e5a-9833-3cf703af48c0-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": " President Trump’s approach to recovery efforts for the ailing economy has confounded allies, foes and outside observers.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/us/politics/31dc--virus-econassess/merlin_175135461_bf96bd8c-cccb-4e5a-9833-3cf703af48c0-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": " President Trump’s approach to recovery efforts for the ailing economy has confounded allies, foes and outside observers.",
+                    "copyright": "Doug Mills/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/us/politics/31dc--virus-econassess/merlin_175135461_bf96bd8c-cccb-4e5a-9833-3cf703af48c0-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": " President Trump’s approach to recovery efforts for the ailing economy has confounded allies, foes and outside observers.",
+                    "copyright": "Doug Mills/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2D83gH7"
+        }
+    ]
+}
