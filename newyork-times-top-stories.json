@@ -1,0 +1,2798 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+    "section": "New York",
+    "last_updated": "2020-08-01T18:58:25-04:00",
+    "num_results": 34,
+    "results": [
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "New York Love Story: The Submarine Officer and the Beatles Cover Band",
+            "abstract": "A Columbia grad student, new to the city, lost his lease. So he organized the perfect send-off.",
+            "url": "https://www.nytimes.com/2020/07/30/nyregion/coronavirus-beatles-nyc.html",
+            "uri": "nyt://article/45ee04c1-d109-509f-8a09-c3251dc7f951",
+            "byline": "By Alex Vadukul",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T20:52:06-04:00",
+            "created_date": "2020-07-30T05:00:12-04:00",
+            "published_date": "2020-07-30T05:00:12-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Landlords"
+            ],
+            "org_facet": [
+                "Beatles, The",
+                "Columbia University",
+                "Dakota (Manhattan, NY, Apartments)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/nyregion/01nyrooftop-02/01nyrooftop-02-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ben Markham, a lifelong Beatles fan, hit on the idea of the rooftop concert after he realized how close he lived to the Dakota, where John Lennon lived and died.",
+                    "copyright": "Sara Naomi Lewkowicz for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/nyregion/01nyrooftop-02/01nyrooftop-02-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ben Markham, a lifelong Beatles fan, hit on the idea of the rooftop concert after he realized how close he lived to the Dakota, where John Lennon lived and died.",
+                    "copyright": "Sara Naomi Lewkowicz for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/nyregion/01nyrooftop-02/01nyrooftop-02-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ben Markham, a lifelong Beatles fan, hit on the idea of the rooftop concert after he realized how close he lived to the Dakota, where John Lennon lived and died.",
+                    "copyright": "Sara Naomi Lewkowicz for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/nyregion/01nyrooftop-02/01nyrooftop-02-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ben Markham, a lifelong Beatles fan, hit on the idea of the rooftop concert after he realized how close he lived to the Dakota, where John Lennon lived and died.",
+                    "copyright": "Sara Naomi Lewkowicz for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/nyregion/01nyrooftop-02/01nyrooftop-02-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ben Markham, a lifelong Beatles fan, hit on the idea of the rooftop concert after he realized how close he lived to the Dakota, where John Lennon lived and died.",
+                    "copyright": "Sara Naomi Lewkowicz for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3jNGG7n"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "$25,000 Pod Schools: How Well-to-Do Children Will Weather the Pandemic",
+            "abstract": "“This is our emergency fund,” said one parent considering a pod school. “And this is our emergency.”",
+            "url": "https://www.nytimes.com/2020/07/30/nyregion/pod-schools-hastings-on-hudson.html",
+            "uri": "nyt://article/150acc28-ee05-59e1-bf2e-d5d8b0dcc09b",
+            "byline": "By David Zweig",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T20:51:25-04:00",
+            "created_date": "2020-07-30T05:00:19-04:00",
+            "published_date": "2020-07-30T05:00:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Education (K-12)",
+                "Private and Sectarian Schools",
+                "Children and Childhood",
+                "Coronavirus (2019-nCoV)",
+                "Coronavirus Reopenings",
+                "Income Inequality"
+            ],
+            "org_facet": [
+                "Portfolio School (Manhattan, NY)",
+                "Hudson Lab School (Hastings-on-Hudson, NY)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Hastings-on-Hudson (NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/20/nyregion/nypodschools1/nypodschools1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A recent presentation on pod learning took place in a backyard in Hastings-on-Hudson, N.Y.",
+                    "copyright": "Gregg Vigliotti for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/20/nyregion/nypodschools1/nypodschools1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A recent presentation on pod learning took place in a backyard in Hastings-on-Hudson, N.Y.",
+                    "copyright": "Gregg Vigliotti for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/20/nyregion/nypodschools1/nypodschools1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A recent presentation on pod learning took place in a backyard in Hastings-on-Hudson, N.Y.",
+                    "copyright": "Gregg Vigliotti for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/20/nyregion/nypodschools1/nypodschools1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A recent presentation on pod learning took place in a backyard in Hastings-on-Hudson, N.Y.",
+                    "copyright": "Gregg Vigliotti for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/20/nyregion/nypodschools1/nypodschools1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A recent presentation on pod learning took place in a backyard in Hastings-on-Hudson, N.Y.",
+                    "copyright": "Gregg Vigliotti for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/338TEGU"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Should N.Y. Be Jailing Parolees for Minor Lapses During a Pandemic?",
+            "abstract": "On probation since 2018, Earl Russell was sent to Rikers for sleeping in his own bed instead of in the shelter where he was mandated to stay.",
+            "url": "https://www.nytimes.com/2020/07/31/nyregion/ny-parole-violations.html",
+            "uri": "nyt://article/9872c5b0-6015-5c99-905f-7de9e3d5b107",
+            "byline": "By Ginia Bellafante",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T05:00:16-04:00",
+            "created_date": "2020-07-31T05:00:16-04:00",
+            "published_date": "2020-07-31T05:00:16-04:00",
+            "material_type_facet": "",
+            "kicker": "BIG CITY",
+            "des_facet": [
+                "Probation and Parole",
+                "Coronavirus (2019-nCoV)",
+                "Prisons and Prisoners",
+                "Ex-Convicts"
+            ],
+            "org_facet": [
+                "Legal Aid Society",
+                "Vera Institute of Justice"
+            ],
+            "per_facet": [
+                "Schiraldi, Vincent N"
+            ],
+            "geo_facet": [
+                "New York State"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31big/merlin_170843811_2dfbdd8b-c335-4e25-a2d7-1d67e70a72e2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31big/31big-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31big/31big-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31big/merlin_170843811_2dfbdd8b-c335-4e25-a2d7-1d67e70a72e2-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dave Sanders for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31big/merlin_170843811_2dfbdd8b-c335-4e25-a2d7-1d67e70a72e2-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Dave Sanders for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fjBapo"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "How an Urban Flower Farmer Spends Her Sundays",
+            "abstract": "On a quest for sunlight and soil, Christina Clum approached Brooklyn residents about growing flowers in their yards. It worked.",
+            "url": "https://www.nytimes.com/2020/07/31/nyregion/urban-gardening-nyc.html",
+            "uri": "nyt://article/a39a9c02-ee1a-55d0-8bdb-d9577f097f8b",
+            "byline": "By Alyson Krueger",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T06:48:08-04:00",
+            "created_date": "2020-07-31T05:00:19-04:00",
+            "published_date": "2020-07-31T05:00:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Gardens and Gardening",
+                "Flowers and Plants",
+                "Agriculture and Farming"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Brooklyn (NYC)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-routine1/31nyvirus-routine1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Christina Clum, at work. ",
+                    "copyright": "Aundre Larrow for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-routine1/31nyvirus-routine1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Christina Clum, at work. ",
+                    "copyright": "Aundre Larrow for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-routine1/31nyvirus-routine1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Christina Clum, at work. ",
+                    "copyright": "Aundre Larrow for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-routine1/31nyvirus-routine1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Christina Clum, at work. ",
+                    "copyright": "Aundre Larrow for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-routine1/31nyvirus-routine1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Christina Clum, at work. ",
+                    "copyright": "Aundre Larrow for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fnVrdL"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Food Tourists Trickle In to New York’s Pandemic Dining Scene",
+            "abstract": "Visitors — as long as they don’t come from a quarantine state — are enjoying the city’s rooftop bars and sidewalk restaurants.",
+            "url": "https://www.nytimes.com/2020/07/30/nyregion/coronavirus-nyc-tourism-restaurants.html",
+            "uri": "nyt://article/fe2beb53-28b9-5ffa-8c14-1ffd36027625",
+            "byline": "By Alyson Krueger",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T11:27:45-04:00",
+            "created_date": "2020-07-30T05:00:15-04:00",
+            "published_date": "2020-07-30T05:00:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Travel and Vacations",
+                "Restaurants"
+            ],
+            "org_facet": [
+                "Bryant Park Grill",
+                "Gitano Garden of Love (Manhattan, NY, Restaurant)",
+                "Katz's Delicatessen (Manhattan, NY)",
+                "Grand Central Terminal (Manhattan, NY)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02REFER2/00nyvirus-touristfood-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bruna Borelli and her husband, Fabio Santos, foreground, and their friends, drove 12 hours from Michigan to take advantage of New York City’s open-air dining scene.",
+                    "copyright": "via Bruna Borelli"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02REFER2/00nyvirus-touristfood-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bruna Borelli and her husband, Fabio Santos, foreground, and their friends, drove 12 hours from Michigan to take advantage of New York City’s open-air dining scene.",
+                    "copyright": "via Bruna Borelli"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02REFER2/00nyvirus-touristfood-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bruna Borelli and her husband, Fabio Santos, foreground, and their friends, drove 12 hours from Michigan to take advantage of New York City’s open-air dining scene.",
+                    "copyright": "via Bruna Borelli"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02REFER2/00nyvirus-touristfood-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bruna Borelli and her husband, Fabio Santos, foreground, and their friends, drove 12 hours from Michigan to take advantage of New York City’s open-air dining scene.",
+                    "copyright": "via Bruna Borelli"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02REFER2/00nyvirus-touristfood-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 143,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Bruna Borelli and her husband, Fabio Santos, foreground, and their friends, drove 12 hours from Michigan to take advantage of New York City’s open-air dining scene.",
+                    "copyright": "via Bruna Borelli"
+                }
+            ],
+            "short_url": "https://nyti.ms/30TWqwI"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "How 2 New York Schools Became Models for Coping in a Pandemic",
+            "abstract": "Vulnerable children need creative solutions, educators say: “The entire system has missed something if they don’t rethink what the fall semester looks like.”",
+            "url": "https://www.nytimes.com/2020/07/31/nyregion/nyc-homeless-children-school.html",
+            "uri": "nyt://article/3b5e59b5-fcfe-5319-b451-dab70096e475",
+            "byline": "By Eliza Shapiro",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T12:26:40-04:00",
+            "created_date": "2020-07-31T05:00:14-04:00",
+            "published_date": "2020-07-31T05:00:14-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Shutdowns (Institutional)",
+                "Education (K-12)",
+                "Poverty",
+                "Children and Childhood",
+                "Coronavirus (2019-nCoV)",
+                "Quarantines",
+                "Parenting",
+                "Teachers and School Employees"
+            ],
+            "org_facet": [
+                "Mott Haven Academy Charter School",
+                "New York Foundling, The",
+                "Broome Street Academy (Manhattan, NY)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Mott Haven (Bronx, NY)",
+                "Manhattan (NYC)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/nyregion/00nyvirus-remotelearning1/00nyvirus-remotelearning1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jessica Nauiokas, principal of Mott Haven Academy in the Bronx, packed food to distribute.",
+                    "copyright": "Amr Alfiky/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/nyregion/00nyvirus-remotelearning1/00nyvirus-remotelearning1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jessica Nauiokas, principal of Mott Haven Academy in the Bronx, packed food to distribute.",
+                    "copyright": "Amr Alfiky/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/nyregion/00nyvirus-remotelearning1/00nyvirus-remotelearning1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jessica Nauiokas, principal of Mott Haven Academy in the Bronx, packed food to distribute.",
+                    "copyright": "Amr Alfiky/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/nyregion/00nyvirus-remotelearning1/00nyvirus-remotelearning1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jessica Nauiokas, principal of Mott Haven Academy in the Bronx, packed food to distribute.",
+                    "copyright": "Amr Alfiky/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/nyregion/00nyvirus-remotelearning1/00nyvirus-remotelearning1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jessica Nauiokas, principal of Mott Haven Academy in the Bronx, packed food to distribute.",
+                    "copyright": "Amr Alfiky/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3f9XstO"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "In Ultra-Wealthy Greenwich, Teen Parties Lead to Jump in Virus Cases",
+            "abstract": "Many of those exposed were seniors who had just finished their final year at two elite private schools.",
+            "url": "https://www.nytimes.com/2020/07/31/nyregion/greenwich-ct-coronavirus-covid-parties.html",
+            "uri": "nyt://article/077ee377-ed32-5455-857e-5cb82ac43dfa",
+            "byline": "By Mihir Zaveri",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T12:17:57-04:00",
+            "created_date": "2020-07-31T05:00:14-04:00",
+            "published_date": "2020-07-31T05:00:14-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Education (K-12)",
+                "Disease Rates",
+                "Coronavirus Reopenings",
+                "Parties (Social)",
+                "Youth",
+                "Teenagers and Adolescence",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "Greenwich Academy (Greenwich, Conn)",
+                "Brunswick School (Greenwich, Conn)"
+            ],
+            "per_facet": [
+                "Lamont, Ned",
+                "Reeves, Tate (1974- )"
+            ],
+            "geo_facet": [
+                "Connecticut",
+                "Greenwich (Conn)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31ctvirus-outbreaks1/31ctvirus-outbreaks1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1289,
+                    "width": 1934,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A party on boats in Stony Creek, Conn., which is about 60 miles east of Greenwich, that Gov. Ned Lamont said illustrated a growing problem with parties among teenagers and young adults. ",
+                    "copyright": "via The Office of Governor Ned Lamont"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31ctvirus-outbreaks1/31ctvirus-outbreaks1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A party on boats in Stony Creek, Conn., which is about 60 miles east of Greenwich, that Gov. Ned Lamont said illustrated a growing problem with parties among teenagers and young adults. ",
+                    "copyright": "via The Office of Governor Ned Lamont"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31ctvirus-outbreaks1/31ctvirus-outbreaks1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A party on boats in Stony Creek, Conn., which is about 60 miles east of Greenwich, that Gov. Ned Lamont said illustrated a growing problem with parties among teenagers and young adults. ",
+                    "copyright": "via The Office of Governor Ned Lamont"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31ctvirus-outbreaks1/31ctvirus-outbreaks1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A party on boats in Stony Creek, Conn., which is about 60 miles east of Greenwich, that Gov. Ned Lamont said illustrated a growing problem with parties among teenagers and young adults. ",
+                    "copyright": "via The Office of Governor Ned Lamont"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31ctvirus-outbreaks1/31ctvirus-outbreaks1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A party on boats in Stony Creek, Conn., which is about 60 miles east of Greenwich, that Gov. Ned Lamont said illustrated a growing problem with parties among teenagers and young adults. ",
+                    "copyright": "via The Office of Governor Ned Lamont"
+                }
+            ],
+            "short_url": "https://nyti.ms/313bjx4"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "About 20% of N.J. Prisoners Could Be Freed to Avoid Virus",
+            "abstract": "Believed to be the first Covid-19 bill of its kind, the legislation could free more than 3,000 New Jersey prisoners who are within a year of release.",
+            "url": "https://www.nytimes.com/2020/07/30/nyregion/New-jersey-inmate-release-Covid.html",
+            "uri": "nyt://article/3ae1126a-6542-506c-ad7f-639a5bc0fdaa",
+            "byline": "By Tracey Tully",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T09:29:27-04:00",
+            "created_date": "2020-07-30T05:00:27-04:00",
+            "published_date": "2020-07-30T05:00:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Prisons and Prisoners",
+                "Sentences (Criminal)",
+                "Law and Legislation",
+                "State Legislatures",
+                "Coronavirus (2019-nCoV)",
+                "Coronavirus Risks and Safety Concerns"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Murphy, Philip D (1957- )"
+            ],
+            "geo_facet": [
+                "New Jersey"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30njprisons1/merlin_175066893_6527394e-4370-4096-977d-14e2c9e363f7-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“He did not go there for a death sentence,” said Bernice Ferguson of Camden, N.J., whose son died of the coronavirus in prison custody. ",
+                    "copyright": "Hannah Yoon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30njprisons1/merlin_175066893_6527394e-4370-4096-977d-14e2c9e363f7-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“He did not go there for a death sentence,” said Bernice Ferguson of Camden, N.J., whose son died of the coronavirus in prison custody. ",
+                    "copyright": "Hannah Yoon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30njprisons1/merlin_175066893_6527394e-4370-4096-977d-14e2c9e363f7-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“He did not go there for a death sentence,” said Bernice Ferguson of Camden, N.J., whose son died of the coronavirus in prison custody. ",
+                    "copyright": "Hannah Yoon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30njprisons1/30njprisons1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“He did not go there for a death sentence,” said Bernice Ferguson of Camden, N.J., whose son died of the coronavirus in prison custody. ",
+                    "copyright": "Hannah Yoon for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30njprisons1/merlin_175066893_6527394e-4370-4096-977d-14e2c9e363f7-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "“He did not go there for a death sentence,” said Bernice Ferguson of Camden, N.J., whose son died of the coronavirus in prison custody. ",
+                    "copyright": "Hannah Yoon for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2XdJh0K"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Virus Cases Are Rising in N.J., Spurred by Young Partygoers at the Shore",
+            "abstract": "“The numbers are setting off alarms,” Gov. Philip Murphy said.",
+            "url": "https://www.nytimes.com/2020/07/30/nyregion/coronavirus-cases-nj.html",
+            "uri": "nyt://article/f3ab10cb-228e-5ba3-b2bc-9812fa94a659",
+            "byline": "By Tracey Tully",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T16:30:57-04:00",
+            "created_date": "2020-07-30T15:24:17-04:00",
+            "published_date": "2020-07-30T15:24:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Shutdowns (Institutional)",
+                "Parties (Social)",
+                "Quarantines",
+                "Coronavirus (2019-nCoV)",
+                "Disease Rates"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Murphy, Philip D (1957- )"
+            ],
+            "geo_facet": [
+                "New Jersey"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30njvirus-rise1/merlin_175018791_5e7f303a-d5fe-4b17-861e-fecaca3b5116-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New Jersey had recently recorded its lowest seven-day total since the worst of the outbreak in early April.",
+                    "copyright": "Theo Wargo/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30njvirus-rise1/30njvirus-rise1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New Jersey had recently recorded its lowest seven-day total since the worst of the outbreak in early April.",
+                    "copyright": "Theo Wargo/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30njvirus-rise1/30njvirus-rise1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New Jersey had recently recorded its lowest seven-day total since the worst of the outbreak in early April.",
+                    "copyright": "Theo Wargo/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30njvirus-rise1/30njvirus-rise1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New Jersey had recently recorded its lowest seven-day total since the worst of the outbreak in early April.",
+                    "copyright": "Theo Wargo/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30njvirus-rise1/merlin_175018791_5e7f303a-d5fe-4b17-861e-fecaca3b5116-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "New Jersey had recently recorded its lowest seven-day total since the worst of the outbreak in early April.",
+                    "copyright": "Theo Wargo/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hR9F8j"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "Homes That Sold for Around $600,000",
+            "abstract": "Recent residential sales in New York City and the region.",
+            "url": "https://www.nytimes.com/2020/08/02/realestate/homes-that-sold-for-around-600000.html",
+            "uri": "nyt://article/6b1a187b-c213-54d7-b811-e0c2d4df1e9f",
+            "byline": "By C. J. Hughes",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T05:00:09-04:00",
+            "created_date": "2020-08-02T05:00:09-04:00",
+            "published_date": "2020-08-02T05:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "What’s selling now",
+            "des_facet": [
+                "Real Estate and Housing (Residential)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Bay Ridge (Brooklyn, NY)",
+                "Mamaroneck (NY)",
+                "Valley Stream (NY)",
+                "West Orange (NJ)",
+                "Chelsea (Manhattan, NY)",
+                "Stamford (Conn)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/39MsU0d"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Is the Subway Risky? It May Be Safer Than You Think",
+            "abstract": "New studies in Europe and Asia suggest that riding public transportation is not a major source of transmission for the coronavirus.",
+            "url": "https://www.nytimes.com/2020/08/02/nyregion/nyc-subway-coronavirus-safety.html",
+            "uri": "nyt://article/24179a4c-5558-568f-8992-69bc2e9430e0",
+            "byline": "By Christina Goldbaum",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T07:23:14-04:00",
+            "created_date": "2020-08-02T03:00:08-04:00",
+            "published_date": "2020-08-02T03:00:08-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Transit Systems",
+                "Contact Tracing (Public Health)",
+                "Subways",
+                "Coronavirus Risks and Safety Concerns",
+                "Coronavirus (2019-nCoV)",
+                "Commuting",
+                "Masks",
+                "Buses"
+            ],
+            "org_facet": [
+                "Metropolitan Transportation Authority",
+                "Tri-State Transportation Campaign"
+            ],
+            "per_facet": [
+                "Foye, Patrick J",
+                "Marr, Linsey"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02nyvirus-subway/merlin_173243304_7c0db049-d11d-4e86-89b8-1fce3576fe5e-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ridership on the subway is still just 20 percent of pre-pandemic levels. Many commuters remain fearful of being exposed to the coronavirus.",
+                    "copyright": "Todd Heisler/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02nyvirus-subway/00nyvirus-mta1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ridership on the subway is still just 20 percent of pre-pandemic levels. Many commuters remain fearful of being exposed to the coronavirus.",
+                    "copyright": "Todd Heisler/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02nyvirus-subway/00nyvirus-mta1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ridership on the subway is still just 20 percent of pre-pandemic levels. Many commuters remain fearful of being exposed to the coronavirus.",
+                    "copyright": "Todd Heisler/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02nyvirus-subway/merlin_173243304_7c0db049-d11d-4e86-89b8-1fce3576fe5e-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ridership on the subway is still just 20 percent of pre-pandemic levels. Many commuters remain fearful of being exposed to the coronavirus.",
+                    "copyright": "Todd Heisler/The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02nyvirus-subway/merlin_173243304_7c0db049-d11d-4e86-89b8-1fce3576fe5e-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ridership on the subway is still just 20 percent of pre-pandemic levels. Many commuters remain fearful of being exposed to the coronavirus.",
+                    "copyright": "Todd Heisler/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3jWXmtb"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "‘As I Started to Walk Away, the Second Man Reached Out His Hand’",
+            "abstract": "Giving directions, a noisy Chinatown dining room and more reader tales of New York City in this week’s Metropolitan Diary.",
+            "url": "https://www.nytimes.com/2020/08/02/nyregion/metropolitan-diary.html",
+            "uri": "nyt://article/c7d21e07-ed12-54a1-a410-c02f62999606",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T03:00:06-04:00",
+            "created_date": "2020-08-02T03:00:06-04:00",
+            "published_date": "2020-08-02T03:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "METROPOLITAN DIARY",
+            "des_facet": [],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02diary-illos-04/02diary-illos-04-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1095,
+                    "width": 1121,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02diary-illos-04/02diary-illos-04-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02diary-illos-04/02diary-illos-04-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02diary-illos-04/02diary-illos-04-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/nyregion/02diary-illos-04/02diary-illos-04-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 183,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/33fDUBW"
+        },
+        {
+            "section": "at-home",
+            "subsection": "",
+            "title": "How to Stay Safer on Mass Transit",
+            "abstract": "Timing your trip strategically, using contactless payments and not eating onboard are some of the things to keep in mind.",
+            "url": "https://www.nytimes.com/2020/08/01/at-home/coronavirus-public-transportation-subway.html",
+            "uri": "nyt://article/f05db32e-9192-579b-ac2b-6946f260e684",
+            "byline": "By Katherine Cusumano",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T00:09:47-04:00",
+            "created_date": "2020-08-01T17:00:09-04:00",
+            "published_date": "2020-08-01T17:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Quarantine (Life and Culture)",
+                "Transportation",
+                "Commuting",
+                "Transit Systems",
+                "Coronavirus Risks and Safety Concerns",
+                "Subways",
+                "Buses"
+            ],
+            "org_facet": [
+                "Metropolitan Transportation Authority"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/multimedia/31ah-transportation1/31ah-transportation1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1378,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Wickens for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/multimedia/31ah-transportation1/31ah-transportation1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Wickens for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/multimedia/31ah-transportation1/31ah-transportation1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Wickens for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/multimedia/31ah-transportation1/31ah-transportation1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Wickens for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/multimedia/31ah-transportation1/31ah-transportation1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 128,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mark Wickens for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/30k8YP9"
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "Infections Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in July",
+            "abstract": "Thousands in Berlin protest Germany’s coronavirus measures. The virus is picking up speed in the Midwest. A summer camp in Georgia apologizes for hosting a retreat after hundreds who attended were infected.",
+            "url": "https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html",
+            "uri": "nyt://article/8b24f544-ea2e-59f4-a06b-34ab7a9f7a8a",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T07:23:15-04:00",
+            "created_date": "2020-08-01T08:00:07-04:00",
+            "published_date": "2020-08-01T08:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2D8Ek2l"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "The Coronavirus Infected Hundreds at a Georgia Summer Camp",
+            "abstract": "The camp took precautions but did not require campers to wear masks, the C.D.C. reported. Singing and cheering may have helped spread the virus.",
+            "url": "https://www.nytimes.com/2020/07/31/health/coronavirus-children-camp.html",
+            "uri": "nyt://article/a216dad1-e7b3-502b-9709-5e896a5552ce",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T15:42:16-04:00",
+            "created_date": "2020-07-31T18:36:52-04:00",
+            "published_date": "2020-07-31T18:36:52-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Camps and Camping",
+                "Masks",
+                "Disease Rates",
+                "Tests (Medical)",
+                "Coronavirus (2019-nCoV)",
+                "Youth"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Georgia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Barwick/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/science/31virus-camp01/31virus-camp01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Barwick/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/science/31virus-camp01/31virus-camp01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Barwick/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Barwick/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Thomas Barwick/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2PfUQjE"
+        },
+        {
+            "section": "obituaries",
+            "subsection": "",
+            "title": "Overlooked No More: Roland Johnson, Who Fought to Shut Down Institutions for the Disabled",
+            "abstract": "He survived 13 years of neglect and abuse, including sexual assault, at the notorious Pennhurst State School and Hospital outside Philadelphia before emerging as a champion for the disabled.",
+            "url": "https://www.nytimes.com/2020/07/31/obituaries/roland-johnson-overlooked.html",
+            "uri": "nyt://article/b4c29bc2-1101-54ac-863d-3ad21f69f26b",
+            "byline": "By Glenn Rifkin",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T10:41:19-04:00",
+            "created_date": "2020-07-31T15:06:29-04:00",
+            "published_date": "2020-07-31T15:06:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Intellectual Disabilities",
+                "Abuse of the Disabled",
+                "Americans With Disabilities Act",
+                "Biographical Information"
+            ],
+            "org_facet": [
+                "Pennhurst State School and Hospital"
+            ],
+            "per_facet": [
+                "Johnson, Roland (1945-94)"
+            ],
+            "geo_facet": [
+                "Pennsylvania"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1518,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Roland Johnson in 1963. By speaking up about the horrors he endured at a state-run hospital for the disabled, he was at the forefront of an emerging self-advocacy movement.",
+                    "copyright": "via the Johnson family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Roland Johnson in 1963. By speaking up about the horrors he endured at a state-run hospital for the disabled, he was at the forefront of an emerging self-advocacy movement.",
+                    "copyright": "via the Johnson family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Roland Johnson in 1963. By speaking up about the horrors he endured at a state-run hospital for the disabled, he was at the forefront of an emerging self-advocacy movement.",
+                    "copyright": "via the Johnson family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Roland Johnson in 1963. By speaking up about the horrors he endured at a state-run hospital for the disabled, he was at the forefront of an emerging self-advocacy movement.",
+                    "copyright": "via the Johnson family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 256,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Roland Johnson in 1963. By speaking up about the horrors he endured at a state-run hospital for the disabled, he was at the forefront of an emerging self-advocacy movement.",
+                    "copyright": "via the Johnson family"
+                }
+            ],
+            "short_url": "https://nyti.ms/2BLiv8g"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "Nello, Beloved by Rich New Yorkers, Is Dinged Over Illicit Indoor Dining",
+            "abstract": "The Upper East Side restaurant was accused of serving eight people inside, violating New York’s orders.",
+            "url": "https://www.nytimes.com/2020/07/31/nyregion/nello-liquor-license-suspended.html",
+            "uri": "nyt://article/72377d0f-a6b1-57d9-add5-d0ad6cbcd771",
+            "byline": "By Michael Gold",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T20:53:09-04:00",
+            "created_date": "2020-07-31T14:29:49-04:00",
+            "published_date": "2020-07-31T14:29:49-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Shutdowns (Institutional)",
+                "Restaurants",
+                "Masks",
+                "Alcoholic Beverages",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "Nello (NYC Restaurant)",
+                "State Liquor Authority"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Manhattan (NYC)",
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-nello1/merlin_172222647_72b09bf1-f9b6-411d-b2a5-dd757d1e99c0-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1381,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Giant teddy bears were used to promote mask-wearing at Nello in Manhattan. ",
+                    "copyright": "Pamela Hassell/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-nello1/31nyvirus-nello1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Giant teddy bears were used to promote mask-wearing at Nello in Manhattan. ",
+                    "copyright": "Pamela Hassell/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-nello1/31nyvirus-nello1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Giant teddy bears were used to promote mask-wearing at Nello in Manhattan. ",
+                    "copyright": "Pamela Hassell/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-nello1/31nyvirus-nello1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Giant teddy bears were used to promote mask-wearing at Nello in Manhattan. ",
+                    "copyright": "Pamela Hassell/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-nello1/merlin_172222647_72b09bf1-f9b6-411d-b2a5-dd757d1e99c0-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 128,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Giant teddy bears were used to promote mask-wearing at Nello in Manhattan. ",
+                    "copyright": "Pamela Hassell/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/39JkxSZ"
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "A $600-a-Week Lifeline for Unemployed Americans Expires After an Impasse in Washington",
+            "abstract": "California became the first state to reach 500,000 total coronavirus cases. Once the site of a major outbreak, Italy now offers lessons for keeping the virus in check.",
+            "url": "https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html",
+            "uri": "nyt://article/40bf777f-080f-52eb-b4b9-27d0fbda67ef",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T05:30:22-04:00",
+            "created_date": "2020-07-31T05:32:41-04:00",
+            "published_date": "2020-07-31T05:32:41-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CW4m96"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "On a Hot Day, 96,000 New Yorkers Are Asked to Conserve Power",
+            "abstract": "Over the past month, New Yorkers have been urged  to limit air-conditioning use in an effort to prevent blackouts and brownouts. ",
+            "url": "https://www.nytimes.com/2020/07/31/nyregion/nyc-power-con-edison.html",
+            "uri": "nyt://article/fc75d9d5-7c49-5600-a55e-7239374dc4ab",
+            "byline": "By Juliana Kim",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T05:39:27-04:00",
+            "created_date": "2020-07-31T05:15:25-04:00",
+            "published_date": "2020-07-31T05:15:25-04:00",
+            "material_type_facet": "",
+            "kicker": "New York Today",
+            "des_facet": [
+                "Power Failures and Blackouts",
+                "Weather",
+                "Air Conditioning"
+            ],
+            "org_facet": [
+                "Consolidated Edison Inc"
+            ],
+            "per_facet": [
+                "de Blasio, Bill"
+            ],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nytoday/31nytoday-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kathy Willens/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nytoday/31nytoday-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kathy Willens/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nytoday/31nytoday-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kathy Willens/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nytoday/31nytoday-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kathy Willens/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/nyregion/31nytoday/31nytoday-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Kathy Willens/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/2PbJHjI"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "A Rockaway Life",
+            "abstract": "Rockaway Beach has a land’s-end bacchanalian spirit, but it is also a place where you can get to know people just by being there.",
+            "url": "https://www.nytimes.com/2020/07/31/realestate/a-rockaway-beach-queens-life.html",
+            "uri": "nyt://article/b12718c0-4910-5a6c-9dc5-3dc5c1e9f9fa",
+            "byline": "By Diane Cardwell",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T05:29:21-04:00",
+            "created_date": "2020-07-31T05:00:41-04:00",
+            "published_date": "2020-07-31T05:00:41-04:00",
+            "material_type_facet": "",
+            "kicker": "Domestic Lives",
+            "des_facet": [
+                "Real Estate and Housing (Residential)",
+                "Surfing",
+                "Area Planning and Renewal",
+                "Summer (Season)",
+                "Oceans and Seas",
+                "Quarantine (Life and Culture)",
+                "Beaches"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Cardwell, Diane"
+            ],
+            "geo_facet": [
+                "Far Rockaway (Queens, NY)",
+                "Rockaway Beach (Queens, NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/31DOMESTIC-ROCKAWAY-slide-OJH5/31DOMESTIC-ROCKAWAY-slide-OJH5-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stefano Ukmar for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/31DOMESTIC-ROCKAWAY-slide-OJH5/31DOMESTIC-ROCKAWAY-slide-OJH5-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stefano Ukmar for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/31DOMESTIC-ROCKAWAY-slide-OJH5/31DOMESTIC-ROCKAWAY-slide-OJH5-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stefano Ukmar for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/31DOMESTIC-ROCKAWAY-slide-OJH5/31DOMESTIC-ROCKAWAY-slide-OJH5-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stefano Ukmar for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/31DOMESTIC-ROCKAWAY-slide-OJH5/31DOMESTIC-ROCKAWAY-slide-OJH5-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stefano Ukmar for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2DmtwgV"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Contact Tracing Is Failing in Many States. Here’s Why.",
+            "abstract": "Inadequate testing and protracted delays in producing results have crippled tracking and hampered efforts to contain major outbreaks.",
+            "url": "https://www.nytimes.com/2020/07/31/health/covid-contact-tracing-tests.html",
+            "uri": "nyt://article/931b9b92-b02d-5482-88ec-5c7ae7ad8da7",
+            "byline": "By Jennifer Steinhauer and Abby Goodnough",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T10:07:03-04:00",
+            "created_date": "2020-07-31T05:00:29-04:00",
+            "published_date": "2020-07-31T05:00:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Contact Tracing (Public Health)",
+                "Tests (Medical)",
+                "Coronavirus (2019-nCoV)",
+                "States (US)",
+                "Medicine and Health",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Arizona",
+                "Austin (Tex)",
+                "California",
+                "Florida"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/merlin_173957862_3bc4680a-bae0-43db-bf6a-1888333bef2b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Contact tracing in an office at the Florida Department of Health in Miami-Dade County in May.",
+                    "copyright": "Lynne Sladky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Contact tracing in an office at the Florida Department of Health in Miami-Dade County in May.",
+                    "copyright": "Lynne Sladky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Contact tracing in an office at the Florida Department of Health in Miami-Dade County in May.",
+                    "copyright": "Lynne Sladky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Contact tracing in an office at the Florida Department of Health in Miami-Dade County in May.",
+                    "copyright": "Lynne Sladky/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/merlin_173957862_3bc4680a-bae0-43db-bf6a-1888333bef2b-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Contact tracing in an office at the Florida Department of Health in Miami-Dade County in May.",
+                    "copyright": "Lynne Sladky/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/33cvxqQ"
+        },
+        {
+            "section": "arts",
+            "subsection": "design",
+            "title": "American Museum of Natural History Announces September Reopening",
+            "abstract": "The museum said it is planning to reopen on Sept. 9, pending permission from state and city officials.",
+            "url": "https://www.nytimes.com/2020/07/30/arts/design/american-museum-of-natural-history-reopen-covid.html",
+            "uri": "nyt://article/20f248b6-9e47-57a5-93cc-0cd963bce41f",
+            "byline": "By Sarah Bahr",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T00:25:29-04:00",
+            "created_date": "2020-07-30T14:36:38-04:00",
+            "published_date": "2020-07-30T14:36:38-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Museums",
+                "Coronavirus Reopenings"
+            ],
+            "org_facet": [
+                "American Museum of Natural History"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/arts/30amnh-item/merlin_160099131_78da8533-6717-4533-838c-d3d0823968d7-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The American Museum of Natural History has announced plans to reopen with limited capacity and Covid-19 protocols in place.",
+                    "copyright": "Benjamin Norman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/arts/30amnh-item/30amnh-item-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The American Museum of Natural History has announced plans to reopen with limited capacity and Covid-19 protocols in place.",
+                    "copyright": "Benjamin Norman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/arts/30amnh-item/30amnh-item-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The American Museum of Natural History has announced plans to reopen with limited capacity and Covid-19 protocols in place.",
+                    "copyright": "Benjamin Norman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/arts/30amnh-item/merlin_160099131_78da8533-6717-4533-838c-d3d0823968d7-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The American Museum of Natural History has announced plans to reopen with limited capacity and Covid-19 protocols in place.",
+                    "copyright": "Benjamin Norman for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/arts/30amnh-item/merlin_160099131_78da8533-6717-4533-838c-d3d0823968d7-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The American Museum of Natural History has announced plans to reopen with limited capacity and Covid-19 protocols in place.",
+                    "copyright": "Benjamin Norman for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hSiCya"
+        },
+        {
+            "section": "obituaries",
+            "subsection": "",
+            "title": "Waldemar Gonzalez, Social Worker Who Drew on His Own Hard Life, Dies at 72",
+            "abstract": "He grew up with an abusive father and carried that pain into adulthood before becoming ‘Dad 2.0.’ He died of the coronavirus.",
+            "url": "https://www.nytimes.com/2020/07/30/obituaries/waldemar-gonzalez-dead-coronavirus.html",
+            "uri": "nyt://article/471de05b-5d7c-5f83-aa5d-0c0bad93c5fb",
+            "byline": "By John Leland",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T22:35:08-04:00",
+            "created_date": "2020-07-30T14:24:37-04:00",
+            "published_date": "2020-07-30T14:24:37-04:00",
+            "material_type_facet": "",
+            "kicker": "Those We’ve Lost",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Coronavirus (2019-nCoV)",
+                "Education (K-12)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Gonzalez, Waldemar (1948-2020)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/28Gonzalez/merlin_175002771_beb57888-3951-409a-ae13-03a94b2e962e-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1700,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Waldemar Gonzalez was a social worker and educator.",
+                    "copyright": "Judith Gonzalez"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/28Gonzalez/merlin_175002771_beb57888-3951-409a-ae13-03a94b2e962e-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Waldemar Gonzalez was a social worker and educator.",
+                    "copyright": "Judith Gonzalez"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/28Gonzalez/merlin_175002771_beb57888-3951-409a-ae13-03a94b2e962e-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Waldemar Gonzalez was a social worker and educator.",
+                    "copyright": "Judith Gonzalez"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/28Gonzalez/merlin_175002771_beb57888-3951-409a-ae13-03a94b2e962e-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Waldemar Gonzalez was a social worker and educator.",
+                    "copyright": "Judith Gonzalez"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/28Gonzalez/merlin_175002771_beb57888-3951-409a-ae13-03a94b2e962e-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 158,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Waldemar Gonzalez was a social worker and educator.",
+                    "copyright": "Judith Gonzalez"
+                }
+            ],
+            "short_url": "https://nyti.ms/3jW15ak"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "U.S. Backs Down, Allowing Michael Cohen to Write Trump Tell-All Book",
+            "abstract": "Mr. Cohen, the president’s former lawyer, had been returned to prison in a dispute over the book, then released after a judge intervened.",
+            "url": "https://www.nytimes.com/2020/07/30/nyregion/michael-cohen-donald-trump-book.html",
+            "uri": "nyt://article/a3a9f48e-9452-5cbf-bd95-0e14b3dcb85c",
+            "byline": "By Benjamin Weiser",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T06:13:08-04:00",
+            "created_date": "2020-07-30T14:23:46-04:00",
+            "published_date": "2020-07-30T14:23:46-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Decisions and Verdicts",
+                "Books and Literature",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Federal Bureau of Prisons"
+            ],
+            "per_facet": [
+                "Cohen, Michael D (1966- )",
+                "Trump, Donald J",
+                "Hellerstein, Alvin K"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30cohen/30cohen-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A judge ruled last Thursday that the decision to return Michael D. Cohen, center, to prison amounted to retaliation by the government.",
+                    "copyright": "Brendan Mcdermid/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30cohen/30cohen-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A judge ruled last Thursday that the decision to return Michael D. Cohen, center, to prison amounted to retaliation by the government.",
+                    "copyright": "Brendan Mcdermid/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30cohen/30cohen-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A judge ruled last Thursday that the decision to return Michael D. Cohen, center, to prison amounted to retaliation by the government.",
+                    "copyright": "Brendan Mcdermid/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30cohen/30cohen-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A judge ruled last Thursday that the decision to return Michael D. Cohen, center, to prison amounted to retaliation by the government.",
+                    "copyright": "Brendan Mcdermid/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30cohen/30cohen-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A judge ruled last Thursday that the decision to return Michael D. Cohen, center, to prison amounted to retaliation by the government.",
+                    "copyright": "Brendan Mcdermid/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CWFOwG"
+        },
+        {
+            "section": "obituaries",
+            "subsection": "",
+            "title": "Hugh Freyer, Poker Player With Discretion of a Banker, Dies at 86",
+            "abstract": "A son of immigrants, he became a private banker in New York and was also devoted to helping recovering alcoholics. He died of the novel coronavirus.",
+            "url": "https://www.nytimes.com/2020/07/30/obituaries/hugh-freyer-dead-coronavirus.html",
+            "uri": "nyt://article/df395a27-8be7-5ccd-b4ed-389956e872dc",
+            "byline": "By Sam Roberts",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T22:37:13-04:00",
+            "created_date": "2020-07-30T12:15:39-04:00",
+            "published_date": "2020-07-30T12:15:39-04:00",
+            "material_type_facet": "",
+            "kicker": "Those We’ve Lost",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Coronavirus (2019-nCoV)",
+                "Banking and Financial Institutions"
+            ],
+            "org_facet": [
+                "Alcoholics Anonymous"
+            ],
+            "per_facet": [
+                "Freyer, Hugh P (1934-2020)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/29Freyer/merlin_175076790_27a264f5-6f02-4847-bf82-91875488dad8-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1869,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hugh Freyer combined the discretion of a banker, the prudence of a conservative poker player and the self-discipline of a recovering alcoholic.",
+                    "copyright": "via Freyer family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/29Freyer/merlin_175076790_27a264f5-6f02-4847-bf82-91875488dad8-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hugh Freyer combined the discretion of a banker, the prudence of a conservative poker player and the self-discipline of a recovering alcoholic.",
+                    "copyright": "via Freyer family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/29Freyer/merlin_175076790_27a264f5-6f02-4847-bf82-91875488dad8-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hugh Freyer combined the discretion of a banker, the prudence of a conservative poker player and the self-discipline of a recovering alcoholic.",
+                    "copyright": "via Freyer family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/29Freyer/merlin_175076790_27a264f5-6f02-4847-bf82-91875488dad8-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hugh Freyer combined the discretion of a banker, the prudence of a conservative poker player and the self-discipline of a recovering alcoholic.",
+                    "copyright": "via Freyer family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/29Freyer/merlin_175076790_27a264f5-6f02-4847-bf82-91875488dad8-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 173,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Hugh Freyer combined the discretion of a banker, the prudence of a conservative poker player and the self-discipline of a recovering alcoholic.",
+                    "copyright": "via Freyer family"
+                }
+            ],
+            "short_url": "https://nyti.ms/30eOQhf"
+        },
+        {
+            "section": "arts",
+            "subsection": "",
+            "title": "7 Things to Do This Weekend",
+            "abstract": "How can you get your cultural fix when many arts institutions remain closed? Our writers offer suggestions for what to listen to and watch.",
+            "url": "https://www.nytimes.com/2020/07/30/arts/things-to-do-weekend-coronavirus.html",
+            "uri": "nyt://article/2e30325d-4373-5cd0-8ada-16960b66c66f",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T13:02:25-04:00",
+            "created_date": "2020-07-30T12:08:03-04:00",
+            "published_date": "2020-07-30T12:08:03-04:00",
+            "material_type_facet": "",
+            "kicker": "Weekend Roundup",
+            "des_facet": [
+                "Art",
+                "Dancing",
+                "Music",
+                "Museums",
+                "Pop and Rock Music",
+                "Quilts",
+                "Classical Music",
+                "Podcasts",
+                "Children and Childhood",
+                "Theater",
+                "Comedy and Humor",
+                "Quarantine (Life and Culture)",
+                "The Lion King: The Gift (Album)",
+                "Black Is King (Movie)"
+            ],
+            "org_facet": [
+                "Cunningham, Merce, Dance Co",
+                "Disney Plus",
+                "Green-Wood Cemetery (Brooklyn, NY)",
+                "HBO Max",
+                "Katonah Museum of Art",
+                "Roulette (Brooklyn, NY, Performance Space)"
+            ],
+            "per_facet": [
+                "Bartelme, Reid",
+                "Bazawule, Blitz",
+                "Bell, Gelsey",
+                "Campbell, Naomi",
+                "Ferver, Jack",
+                "Gulman, Gary",
+                "Joyce, Molly (1992- )",
+                "Knowles, Beyonce",
+                "Mitchell, Rashaun",
+                "Nyong'o, Lupita",
+                "Solomons, Gus Jr",
+                "Williams, Pharrell"
+            ],
+            "geo_facet": [
+                "Sunset Park (Brooklyn, NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/arts/30wkd-arts-roundup-pop/merlin_175066431_37817126-f8c9-4f9b-a5ee-e748d85b1972-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Beyoncé in a scene from “Black Is King,” her latest visual album. It debuts Friday on Disney+.",
+                    "copyright": "Travis Matthews"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/arts/30wkd-arts-roundup-pop/30wkd-arts-roundup-pop-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Beyoncé in a scene from “Black Is King,” her latest visual album. It debuts Friday on Disney+.",
+                    "copyright": "Travis Matthews"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/arts/30wkd-arts-roundup-pop/30wkd-arts-roundup-pop-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Beyoncé in a scene from “Black Is King,” her latest visual album. It debuts Friday on Disney+.",
+                    "copyright": "Travis Matthews"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/arts/30wkd-arts-roundup-pop/30wkd-arts-roundup-pop-mediumThreeByTwo210-v3.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Beyoncé in a scene from “Black Is King,” her latest visual album. It debuts Friday on Disney+.",
+                    "copyright": "Travis Matthews"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/arts/30wkd-arts-roundup-pop/merlin_175066431_37817126-f8c9-4f9b-a5ee-e748d85b1972-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Beyoncé in a scene from “Black Is King,” her latest visual album. It debuts Friday on Disney+.",
+                    "copyright": "Travis Matthews"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ffPijF"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Children May Carry Coronavirus at High Levels, Study Finds",
+            "abstract": "The research does not prove that infected children are contagious, but it should influence the debate about reopening schools, some experts said.",
+            "url": "https://www.nytimes.com/2020/07/30/health/coronavirus-children.html",
+            "uri": "nyt://article/c64e43af-9f3b-5e68-bbea-bcbc3d110e32",
+            "byline": "By Apoorva Mandavilli",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T21:51:20-04:00",
+            "created_date": "2020-07-30T11:04:17-04:00",
+            "published_date": "2020-07-30T11:04:17-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Coronavirus Reopenings",
+                "Tests (Medical)",
+                "Coronavirus (2019-nCoV)",
+                "Children and Childhood",
+                "Teachers and School Employees",
+                "Education (K-12)",
+                "Coronavirus Risks and Safety Concerns",
+                "Research",
+                "RNA (Ribonucleic Acid)"
+            ],
+            "org_facet": [
+                "JAMA Pediatrics (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/science/30VIRUS-CHILDREN1/30VIRUS-CHILDREN1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Coronavirus testing at a mobile clinic at the Walker Temple A.M.E. Church in south Los Angeles earlier this month.",
+                    "copyright": "Mario Tama/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/science/30VIRUS-CHILDREN1/30VIRUS-CHILDREN1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Coronavirus testing at a mobile clinic at the Walker Temple A.M.E. Church in south Los Angeles earlier this month.",
+                    "copyright": "Mario Tama/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/science/30VIRUS-CHILDREN1/30VIRUS-CHILDREN1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Coronavirus testing at a mobile clinic at the Walker Temple A.M.E. Church in south Los Angeles earlier this month.",
+                    "copyright": "Mario Tama/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/science/30VIRUS-CHILDREN1/30VIRUS-CHILDREN1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Coronavirus testing at a mobile clinic at the Walker Temple A.M.E. Church in south Los Angeles earlier this month.",
+                    "copyright": "Mario Tama/Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/science/30VIRUS-CHILDREN1/30VIRUS-CHILDREN1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 121,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Coronavirus testing at a mobile clinic at the Walker Temple A.M.E. Church in south Los Angeles earlier this month.",
+                    "copyright": "Mario Tama/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3f9oeCp"
+        },
+        {
+            "section": "arts",
+            "subsection": "design",
+            "title": "Three Art Gallery Shows to See Right Now",
+            "abstract": "Galleries and museums are getting creative about presenting work online during the pandemic. Some are open for in-person visits. Here are shows worth viewing either way.",
+            "url": "https://www.nytimes.com/2020/07/30/arts/design/virtual-art-gallery-shows.html",
+            "uri": "nyt://article/591dce47-4622-5843-afdc-5054dc21ff00",
+            "byline": "By Roberta Smith, Jillian Steinhauer and Martha Schwendener",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T05:29:19-04:00",
+            "created_date": "2020-07-30T10:52:29-04:00",
+            "published_date": "2020-07-30T10:52:29-04:00",
+            "material_type_facet": "",
+            "kicker": "Art Reviews",
+            "des_facet": [
+                "Art"
+            ],
+            "org_facet": [
+                "Ulterior Gallery (Manhattan, NY)",
+                "Talwar Gallery (Manhattan, NY)",
+                "Malin Gallery (Manhattan, NY)"
+            ],
+            "per_facet": [
+                "Mohamedi, Nasreen",
+                "Tsutaja, Gaku",
+                "Maier, Sylvia"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/arts/29virtual-galleries-lead/merlin_174905502_0dcea2b2-ee85-4661-ae03-07d1eba099ba-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1447,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nasreen Mohamedi’s “Untitled” (circa 1960), an ink, graphite and watercolor work included in the exhibition “Pull With a Direction” at Talwar Gallery.",
+                    "copyright": "Nasreen Mohamedi, via the artist's estate and Talwar Gallery"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/arts/29virtual-galleries-lead/merlin_174905502_0dcea2b2-ee85-4661-ae03-07d1eba099ba-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nasreen Mohamedi’s “Untitled” (circa 1960), an ink, graphite and watercolor work included in the exhibition “Pull With a Direction” at Talwar Gallery.",
+                    "copyright": "Nasreen Mohamedi, via the artist's estate and Talwar Gallery"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/arts/29virtual-galleries-lead/merlin_174905502_0dcea2b2-ee85-4661-ae03-07d1eba099ba-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nasreen Mohamedi’s “Untitled” (circa 1960), an ink, graphite and watercolor work included in the exhibition “Pull With a Direction” at Talwar Gallery.",
+                    "copyright": "Nasreen Mohamedi, via the artist's estate and Talwar Gallery"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/arts/29virtual-galleries-lead/merlin_174905502_0dcea2b2-ee85-4661-ae03-07d1eba099ba-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nasreen Mohamedi’s “Untitled” (circa 1960), an ink, graphite and watercolor work included in the exhibition “Pull With a Direction” at Talwar Gallery.",
+                    "copyright": "Nasreen Mohamedi, via the artist's estate and Talwar Gallery"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/arts/29virtual-galleries-lead/merlin_174905502_0dcea2b2-ee85-4661-ae03-07d1eba099ba-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 134,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Nasreen Mohamedi’s “Untitled” (circa 1960), an ink, graphite and watercolor work included in the exhibition “Pull With a Direction” at Talwar Gallery.",
+                    "copyright": "Nasreen Mohamedi, via the artist's estate and Talwar Gallery"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hKrqGm"
+        },
+        {
+            "section": "dining",
+            "subsection": "",
+            "title": "A Harlem Restaurant That’s Withstood Gentrification, a Pandemic and Time",
+            "abstract": "Long lines are still forming at Famous Fish Market, a Black-owned business that’s been in the same family for nearly 50 years.",
+            "url": "https://www.nytimes.com/2020/07/30/dining/famous-fish-market-harlem.html",
+            "uri": "nyt://article/84e70402-34fe-59d6-9545-9ddcabc9f6c2",
+            "byline": "By Kayla Stewart",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T11:43:38-04:00",
+            "created_date": "2020-07-30T10:39:19-04:00",
+            "published_date": "2020-07-30T10:39:19-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Restaurants",
+                "Seafood",
+                "Black People",
+                "Food"
+            ],
+            "org_facet": [
+                "Famous Fish Market Inc (Manhattan, NY, Restaurant)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Harlem (Manhattan, NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/05/dining/05fishmarket1/05fishmarket1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1492,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Famous Fish Market in Harlem has been in Sterling Eric Strickland’s family for 46 years. Mr. Strickland, right, who goes by Eric, runs the restaurant with his wife, Viola. ",
+                    "copyright": "Lelanie Foster for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/05/dining/05fishmarket1/05fishmarket1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Famous Fish Market in Harlem has been in Sterling Eric Strickland’s family for 46 years. Mr. Strickland, right, who goes by Eric, runs the restaurant with his wife, Viola. ",
+                    "copyright": "Lelanie Foster for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/05/dining/05fishmarket1/05fishmarket1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Famous Fish Market in Harlem has been in Sterling Eric Strickland’s family for 46 years. Mr. Strickland, right, who goes by Eric, runs the restaurant with his wife, Viola. ",
+                    "copyright": "Lelanie Foster for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/05/dining/05fishmarket1/05fishmarket1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Famous Fish Market in Harlem has been in Sterling Eric Strickland’s family for 46 years. Mr. Strickland, right, who goes by Eric, runs the restaurant with his wife, Viola. ",
+                    "copyright": "Lelanie Foster for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/05/dining/05fishmarket1/05fishmarket1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 253,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Famous Fish Market in Harlem has been in Sterling Eric Strickland’s family for 46 years. Mr. Strickland, right, who goes by Eric, runs the restaurant with his wife, Viola. ",
+                    "copyright": "Lelanie Foster for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/33g3BT3"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "Homes for Sale in New York and New Jersey",
+            "abstract": "This week’s properties are four-bedroom homes in Old Westbury, N.Y., and Crosswicks, N.J.",
+            "url": "https://www.nytimes.com/2020/07/30/realestate/homes-for-sale-in-new-york-and-new-jersey.html",
+            "uri": "nyt://article/c9f93052-27f6-5a7b-83db-dd465af3e9bd",
+            "byline": "By Claudia Gryvatz Copquin and Jill P. Capuzzo",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T01:44:53-04:00",
+            "created_date": "2020-07-30T09:00:35-04:00",
+            "published_date": "2020-07-30T09:00:35-04:00",
+            "material_type_facet": "",
+            "kicker": "On the Market",
+            "des_facet": [
+                "Real Estate and Housing (Residential)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Old Westbury (NY)",
+                "New Jersey"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/realestate/30OTM-REG-slide-3I97/30OTM-REG-slide-3I97-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tim Hill Photo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/realestate/30OTM-REG-slide-3I97/30OTM-REG-slide-3I97-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tim Hill Photo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/realestate/30OTM-REG-slide-3I97/30OTM-REG-slide-3I97-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tim Hill Photo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/realestate/30OTM-REG-slide-3I97/30OTM-REG-slide-3I97-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tim Hill Photo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/realestate/30OTM-REG-slide-3I97/30OTM-REG-slide-3I97-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Tim Hill Photo"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hTxGMi"
+        },
+        {
+            "section": "realestate",
+            "subsection": "",
+            "title": "Homes for Sale in Brooklyn, Manhattan and the Bronx",
+            "abstract": "This week’s properties are on in Cobble Hill, Greenwich Village and on the Grand Concourse.",
+            "url": "https://www.nytimes.com/2020/07/30/realestate/homes-for-sale-in-brooklyn-manhattan-and-the-bronx.html",
+            "uri": "nyt://article/0bc17856-8cf0-5609-921a-9b0194784cfb",
+            "byline": "By Stefanos Chen",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T01:44:53-04:00",
+            "created_date": "2020-07-30T09:00:34-04:00",
+            "published_date": "2020-07-30T09:00:34-04:00",
+            "material_type_facet": "",
+            "kicker": "On the Market",
+            "des_facet": [
+                "Real Estate and Housing (Residential)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Cobble Hill (Brooklyn, NY)",
+                "Grand Concourse (Bronx, NY)",
+                "Greenwich Village (Manhattan, NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/30otm-nyc-slide-UW05/30otm-nyc-slide-UW05-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stefano Ukmar for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/30otm-nyc-slide-UW05/30otm-nyc-slide-UW05-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stefano Ukmar for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/30otm-nyc-slide-UW05/30otm-nyc-slide-UW05-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stefano Ukmar for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/30otm-nyc-slide-UW05/30otm-nyc-slide-UW05-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stefano Ukmar for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/realestate/30otm-nyc-slide-UW05/30otm-nyc-slide-UW05-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Stefano Ukmar for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2XcTwlN"
+        },
+        {
+            "section": "theater",
+            "subsection": "",
+            "title": "How I Spent My Summer Vacation: Singing, Dancing, Knife Fighting",
+            "abstract": "When actor training migrated online, our reporter gave herself two weeks to learn as many theater skills — and knife skills — as she could.",
+            "url": "https://www.nytimes.com/2020/07/30/theater/theater-classes-at-home.html",
+            "uri": "nyt://article/6cfa25ab-d33e-56f9-b441-13bed6189947",
+            "byline": "By Alexis Soloski",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T10:59:35-04:00",
+            "created_date": "2020-07-30T09:00:11-04:00",
+            "published_date": "2020-07-30T09:00:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Theater",
+                "Actors and Actresses",
+                "Voice and Speech",
+                "Music",
+                "Dancing",
+                "Computers and the Internet",
+                "Videophones and Videoconferencing",
+                "Quarantine (Life and Culture)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/arts/31Theater-Skils-Illo/31Theater-Skils-Illo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1812,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Marly Gallardo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/arts/31Theater-Skils-Illo/31Theater-Skils-Illo-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Marly Gallardo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/arts/31Theater-Skils-Illo/31Theater-Skils-Illo-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Marly Gallardo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/arts/31Theater-Skils-Illo/31Theater-Skils-Illo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Marly Gallardo"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/arts/31Theater-Skils-Illo/31Theater-Skils-Illo-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 215,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Marly Gallardo"
+                }
+            ],
+            "short_url": "https://nyti.ms/3jU29vc"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "A Protester, an Unmarked N.Y.P.D. Van and a Viral Video",
+            "abstract": "Eyewitnesses and social media users drew a parallel with tactics used in Portland, Ore., and city and state officials voiced criticism.",
+            "url": "https://www.nytimes.com/2020/07/30/nyregion/nypd-protester-van.html",
+            "uri": "nyt://article/fbe785c9-ce54-577f-975f-a2758ff1d3b5",
+            "byline": "By Juliana Kim",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T05:33:00-04:00",
+            "created_date": "2020-07-30T05:33:00-04:00",
+            "published_date": "2020-07-30T05:33:00-04:00",
+            "material_type_facet": "",
+            "kicker": "New York Today",
+            "des_facet": [
+                "George Floyd Protests (2020)",
+                "Police Brutality, Misconduct and Shootings"
+            ],
+            "org_facet": [
+                "Police Department (NYC)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "New York City"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30nytodaynew/merlin_175042536_db355ee6-001e-4131-a5f2-ebb3e38d1c14-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Seth Wenig/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30nytodaynew/30nytodaynew-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Seth Wenig/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30nytodaynew/30nytodaynew-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Seth Wenig/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30nytodaynew/merlin_175042536_db355ee6-001e-4131-a5f2-ebb3e38d1c14-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Seth Wenig/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/nyregion/30nytodaynew/merlin_175042536_db355ee6-001e-4131-a5f2-ebb3e38d1c14-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Seth Wenig/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/30Ze7v3"
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "Fauci to Testify Before Congress on Coronavirus Response",
+            "abstract": "Federal U.S. jobless benefits are set to expire after lawmakers failed to make a deal. Herman Cain died after being hospitalized with the virus.",
+            "url": "https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html",
+            "uri": "nyt://article/f291a1d4-b3aa-5ae1-be20-7c516cc701c2",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T05:53:19-04:00",
+            "created_date": "2020-07-30T05:13:01-04:00",
+            "published_date": "2020-07-30T05:13:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hQTcB7"
+        }
+    ]
+}
