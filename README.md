@@ -18,7 +18,7 @@ A repo for testing various JSON payloads in various programming languages.
 ```swift 
 struct President: Decodable {
   let number: Int
-  let president: String
+  let name: String
   let birthYear: Int
   let deathYear: Int
   let tookOffice: String
@@ -27,7 +27,7 @@ struct President: Decodable {
   
   private enum CodingKeys: String, CodingKey {
     case number
-    case president
+    case name = "president"
     case birthYear = "birth_year"
     case deathYear = "death_year"
     case tookOffice = "took_office"
@@ -71,9 +71,57 @@ func testModel() {
     let presidents = try JSONDecoder().decode([President].self, from: jsonData)
     let firstPresident = presidents[0]
     // assert
-    XCTAssertEqual(firstPresident.president, expectedFirstPresident)
+    XCTAssertEqual(firstPresident.name, expectedFirstPresident)
   } catch {
     XCTFail("decoding error: \(error)")
+  }
+}
+```
+
+## 4. Use the `Bundle` class to read the `.json` file and decode to Swift objects
+
+```swift 
+enum BundleError: Error {
+  case invalidResource(String)
+  case noContentsAtPath(String)
+  case decodingError(Error)
+}
+
+extension Bundle {
+  func parseJSONFile(with name: String) throws -> [President] {
+    guard let path = Bundle.main.path(forResource: name, ofType: ".json") else {
+      throw BundleError.invalidResource(name)
+    }
+    guard let data = FileManager.default.contents(atPath: path) else {
+      throw BundleError.noContentsAtPath(path)
+    }
+    var presidents: [President]
+    do {
+      presidents = try JSONDecoder().decode([President].self, from: data)
+    } catch {
+      throw BundleError.decodingError(error)
+    }
+    return presidents
+  }
+}
+```
+
+## 5. Unit test the Bundle extension for decoding the `.json` file 
+
+```swift 
+func testParseJSONFromBundle() {
+  // arrange
+  let bundle = Bundle.main
+  let filename = "presidents"
+  let firstBlackPresident = "Barack Obama"
+
+  // act
+  do {
+    let presidents = try bundle.parseJSONFile(with: filename)
+    // assert
+    XCTAssertEqual(firstBlackPresident, presidents[43].name)
+  } catch {
+    XCTFail("bundle read error: \(error)")
   }
 }
 ```
