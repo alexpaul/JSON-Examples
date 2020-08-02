@@ -1,0 +1,499 @@
+[
+    {
+        "name": "Saint Barthélemy",
+        "topLevelDomain": [
+            ".bl"
+        ],
+        "alpha2Code": "BL",
+        "alpha3Code": "BLM",
+        "callingCodes": [
+            "590"
+        ],
+        "capital": "Gustavia",
+        "altSpellings": [
+            "BL",
+            "St. Barthelemy",
+            "Collectivity of Saint Barthélemy",
+            "Collectivité de Saint-Barthélemy"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 9417,
+        "latlng": [
+            18.5,
+            -63.41666666
+        ],
+        "demonym": "Saint Barthélemy Islander",
+        "area": 21.0,
+        "gini": null,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": [],
+        "nativeName": "Saint-Barthélemy",
+        "numericCode": "652",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            }
+        ],
+        "translations": {
+            "de": "Saint-Barthélemy",
+            "es": "San Bartolomé",
+            "fr": "Saint-Barthélemy",
+            "ja": "サン・バルテルミー",
+            "it": "Antille Francesi",
+            "br": "São Bartolomeu",
+            "pt": "São Bartolomeu",
+            "nl": "Saint Barthélemy",
+            "hr": "Saint Barthélemy",
+            "fa": "سن-بارتلمی"
+        },
+        "flag": "https://restcountries.eu/data/blm.svg",
+        "regionalBlocs": [],
+        "cioc": ""
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "topLevelDomain": [
+            ".sh"
+        ],
+        "alpha2Code": "SH",
+        "alpha3Code": "SHN",
+        "callingCodes": [
+            "290"
+        ],
+        "capital": "Jamestown",
+        "altSpellings": [
+            "SH"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "population": 4255,
+        "latlng": [
+            -15.95,
+            -5.7
+        ],
+        "demonym": "Saint Helenian",
+        "area": null,
+        "gini": null,
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "borders": [],
+        "nativeName": "Saint Helena",
+        "numericCode": "654",
+        "currencies": [
+            {
+                "code": "SHP",
+                "name": "Saint Helena pound",
+                "symbol": "£"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Sankt Helena",
+            "es": "Santa Helena",
+            "fr": "Sainte-Hélène",
+            "ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+            "it": "Sant'Elena",
+            "br": "Santa Helena",
+            "pt": "Santa Helena",
+            "nl": "Sint-Helena",
+            "hr": "Sveta Helena",
+            "fa": "سنت هلنا، اسنشن و تریستان دا کونا"
+        },
+        "flag": "https://restcountries.eu/data/shn.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ],
+        "cioc": null
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "topLevelDomain": [
+            ".kn"
+        ],
+        "alpha2Code": "KN",
+        "alpha3Code": "KNA",
+        "callingCodes": [
+            "1869"
+        ],
+        "capital": "Basseterre",
+        "altSpellings": [
+            "KN",
+            "Federation of Saint Christopher and Nevis"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 46204,
+        "latlng": [
+            17.33333333,
+            -62.75
+        ],
+        "demonym": "Kittian and Nevisian",
+        "area": 261.0,
+        "gini": null,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": [],
+        "nativeName": "Saint Kitts and Nevis",
+        "numericCode": "659",
+        "currencies": [
+            {
+                "code": "XCD",
+                "name": "East Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "St. Kitts und Nevis",
+            "es": "San Cristóbal y Nieves",
+            "fr": "Saint-Christophe-et-Niévès",
+            "ja": "セントクリストファー・ネイビス",
+            "it": "Saint Kitts e Nevis",
+            "br": "São Cristóvão e Neves",
+            "pt": "São Cristóvão e Neves",
+            "nl": "Saint Kitts en Nevis",
+            "hr": "Sveti Kristof i Nevis",
+            "fa": "سنت کیتس و نویس"
+        },
+        "flag": "https://restcountries.eu/data/kna.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CARICOM",
+                "name": "Caribbean Community",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "Comunidad del Caribe",
+                    "Communauté Caribéenne",
+                    "Caribische Gemeenschap"
+                ]
+            }
+        ],
+        "cioc": "SKN"
+    },
+    {
+        "name": "Saint Lucia",
+        "topLevelDomain": [
+            ".lc"
+        ],
+        "alpha2Code": "LC",
+        "alpha3Code": "LCA",
+        "callingCodes": [
+            "1758"
+        ],
+        "capital": "Castries",
+        "altSpellings": [
+            "LC"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 186000,
+        "latlng": [
+            13.88333333,
+            -60.96666666
+        ],
+        "demonym": "Saint Lucian",
+        "area": 616.0,
+        "gini": 42.6,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": [],
+        "nativeName": "Saint Lucia",
+        "numericCode": "662",
+        "currencies": [
+            {
+                "code": "XCD",
+                "name": "East Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Saint Lucia",
+            "es": "Santa Lucía",
+            "fr": "Saint-Lucie",
+            "ja": "セントルシア",
+            "it": "Santa Lucia",
+            "br": "Santa Lúcia",
+            "pt": "Santa Lúcia",
+            "nl": "Saint Lucia",
+            "hr": "Sveta Lucija",
+            "fa": "سنت لوسیا"
+        },
+        "flag": "https://restcountries.eu/data/lca.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CARICOM",
+                "name": "Caribbean Community",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "Comunidad del Caribe",
+                    "Communauté Caribéenne",
+                    "Caribische Gemeenschap"
+                ]
+            }
+        ],
+        "cioc": "LCA"
+    },
+    {
+        "name": "Saint Martin (French part)",
+        "topLevelDomain": [
+            ".mf",
+            ".fr",
+            ".gp"
+        ],
+        "alpha2Code": "MF",
+        "alpha3Code": "MAF",
+        "callingCodes": [
+            "590"
+        ],
+        "capital": "Marigot",
+        "altSpellings": [
+            "MF",
+            "Collectivity of Saint Martin",
+            "Collectivité de Saint-Martin"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 36979,
+        "latlng": [
+            18.08333333,
+            -63.95
+        ],
+        "demonym": "Saint Martin Islander",
+        "area": 53.0,
+        "gini": null,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": [
+            "SXM",
+            "NLD"
+        ],
+        "nativeName": "Saint-Martin",
+        "numericCode": "663",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            },
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            },
+            {
+                "iso639_1": "nl",
+                "iso639_2": "nld",
+                "name": "Dutch",
+                "nativeName": "Nederlands"
+            }
+        ],
+        "translations": {
+            "de": "Saint Martin",
+            "es": "Saint Martin",
+            "fr": "Saint-Martin",
+            "ja": "サン・マルタン（フランス領）",
+            "it": "Saint Martin",
+            "br": "Saint Martin",
+            "pt": "Ilha São Martinho",
+            "nl": "Saint-Martin",
+            "hr": "Sveti Martin",
+            "fa": "سینت مارتن"
+        },
+        "flag": "https://restcountries.eu/data/maf.svg",
+        "regionalBlocs": [],
+        "cioc": ""
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "topLevelDomain": [
+            ".pm"
+        ],
+        "alpha2Code": "PM",
+        "alpha3Code": "SPM",
+        "callingCodes": [
+            "508"
+        ],
+        "capital": "Saint-Pierre",
+        "altSpellings": [
+            "PM",
+            "Collectivité territoriale de Saint-Pierre-et-Miquelon"
+        ],
+        "region": "Americas",
+        "subregion": "Northern America",
+        "population": 6069,
+        "latlng": [
+            46.83333333,
+            -56.33333333
+        ],
+        "demonym": "French",
+        "area": 242.0,
+        "gini": null,
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "borders": [],
+        "nativeName": "Saint-Pierre-et-Miquelon",
+        "numericCode": "666",
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            }
+        ],
+        "translations": {
+            "de": "Saint-Pierre und Miquelon",
+            "es": "San Pedro y Miquelón",
+            "fr": "Saint-Pierre-et-Miquelon",
+            "ja": "サンピエール島・ミクロン島",
+            "it": "Saint-Pierre e Miquelon",
+            "br": "Saint-Pierre e Miquelon",
+            "pt": "São Pedro e Miquelon",
+            "nl": "Saint Pierre en Miquelon",
+            "hr": "Sveti Petar i Mikelon",
+            "fa": "سن پیر و میکلن"
+        },
+        "flag": "https://restcountries.eu/data/spm.svg",
+        "regionalBlocs": [],
+        "cioc": ""
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "topLevelDomain": [
+            ".vc"
+        ],
+        "alpha2Code": "VC",
+        "alpha3Code": "VCT",
+        "callingCodes": [
+            "1784"
+        ],
+        "capital": "Kingstown",
+        "altSpellings": [
+            "VC"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "population": 109991,
+        "latlng": [
+            13.25,
+            -61.2
+        ],
+        "demonym": "Saint Vincentian",
+        "area": 389.0,
+        "gini": null,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": [],
+        "nativeName": "Saint Vincent and the Grenadines",
+        "numericCode": "670",
+        "currencies": [
+            {
+                "code": "XCD",
+                "name": "East Caribbean dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "de": "Saint Vincent und die Grenadinen",
+            "es": "San Vicente y Granadinas",
+            "fr": "Saint-Vincent-et-les-Grenadines",
+            "ja": "セントビンセントおよびグレナディーン諸島",
+            "it": "Saint Vincent e Grenadine",
+            "br": "São Vicente e Granadinas",
+            "pt": "São Vicente e Granadinas",
+            "nl": "Saint Vincent en de Grenadines",
+            "hr": "Sveti Vincent i Grenadini",
+            "fa": "سنت وینسنت و گرنادین‌ها"
+        },
+        "flag": "https://restcountries.eu/data/vct.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CARICOM",
+                "name": "Caribbean Community",
+                "otherAcronyms": [],
+                "otherNames": [
+                    "Comunidad del Caribe",
+                    "Communauté Caribéenne",
+                    "Caribische Gemeenschap"
+                ]
+            }
+        ],
+        "cioc": "VIN"
+    }
+]
