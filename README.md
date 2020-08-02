@@ -13,7 +13,31 @@ A repo for testing various JSON payloads in various programming languages.
 
 > Make sure the past `JSON` contents start on line 1 in your new file. It won't be valid `JSON` if there are new lines or any comments about the first encountered `JSON` open bracket. 
 
-## 2. Unit Test the JSON payload in Swift 
+## 2. Create the Swift Model that represents the JSON payload 
+
+```swift 
+struct President: Decodable {
+  let number: Int
+  let president: String
+  let birthYear: Int
+  let deathYear: Int
+  let tookOffice: String
+  let leftOffice: String
+  let party: String
+  
+  private enum CodingKeys: String, CodingKey {
+    case number
+    case president
+    case birthYear = "birth_year"
+    case deathYear = "death_year"
+    case tookOffice = "took_office"
+    case leftOffice = "left_office"
+    case party
+  }
+}
+```
+
+## 3. Unit Test the JSON payload in Swift 
 
 ```swift 
 func testModel() {
