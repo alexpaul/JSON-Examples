@@ -1,0 +1,2001 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+    "section": "Health",
+    "last_updated": "2020-08-01T07:22:44-04:00",
+    "num_results": 25,
+    "results": [
+        {
+            "section": "us",
+            "subsection": "",
+            "title": "Connie Culp, First Face Transplant Recipient in U.S., Dies at 57",
+            "abstract": "Her near-total face transplant in 2008 was the most complex at the time. She was the fourth patient in the world to undergo such a procedure.",
+            "url": "https://www.nytimes.com/2020/08/01/us/Connie-culp-dead-face-transplant.html",
+            "uri": "nyt://article/6ebfee3b-15c5-5eae-967c-23427e883d53",
+            "byline": "By Bryan Pietsch",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T07:14:44-04:00",
+            "created_date": "2020-08-01T17:32:55-04:00",
+            "published_date": "2020-08-01T17:32:55-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Transplants",
+                "Face",
+                "Surgery and Surgeons",
+                "Plastic Surgery",
+                "Deaths (Obituaries)",
+                "Murders, Attempted Murders and Homicides"
+            ],
+            "org_facet": [
+                "Cleveland Clinic"
+            ],
+            "per_facet": [
+                "Culp, Connie (1963-2020)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/multimedia/01xp-connieculp-pix1/merlin_175200339_febffdf5-1c8c-47cb-96b2-27c133295c8d-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1327,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Connie Culp at the Cleveland Clinic in 2009. She was the longest-living face transplant recipient in the world, a hospital official said.",
+                    "copyright": "Amy Sancetta/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Connie Culp at the Cleveland Clinic in 2009. She was the longest-living face transplant recipient in the world, a hospital official said.",
+                    "copyright": "Amy Sancetta/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Connie Culp at the Cleveland Clinic in 2009. She was the longest-living face transplant recipient in the world, a hospital official said.",
+                    "copyright": "Amy Sancetta/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Connie Culp at the Cleveland Clinic in 2009. She was the longest-living face transplant recipient in the world, a hospital official said.",
+                    "copyright": "Amy Sancetta/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/multimedia/01xp-connieculp-pix1/merlin_175200339_febffdf5-1c8c-47cb-96b2-27c133295c8d-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 123,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Connie Culp at the Cleveland Clinic in 2009. She was the longest-living face transplant recipient in the world, a hospital official said.",
+                    "copyright": "Amy Sancetta/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3jVN6kK"
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "Infections Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in July",
+            "abstract": "Thousands in Berlin protest Germany’s coronavirus measures. The virus is picking up speed in the Midwest. A summer camp in Georgia apologizes for hosting a retreat after hundreds who attended were infected.",
+            "url": "https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html",
+            "uri": "nyt://article/8b24f544-ea2e-59f4-a06b-34ab7a9f7a8a",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T07:23:15-04:00",
+            "created_date": "2020-08-01T08:00:07-04:00",
+            "published_date": "2020-08-01T08:00:07-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2D8Ek2l"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race",
+            "abstract": "The world’s largest vaccine producer, the Serum Institute, announced a plan to make hundreds of millions of doses of an unproven inoculation. It’s a gamble with a huge upside. And huge risks.",
+            "url": "https://www.nytimes.com/2020/08/01/world/asia/coronavirus-vaccine-india.html",
+            "uri": "nyt://article/d78b8f2a-4ec2-5673-aa9f-45de72eaf187",
+            "byline": "By Jeffrey Gettleman",
+            "item_type": "Article",
+            "updated_date": "2020-08-02T00:32:19-04:00",
+            "created_date": "2020-08-01T05:00:27-04:00",
+            "published_date": "2020-08-01T05:00:27-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Drugs (Pharmaceuticals)",
+                "Clinical Trials",
+                "Family Business",
+                "Government Contracts and Procurement",
+                "Horses",
+                "Third World and Developing Countries"
+            ],
+            "org_facet": [
+                "Serum Institute of India",
+                "Gates, Bill and Melinda, Foundation"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Pune (India)",
+                "India"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists at the Serum Institute in Pune, India, working on a bioreactor. Inside is a promising coronavirus vaccine candidate.",
+                    "copyright": "Atul Loke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/00virus-india-vaccine-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists at the Serum Institute in Pune, India, working on a bioreactor. Inside is a promising coronavirus vaccine candidate.",
+                    "copyright": "Atul Loke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/00virus-india-vaccine-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists at the Serum Institute in Pune, India, working on a bioreactor. Inside is a promising coronavirus vaccine candidate.",
+                    "copyright": "Atul Loke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists at the Serum Institute in Pune, India, working on a bioreactor. Inside is a promising coronavirus vaccine candidate.",
+                    "copyright": "Atul Loke for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Scientists at the Serum Institute in Pune, India, working on a bioreactor. Inside is a promising coronavirus vaccine candidate.",
+                    "copyright": "Atul Loke for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2XicLKP"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "Can Humans Give Coronavirus to Bats, and Other Wildlife?",
+            "abstract": "Federal agencies suggest caution in U.S. bat research to avoid transmitting the novel coronavirus to wildlife.",
+            "url": "https://www.nytimes.com/2020/08/01/science/Covid-bats.html",
+            "uri": "nyt://article/ee63257e-fac5-5c14-9948-3b1e36552b07",
+            "byline": "By James Gorman",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T10:02:52-04:00",
+            "created_date": "2020-08-01T05:00:16-04:00",
+            "published_date": "2020-08-01T05:00:16-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Bats",
+                "your-feed-science"
+            ],
+            "org_facet": [
+                "EcoHealth Alliance",
+                "Fish and Wildlife Service",
+                "Lancet, The (Journal)",
+                "United States Geological Survey"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "North America"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Townsend&rsquo;s big-eared bat being collected for study and release in an abandoned mining cave near Ely, Nev.",
+                    "copyright": "Kim Raff for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Townsend&rsquo;s big-eared bat being collected for study and release in an abandoned mining cave near Ely, Nev.",
+                    "copyright": "Kim Raff for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Townsend&rsquo;s big-eared bat being collected for study and release in an abandoned mining cave near Ely, Nev.",
+                    "copyright": "Kim Raff for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Townsend&rsquo;s big-eared bat being collected for study and release in an abandoned mining cave near Ely, Nev.",
+                    "copyright": "Kim Raff for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 119,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Townsend&rsquo;s big-eared bat being collected for study and release in an abandoned mining cave near Ely, Nev.",
+                    "copyright": "Kim Raff for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fr6ZNn"
+        },
+        {
+            "section": "obituaries",
+            "subsection": "",
+            "title": "Overlooked No More: Roland Johnson, Who Fought to Shut Down Institutions for the Disabled",
+            "abstract": "He survived 13 years of neglect and abuse, including sexual assault, at the notorious Pennhurst State School and Hospital outside Philadelphia before emerging as a champion for the disabled.",
+            "url": "https://www.nytimes.com/2020/07/31/obituaries/roland-johnson-overlooked.html",
+            "uri": "nyt://article/b4c29bc2-1101-54ac-863d-3ad21f69f26b",
+            "byline": "By Glenn Rifkin",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T10:41:19-04:00",
+            "created_date": "2020-07-31T15:06:29-04:00",
+            "published_date": "2020-07-31T15:06:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Intellectual Disabilities",
+                "Abuse of the Disabled",
+                "Americans With Disabilities Act",
+                "Biographical Information"
+            ],
+            "org_facet": [
+                "Pennhurst State School and Hospital"
+            ],
+            "per_facet": [
+                "Johnson, Roland (1945-94)"
+            ],
+            "geo_facet": [
+                "Pennsylvania"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1518,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Roland Johnson in 1963. By speaking up about the horrors he endured at a state-run hospital for the disabled, he was at the forefront of an emerging self-advocacy movement.",
+                    "copyright": "via the Johnson family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Roland Johnson in 1963. By speaking up about the horrors he endured at a state-run hospital for the disabled, he was at the forefront of an emerging self-advocacy movement.",
+                    "copyright": "via the Johnson family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Roland Johnson in 1963. By speaking up about the horrors he endured at a state-run hospital for the disabled, he was at the forefront of an emerging self-advocacy movement.",
+                    "copyright": "via the Johnson family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Roland Johnson in 1963. By speaking up about the horrors he endured at a state-run hospital for the disabled, he was at the forefront of an emerging self-advocacy movement.",
+                    "copyright": "via the Johnson family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 256,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Roland Johnson in 1963. By speaking up about the horrors he endured at a state-run hospital for the disabled, he was at the forefront of an emerging self-advocacy movement.",
+                    "copyright": "via the Johnson family"
+                }
+            ],
+            "short_url": "https://nyti.ms/2BLiv8g"
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "A $600-a-Week Lifeline for Unemployed Americans Expires After an Impasse in Washington",
+            "abstract": "California became the first state to reach 500,000 total coronavirus cases. Once the site of a major outbreak, Italy now offers lessons for keeping the virus in check.",
+            "url": "https://www.nytimes.com/2020/07/31/world/coronavirus-covid-19.html",
+            "uri": "nyt://article/40bf777f-080f-52eb-b4b9-27d0fbda67ef",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T05:30:22-04:00",
+            "created_date": "2020-07-31T05:32:41-04:00",
+            "published_date": "2020-07-31T05:32:41-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2CW4m96"
+        },
+        {
+            "section": "well",
+            "subsection": "family",
+            "title": "Gambling on College Football Almost Fixed My Dysfunctional Family",
+            "abstract": "If Covid takes the football season away from us, we’re in danger of losing the bond we’ve taken so many years to build.",
+            "url": "https://www.nytimes.com/2020/07/31/well/family/gambling-on-college-football-almost-fixed-my-dysfunctional-family.html",
+            "uri": "nyt://article/75c3b6cc-db15-51a2-987e-d0abaf284b60",
+            "byline": "By Mike Evans",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T05:00:18-04:00",
+            "created_date": "2020-07-31T05:00:18-04:00",
+            "published_date": "2020-07-31T05:00:18-04:00",
+            "material_type_facet": "",
+            "kicker": "Ties",
+            "des_facet": [
+                "Football (College)",
+                "Gambling",
+                "Football",
+                "Children and Childhood",
+                "Coronavirus (2019-nCoV)",
+                "Parenting",
+                "Families and Family Life"
+            ],
+            "org_facet": [
+                "National Collegiate Athletic Assn"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/science/31TIES-FOOTBALL-illo/31TIES-FOOTBALL-illo-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lucy Jones"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/science/31TIES-FOOTBALL-illo/31TIES-FOOTBALL-illo-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lucy Jones"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/science/31TIES-FOOTBALL-illo/31TIES-FOOTBALL-illo-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lucy Jones"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/science/31TIES-FOOTBALL-illo/31TIES-FOOTBALL-illo-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lucy Jones"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/science/31TIES-FOOTBALL-illo/31TIES-FOOTBALL-illo-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Lucy Jones"
+                }
+            ],
+            "short_url": "https://nyti.ms/3gfQiW5"
+        },
+        {
+            "section": "well",
+            "subsection": "live",
+            "title": "Weekly Health Quiz: Covid, Weight Gain and Intermittent Fasting",
+            "abstract": "Test your knowledge of this week’s health news.",
+            "url": "https://www.nytimes.com/interactive/2020/07/31/well/live/31healthquiz-07312020.html",
+            "uri": "nyt://interactive/7d965f4d-4a5e-52ee-a8c1-5ae8f6437f74",
+            "byline": "By Toby Bilanow",
+            "item_type": "Interactive",
+            "updated_date": "2020-07-31T05:00:03-04:00",
+            "created_date": "2020-07-31T05:00:03-04:00",
+            "published_date": "2020-07-31T05:00:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "States (US)",
+                "Youth",
+                "Disease Rates",
+                "Fasting",
+                "Coronavirus (2019-nCoV)",
+                "Weight",
+                "Deaths (Fatalities)",
+                "Medicine and Health"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/WEL-BRODY-YOUTHEATINGDISORDER/WEL-BRODY-YOUTHEATINGDISORDER-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1302,
+                    "width": 1965,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Gracia Lam"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/WEL-BRODY-YOUTHEATINGDISORDER/WEL-BRODY-YOUTHEATINGDISORDER-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Gracia Lam"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/WEL-BRODY-YOUTHEATINGDISORDER/WEL-BRODY-YOUTHEATINGDISORDER-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Gracia Lam"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/WEL-BRODY-YOUTHEATINGDISORDER/WEL-BRODY-YOUTHEATINGDISORDER-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Gracia Lam"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/WEL-BRODY-YOUTHEATINGDISORDER/WEL-BRODY-YOUTHEATINGDISORDER-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Gracia Lam"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fcDTBb"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "In Indonesia, False Virus Cures Pushed by Those Who Should Know Better",
+            "abstract": "In the absence of a unified message from the national government, local officials and opportunists have filled the gap with misinformation and quack remedies.",
+            "url": "https://www.nytimes.com/2020/07/31/world/asia/indonesia-coronavirus.html",
+            "uri": "nyt://article/ce086f34-a855-52df-8b6c-2f866345ae52",
+            "byline": "By Richard C. Paddock",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T10:36:11-04:00",
+            "created_date": "2020-07-31T04:50:34-04:00",
+            "published_date": "2020-07-31T04:50:34-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Rumors and Misinformation",
+                "Politics and Government"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Joko Widodo"
+            ],
+            "geo_facet": [
+                "Indonesia"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/world/31virus-indonesia-1/merlin_175139715_c58ed554-ab30-4f39-a5cb-94e4e0ab8d8f-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Muslims attending socially distanced Eid al-Adha prayers in Bandung, Indonesia, on Friday. The government has been inconsistent in its recommendations for combating the coronavirus.",
+                    "copyright": "Timur Matahari/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/world/31virus-indonesia-1/31virus-indonesia-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Muslims attending socially distanced Eid al-Adha prayers in Bandung, Indonesia, on Friday. The government has been inconsistent in its recommendations for combating the coronavirus.",
+                    "copyright": "Timur Matahari/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/world/31virus-indonesia-1/31virus-indonesia-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Muslims attending socially distanced Eid al-Adha prayers in Bandung, Indonesia, on Friday. The government has been inconsistent in its recommendations for combating the coronavirus.",
+                    "copyright": "Timur Matahari/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/world/31virus-indonesia-1/31virus-indonesia-1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Muslims attending socially distanced Eid al-Adha prayers in Bandung, Indonesia, on Friday. The government has been inconsistent in its recommendations for combating the coronavirus.",
+                    "copyright": "Timur Matahari/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/31/world/31virus-indonesia-1/merlin_175139715_c58ed554-ab30-4f39-a5cb-94e4e0ab8d8f-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Muslims attending socially distanced Eid al-Adha prayers in Bandung, Indonesia, on Friday. The government has been inconsistent in its recommendations for combating the coronavirus.",
+                    "copyright": "Timur Matahari/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/30dNOlt"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "How Can I (Kindly) Tell People to Wear Masks in Public?",
+            "abstract": "Our advice columnist tested a few possible lines. Here’s how that went.",
+            "url": "https://www.nytimes.com/2020/07/30/style/masks-in-public-coronavirus.html",
+            "uri": "nyt://article/9bbe69b3-329c-5917-9aec-2afdd397df92",
+            "byline": "By Philip Galanes",
+            "item_type": "Article",
+            "updated_date": "2020-08-01T01:31:02-04:00",
+            "created_date": "2020-07-30T11:53:57-04:00",
+            "published_date": "2020-07-30T11:53:57-04:00",
+            "material_type_facet": "",
+            "kicker": "Social Q’s",
+            "des_facet": [
+                "Customs, Etiquette and Manners",
+                "Coronavirus Risks and Safety Concerns",
+                "Masks",
+                "Content Type: Service"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2011/07/28/fashion/social_inline/social_inline-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 923,
+                    "width": 925,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christoph Niemann"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2011/07/28/fashion/social_inline/social_inline-thumbStandard-v3.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christoph Niemann"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2011/07/28/fashion/social_inline/social_inline-thumbLarge-v3.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christoph Niemann"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2011/07/28/fashion/social_inline/social_inline-mediumThreeByTwo210-v6.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christoph Niemann"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2011/07/28/fashion/social_inline/social_inline-articleInline-v2.jpg",
+                    "format": "Normal",
+                    "height": 189,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christoph Niemann"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ghyTfY"
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "Fauci to Testify Before Congress on Coronavirus Response",
+            "abstract": "Federal U.S. jobless benefits are set to expire after lawmakers failed to make a deal. Herman Cain died after being hospitalized with the virus.",
+            "url": "https://www.nytimes.com/2020/07/30/world/coronavirus-covid-19.html",
+            "uri": "nyt://article/f291a1d4-b3aa-5ae1-be20-7c516cc701c2",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T05:53:19-04:00",
+            "created_date": "2020-07-30T05:13:01-04:00",
+            "published_date": "2020-07-30T05:13:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hQTcB7"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Johnson & Johnson’s Coronavirus Vaccine Protects Monkeys, Study Finds",
+            "abstract": "It’s the second study in a week to report promising results in monkeys for a vaccine candidate. But the real test will come with human trials that are now underway.",
+            "url": "https://www.nytimes.com/2020/07/30/health/covid-19-vaccine-monkeys.html",
+            "uri": "nyt://article/7b7b0890-b975-531d-9c22-bc229dbacb3f",
+            "byline": "By Carl Zimmer",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T10:43:24-04:00",
+            "created_date": "2020-07-30T05:00:28-04:00",
+            "published_date": "2020-07-30T05:00:28-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Clinical Trials",
+                "Vaccination and Immunization",
+                "Monkeys and Apes",
+                "Coronavirus (2019-nCoV)",
+                "Research"
+            ],
+            "org_facet": [
+                "Nature (Journal)",
+                "Johnson & Johnson",
+                "Moderna Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/science/30VIRUS-MONKEYS1/30VIRUS-MONKEYS1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1367,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marinela Kirilova conducting research on the Johnson &amp; Johnson coronavirus vaccine at the Center for Virology and Vaccine Research at Beth Israel Deaconess Medical Center in Boston.",
+                    "copyright": "Tony Luong for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/science/30VIRUS-MONKEYS1/30VIRUS-MONKEYS1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marinela Kirilova conducting research on the Johnson &amp; Johnson coronavirus vaccine at the Center for Virology and Vaccine Research at Beth Israel Deaconess Medical Center in Boston.",
+                    "copyright": "Tony Luong for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/science/30VIRUS-MONKEYS1/30VIRUS-MONKEYS1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marinela Kirilova conducting research on the Johnson &amp; Johnson coronavirus vaccine at the Center for Virology and Vaccine Research at Beth Israel Deaconess Medical Center in Boston.",
+                    "copyright": "Tony Luong for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/science/30VIRUS-MONKEYS1/30VIRUS-MONKEYS1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marinela Kirilova conducting research on the Johnson &amp; Johnson coronavirus vaccine at the Center for Virology and Vaccine Research at Beth Israel Deaconess Medical Center in Boston.",
+                    "copyright": "Tony Luong for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/30/science/30VIRUS-MONKEYS1/30VIRUS-MONKEYS1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 137,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marinela Kirilova conducting research on the Johnson &amp; Johnson coronavirus vaccine at the Center for Virology and Vaccine Research at Beth Israel Deaconess Medical Center in Boston.",
+                    "copyright": "Tony Luong for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Ep9G4X"
+        },
+        {
+            "section": "upshot",
+            "subsection": "",
+            "title": "As Covid Has Become a Red-State Problem, Too, Have Attitudes Changed?",
+            "abstract": "There’s still a persistent partisan gap in the level of concern and in mask wearing.",
+            "url": "https://www.nytimes.com/2020/07/30/upshot/coronavirus-republican-voting.html",
+            "uri": "nyt://article/930a7437-ff79-5b8f-988c-51cb1dbe7ddf",
+            "byline": "By Robert Gebeloff",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T05:00:28-04:00",
+            "created_date": "2020-07-30T05:00:28-04:00",
+            "published_date": "2020-07-30T05:00:28-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Masks",
+                "Disease Rates",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/23/upshot/masks-by-outbreak-severity-2-1595448230829/masks-by-outbreak-severity-2-1595448230829-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 987,
+                    "width": 1545,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/23/upshot/masks-by-outbreak-severity-2-1595448230829/masks-by-outbreak-severity-2-1595448230829-thumbStandard.png",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/23/upshot/masks-by-outbreak-severity-2-1595448230829/masks-by-outbreak-severity-2-1595448230829-thumbLarge.png",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/23/upshot/masks-by-outbreak-severity-2-1595448230829/masks-by-outbreak-severity-2-1595448230829-mediumThreeByTwo210.png",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/23/upshot/masks-by-outbreak-severity-2-1595448230829/masks-by-outbreak-severity-2-1595448230829-articleInline.png",
+                    "format": "Normal",
+                    "height": 121,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/33auFTw"
+        },
+        {
+            "section": "well",
+            "subsection": "mind",
+            "title": "Pandemic Loneliness in Late Life",
+            "abstract": "Many seniors comply with the physical distancing and stay-at-home orders, even as we understand that social isolation generates the lethal byproducts of loneliness.",
+            "url": "https://www.nytimes.com/2020/07/30/well/mind/pandemic-loneliness-in-late-life.html",
+            "uri": "nyt://article/4726d4b7-109a-5566-a1df-7f48a751a162",
+            "byline": "By Susan Gubar",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T07:32:34-04:00",
+            "created_date": "2020-07-30T05:00:08-04:00",
+            "published_date": "2020-07-30T05:00:08-04:00",
+            "material_type_facet": "",
+            "kicker": "Living with Cancer",
+            "des_facet": [
+                "Loneliness",
+                "Coronavirus (2019-nCoV)",
+                "Elderly",
+                "Quarantines"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/multimedia/00well-loneliness/00well-loneliness-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Furze Chan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/multimedia/00well-loneliness/00well-loneliness-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Furze Chan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/multimedia/00well-loneliness/00well-loneliness-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Furze Chan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/multimedia/00well-loneliness/00well-loneliness-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Furze Chan"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/22/multimedia/00well-loneliness/00well-loneliness-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 190,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Furze Chan"
+                }
+            ],
+            "short_url": "https://nyti.ms/2X7URdu"
+        },
+        {
+            "section": "magazine",
+            "subsection": "",
+            "title": "His Face, Hands and Feet Swelled Up. What Was Going On?",
+            "abstract": "The young boy’s grandmother saw strange red lines snaking around his body. Could this be an allergic reaction? A rare autoimmune disease?",
+            "url": "https://www.nytimes.com/2020/07/30/magazine/urticaria-multiforme.html",
+            "uri": "nyt://article/181bb1ef-a01a-556b-a90b-174e659fb19e",
+            "byline": "By Lisa Sanders, M.D.",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T20:59:25-04:00",
+            "created_date": "2020-07-30T05:00:01-04:00",
+            "published_date": "2020-07-30T05:00:01-04:00",
+            "material_type_facet": "",
+            "kicker": "Diagnosis",
+            "des_facet": [
+                "Children and Childhood",
+                "Allergies",
+                "Antibiotics",
+                "Antihistamines"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/magazine/02mag-diagnosis-1/02mag-diagnosis-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1592,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Ina Jang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/magazine/02mag-diagnosis-1/02mag-diagnosis-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Ina Jang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/magazine/02mag-diagnosis-1/02mag-diagnosis-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Ina Jang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/magazine/02mag-diagnosis-1/02mag-diagnosis-1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Ina Jang"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/magazine/02mag-diagnosis-1/02mag-diagnosis-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 148,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Ina Jang"
+                }
+            ],
+            "short_url": "https://nyti.ms/2XqZD6n"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Old Vaccines May Stop the Coronavirus, Study Hints. Scientists Are Skeptical.",
+            "abstract": "Certain vaccines may provide broad protection against infections. But new research doesn’t prove these vaccines can turn back the coronavirus, experts said.",
+            "url": "https://www.nytimes.com/2020/07/29/health/coronavirus-vaccines.html",
+            "uri": "nyt://article/85a3053f-6fb6-5afb-8d73-d99d3583eda1",
+            "byline": "By Roni Caryn Rabin",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T10:32:49-04:00",
+            "created_date": "2020-07-29T17:43:39-04:00",
+            "published_date": "2020-07-29T17:43:39-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Vaccination and Immunization",
+                "Coronavirus (2019-nCoV)",
+                "Immune System"
+            ],
+            "org_facet": [
+                "Mayo Clinic"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SHOTS/29VIRUS-SHOTS-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1364,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A medical worker administering a flu vaccine to a woman in Asuncion, Paraguay. Some vaccines seem to protect against infections they were never intended to target. ",
+                    "copyright": "Norberto Duarte/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SHOTS/29VIRUS-SHOTS-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A medical worker administering a flu vaccine to a woman in Asuncion, Paraguay. Some vaccines seem to protect against infections they were never intended to target. ",
+                    "copyright": "Norberto Duarte/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SHOTS/29VIRUS-SHOTS-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A medical worker administering a flu vaccine to a woman in Asuncion, Paraguay. Some vaccines seem to protect against infections they were never intended to target. ",
+                    "copyright": "Norberto Duarte/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SHOTS/29VIRUS-SHOTS-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A medical worker administering a flu vaccine to a woman in Asuncion, Paraguay. Some vaccines seem to protect against infections they were never intended to target. ",
+                    "copyright": "Norberto Duarte/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SHOTS/29VIRUS-SHOTS-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 133,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A medical worker administering a flu vaccine to a woman in Asuncion, Paraguay. Some vaccines seem to protect against infections they were never intended to target. ",
+                    "copyright": "Norberto Duarte/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/39BeFv4"
+        },
+        {
+            "section": "well",
+            "subsection": "mind",
+            "title": "Gum Disease Tied to Alzheimer’s Disease Risk",
+            "abstract": "Severe gingivitis with tooth loss was associated with an increased risk of Alzheimer’s disease and other forms of dementia.",
+            "url": "https://www.nytimes.com/2020/07/29/well/mind/gum-disease-tied-to-alzheimers-disease-risk.html",
+            "uri": "nyt://article/38cd227f-cf48-55fa-a22c-5bfde996bcf1",
+            "byline": "By Nicholas Bakalar",
+            "item_type": "Article",
+            "updated_date": "2020-07-29T16:00:04-04:00",
+            "created_date": "2020-07-29T16:00:04-04:00",
+            "published_date": "2020-07-29T16:00:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Alzheimer's Disease",
+                "Dementia",
+                "Teeth and Dentistry",
+                "Gums (Mouth)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/06/30/smarter-living/well-pog-brain/well-pog-brain-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Amrita Marino"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/06/30/smarter-living/well-pog-brain/well-pog-brain-thumbStandard-v3.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Amrita Marino"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/06/30/smarter-living/well-pog-brain/well-pog-brain-thumbLarge-v3.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Amrita Marino"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/06/30/smarter-living/well-pog-brain/well-pog-brain-mediumThreeByTwo210-v3.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Amrita Marino"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/06/30/smarter-living/well-pog-brain/well-pog-brain-articleInline-v3.jpg",
+                    "format": "Normal",
+                    "height": 125,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Amrita Marino"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fcZjhx"
+        },
+        {
+            "section": "obituaries",
+            "subsection": "",
+            "title": "Renada McGuire, Resilient Home Health Aide, Dies at 39",
+            "abstract": "She decided to work with adults with mental disabilities after giving birth to a child with challenges. She died of complications of the novel coronavirus.",
+            "url": "https://www.nytimes.com/2020/07/29/obituaries/renada-mcguire-dead-coronavirus.html",
+            "uri": "nyt://article/ef6e10ca-48ef-5af9-b4e5-616773114a37",
+            "byline": "By Aaron Randle",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T22:35:55-04:00",
+            "created_date": "2020-07-29T13:15:57-04:00",
+            "published_date": "2020-07-29T13:15:57-04:00",
+            "material_type_facet": "",
+            "kicker": "Those We’ve Lost",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Coronavirus (2019-nCoV)",
+                "Home Health Care"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "McGuire, Renada (1980-2020)"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/27McGuire/merlin_175003101_31754e5b-5807-442a-9342-7500a6ec35ad-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1536,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Renada McGuire was a single mother of six who aided others in need of home health care while developing health problems of her own.",
+                    "copyright": "via McGuire family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/27McGuire/27McGuire-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Renada McGuire was a single mother of six who aided others in need of home health care while developing health problems of her own.",
+                    "copyright": "via McGuire family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/27McGuire/27McGuire-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Renada McGuire was a single mother of six who aided others in need of home health care while developing health problems of her own.",
+                    "copyright": "via McGuire family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/27McGuire/27McGuire-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Renada McGuire was a single mother of six who aided others in need of home health care while developing health problems of her own.",
+                    "copyright": "via McGuire family"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/01/obituaries/27McGuire/merlin_175003101_31754e5b-5807-442a-9342-7500a6ec35ad-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 253,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Renada McGuire was a single mother of six who aided others in need of home health care while developing health problems of her own.",
+                    "copyright": "via McGuire family"
+                }
+            ],
+            "short_url": "https://nyti.ms/3389mSG"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "School Closures in the Spring Saved Lives, Study Asserts",
+            "abstract": "But, experts caution, the findings highlight a period when few precautions were in place, and do not apply to current discussions about reopening schools.",
+            "url": "https://www.nytimes.com/2020/07/29/health/covid-school-reopening.html",
+            "uri": "nyt://article/3b24a654-537b-51db-a917-8184a55b05b8",
+            "byline": "By Benedict Carey and Pam Belluck",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T10:24:52-04:00",
+            "created_date": "2020-07-29T11:00:09-04:00",
+            "published_date": "2020-07-29T11:00:09-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Shutdowns (Institutional)",
+                "Coronavirus Reopenings",
+                "Education (K-12)",
+                "Coronavirus (2019-nCoV)",
+                "Education",
+                "Children and Childhood",
+                "your-feed-health",
+                "your-feed-healthcare"
+            ],
+            "org_facet": [
+                "Journal of the American Medical Assn"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SCHOOLS/merlin_170293230_f9a4e1c1-c884-4fa3-aeb4-3a7c1633328b-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A closed school in Washington, D.C., in March.",
+                    "copyright": "Shawn Thew/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SCHOOLS/29VIRUS-SCHOOLS-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A closed school in Washington, D.C., in March.",
+                    "copyright": "Shawn Thew/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SCHOOLS/29VIRUS-SCHOOLS-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A closed school in Washington, D.C., in March.",
+                    "copyright": "Shawn Thew/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SCHOOLS/29VIRUS-SCHOOLS-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A closed school in Washington, D.C., in March.",
+                    "copyright": "Shawn Thew/EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SCHOOLS/29VIRUS-SCHOOLS-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 125,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A closed school in Washington, D.C., in March.",
+                    "copyright": "Shawn Thew/EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fhm0Bi"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Mysterious Coronavirus Outbreak Catches Vietnam by Surprise",
+            "abstract": "After months without a single coronavirus death, or even a confirmed case of local transmission, a new outbreak has struck Vietnam. And it’s spreading.",
+            "url": "https://www.nytimes.com/2020/07/29/world/asia/coronavirus-vietnam.html",
+            "uri": "nyt://article/e08d6339-def6-5044-bff6-8bd2ec442971",
+            "byline": "By Hannah Beech and Chau Doan",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T02:04:32-04:00",
+            "created_date": "2020-07-29T10:13:01-04:00",
+            "published_date": "2020-07-29T10:13:01-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)",
+                "Disease Rates"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "Danang (Vietnam)",
+                "Vietnam"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/world/29virus-vietnam01/merlin_175063065_6df86ac8-3474-47c9-9361-dd07649b6ea1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A street in Hanoi, Vietnam’s capital. People there are returning to the practice of wearing protective face masks with an alarming coronavirus outbreak.",
+                    "copyright": "Manan Vatsyayana/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/world/29virus-vietnam01/29virus-vietnam01-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A street in Hanoi, Vietnam’s capital. People there are returning to the practice of wearing protective face masks with an alarming coronavirus outbreak.",
+                    "copyright": "Manan Vatsyayana/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/world/29virus-vietnam01/29virus-vietnam01-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A street in Hanoi, Vietnam’s capital. People there are returning to the practice of wearing protective face masks with an alarming coronavirus outbreak.",
+                    "copyright": "Manan Vatsyayana/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/world/29virus-vietnam01/merlin_175063065_6df86ac8-3474-47c9-9361-dd07649b6ea1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A street in Hanoi, Vietnam’s capital. People there are returning to the practice of wearing protective face masks with an alarming coronavirus outbreak.",
+                    "copyright": "Manan Vatsyayana/Agence France-Presse — Getty Images"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/29/world/29virus-vietnam01/merlin_175063065_6df86ac8-3474-47c9-9361-dd07649b6ea1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 127,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A street in Hanoi, Vietnam’s capital. People there are returning to the practice of wearing protective face masks with an alarming coronavirus outbreak.",
+                    "copyright": "Manan Vatsyayana/Agence France-Presse — Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/2Ew2Cnj"
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "Judge Blocks Green Card Wealth Tests, Citing Pandemic Hardships",
+            "abstract": "Deaths top 150,000 in the United States. A $600 unemployment benefit is likely to lapse on Friday, a top official said. In Iran, religious ceremonies and college-entrance exams are in limbo.",
+            "url": "https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html",
+            "uri": "nyt://article/c9221251-b1b7-55ae-8466-ead84d6a8577",
+            "byline": "",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T05:20:08-04:00",
+            "created_date": "2020-07-29T05:22:11-04:00",
+            "published_date": "2020-07-29T05:22:11-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1080,
+                    "width": 1920,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 107,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/2DeTB1m"
+        },
+        {
+            "section": "well",
+            "subsection": "move",
+            "title": "Is Your Blood Sugar Undermining Your Workouts?",
+            "abstract": "Eating a diet high in sugar and processed foods could dent our long-term health in part by changing how well our bodies respond to exercise.",
+            "url": "https://www.nytimes.com/2020/07/29/well/move/blood-sugar-diet-foods-workouts-exercise-muscles.html",
+            "uri": "nyt://article/f8123af3-2cf0-5e0b-9986-e7a65130609f",
+            "byline": "By Gretchen Reynolds",
+            "item_type": "Article",
+            "updated_date": "2020-07-30T12:26:14-04:00",
+            "created_date": "2020-07-29T05:00:11-04:00",
+            "published_date": "2020-07-29T05:00:11-04:00",
+            "material_type_facet": "",
+            "kicker": "Phys Ed",
+            "des_facet": [
+                "Exercise",
+                "Diabetes",
+                "Sugar",
+                "Diet and Nutrition",
+                "Weight",
+                "Muscles",
+                "Research"
+            ],
+            "org_facet": [
+                "Nature (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/04/well/physed-runner/merlin_170719374_ca7d8b99-4c72-4542-aa89-5fa3012f069e-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1463,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Hana Asano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/04/well/physed-runner/physed-runner-thumbStandard-v2.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Hana Asano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/04/well/physed-runner/physed-runner-thumbLarge-v2.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Hana Asano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/04/well/physed-runner/physed-runner-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Hana Asano for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/04/well/physed-runner/merlin_170719374_ca7d8b99-4c72-4542-aa89-5fa3012f069e-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 136,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Hana Asano for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3fhnUBX"
+        },
+        {
+            "section": "magazine",
+            "subsection": "",
+            "title": "Why Is There No Consensus About Reopening Schools?",
+            "abstract": "Here’s what we know: With too many variables and too few studies, schools lack the tools and data they need to balance education and health.",
+            "url": "https://www.nytimes.com/2020/07/29/magazine/schools-reopening-covid.html",
+            "uri": "nyt://article/d3cadfb2-f736-5165-a99d-221ddb1ebd1c",
+            "byline": "By Kim Tingley",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T10:25:01-04:00",
+            "created_date": "2020-07-29T05:00:06-04:00",
+            "published_date": "2020-07-29T05:00:06-04:00",
+            "material_type_facet": "",
+            "kicker": "Studies Show",
+            "des_facet": [
+                "Education (K-12)",
+                "Coronavirus (2019-nCoV)",
+                "Shutdowns (Institutional)",
+                "Children and Childhood",
+                "Coronavirus Reopenings",
+                "Research"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/magazine/02mag-studies-1/02mag-studies-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Ori Toor"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/magazine/02mag-studies-1/02mag-studies-1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Ori Toor"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/magazine/02mag-studies-1/02mag-studies-1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Ori Toor"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/magazine/02mag-studies-1/02mag-studies-1-mediumThreeByTwo210-v2.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Ori Toor"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/08/02/magazine/02mag-studies-1/02mag-studies-1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 190,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Illustration by Ori Toor"
+                }
+            ],
+            "short_url": "https://nyti.ms/2BCjBDc"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Moderna Vaccine Test in Monkeys Shows Promise",
+            "abstract": "This coronavirus vaccine developed by government researchers and Moderna enabled the animals to quickly clear the infection from their lungs.",
+            "url": "https://www.nytimes.com/2020/07/28/health/coronavirus-moderna-vaccine-monkeys.html",
+            "uri": "nyt://article/46a95ee8-ce37-5f58-ac06-9f87eb0f22e5",
+            "byline": "By Denise Grady",
+            "item_type": "Article",
+            "updated_date": "2020-07-29T06:38:42-04:00",
+            "created_date": "2020-07-28T17:47:04-04:00",
+            "published_date": "2020-07-28T17:47:04-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Vaccination and Immunization",
+                "Clinical Trials",
+                "Tests (Medical)",
+                "Research",
+                "Monkeys and Apes",
+                "your-feed-healthcare",
+                "Coronavirus (2019-nCoV)"
+            ],
+            "org_facet": [
+                "Moderna Inc",
+                "National Institute of Allergy and Infectious Diseases",
+                "New England Journal of Medicine",
+                "Vaccine (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-MODERNA/28VIRUS-MODERNA-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An injection of an experimental coronavirus vaccine developed by the National Institutes of Health and Moderna.",
+                    "copyright": "Hans Pennink/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-MODERNA/28VIRUS-MODERNA-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An injection of an experimental coronavirus vaccine developed by the National Institutes of Health and Moderna.",
+                    "copyright": "Hans Pennink/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-MODERNA/28VIRUS-MODERNA-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An injection of an experimental coronavirus vaccine developed by the National Institutes of Health and Moderna.",
+                    "copyright": "Hans Pennink/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-MODERNA/28VIRUS-MODERNA-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An injection of an experimental coronavirus vaccine developed by the National Institutes of Health and Moderna.",
+                    "copyright": "Hans Pennink/Associated Press"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/28VIRUS-MODERNA/28VIRUS-MODERNA-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 125,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An injection of an experimental coronavirus vaccine developed by the National Institutes of Health and Moderna.",
+                    "copyright": "Hans Pennink/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3hJo9Hl"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "The Coronavirus Could Dodge Some Treatments, Study Suggests",
+            "abstract": "A laboratory experiment hints at some of the ways the virus might elude antibody treatments. Combining therapies could help, experts said.",
+            "url": "https://www.nytimes.com/2020/07/28/health/coronavirus-mutation-spike-treatment.html",
+            "uri": "nyt://article/c52cd3d1-226f-597f-920b-387b53e30da8",
+            "byline": "By Katherine J. Wu",
+            "item_type": "Article",
+            "updated_date": "2020-07-31T09:45:50-04:00",
+            "created_date": "2020-07-28T17:05:15-04:00",
+            "published_date": "2020-07-28T17:05:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Drug Resistance (Microbial)",
+                "Coronavirus (2019-nCoV)",
+                "Research",
+                "Antibodies",
+                "Immune System",
+                "Viruses",
+                "Vaccination and Immunization"
+            ],
+            "org_facet": [
+                "medRxiv"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/00VIRUS-SPIKEMUTATION1/00VIRUS-SPIKEMUTATION1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1108,
+                    "width": 1661,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A colored micrograph of the coronavirus, with its distinct protein spikes in red.",
+                    "copyright": "NIAID"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/00VIRUS-SPIKEMUTATION1/00VIRUS-SPIKEMUTATION1-thumbStandard.jpg",
+                    "format": "Standard Thumbnail",
+                    "height": 75,
+                    "width": 75,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A colored micrograph of the coronavirus, with its distinct protein spikes in red.",
+                    "copyright": "NIAID"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/00VIRUS-SPIKEMUTATION1/00VIRUS-SPIKEMUTATION1-thumbLarge.jpg",
+                    "format": "thumbLarge",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A colored micrograph of the coronavirus, with its distinct protein spikes in red.",
+                    "copyright": "NIAID"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/00VIRUS-SPIKEMUTATION1/00VIRUS-SPIKEMUTATION1-mediumThreeByTwo210.jpg",
+                    "format": "mediumThreeByTwo210",
+                    "height": 140,
+                    "width": 210,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A colored micrograph of the coronavirus, with its distinct protein spikes in red.",
+                    "copyright": "NIAID"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2020/07/28/science/00VIRUS-SPIKEMUTATION1/00VIRUS-SPIKEMUTATION1-articleInline.jpg",
+                    "format": "Normal",
+                    "height": 126,
+                    "width": 190,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A colored micrograph of the coronavirus, with its distinct protein spikes in red.",
+                    "copyright": "NIAID"
+                }
+            ],
+            "short_url": "https://nyti.ms/2DbWakE"
+        }
+    ]
+}
