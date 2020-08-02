@@ -37,7 +37,7 @@ struct President: Decodable {
 }
 ```
 
-## 3. Unit Test the JSON payload in Swift 
+## 3. Unit Test the JSON payload along with your Swift model 
 
 ```swift 
 func testModel() {
@@ -106,7 +106,7 @@ extension Bundle {
 }
 ```
 
-## 5. Unit test the Bundle extension for decoding the `.json` file 
+## 5. Unit test the `Bundle` extension for decoding the `.json` file 
 
 ```swift 
 func testParseJSONFromBundle() {
