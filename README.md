@@ -2,7 +2,7 @@
 
 A repo for testing various JSON payloads in various programming languages. 
 
-## Using a JSON payload in Swift 
+## 1. Using a JSON payload in Swift 
 
 1. Navigate to the `.json` file you're interested in using.
 2. Copy the `JSON` contents. 
@@ -13,7 +13,7 @@ A repo for testing various JSON payloads in various programming languages.
 
 > Make sure the past `JSON` contents start on line 1 in your new file. It won't be valid `JSON` if there are new lines or any comments about the first encountered `JSON` open bracket. 
 
-## Unit Test the JSON payload in Swift 
+## 2. Unit Test the JSON payload in Swift 
 
 ```swift 
 func testModel() {
