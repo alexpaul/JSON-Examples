@@ -106,6 +106,33 @@ extension Bundle {
 }
 ```
 
+#### Generic Bundle extension 
+
+<details> 
+  <summary>Generic `Bundle` extension</summary> 
+  
+  ```swift 
+  extension Bundle {
+  func parseJSONFile<T: Decodable>(with name: String) throws -> T {
+    guard let path = Bundle.main.path(forResource: name, ofType: ".json") else {
+      throw BundleError.invalidResource(name)
+    }
+    guard let data = FileManager.default.contents(atPath: path) else {
+      throw BundleError.noContentsAtPath(path)
+    }
+    var presidents: T
+    do {
+      presidents = try JSONDecoder().decode(T.self, from: data)
+    } catch {
+      throw BundleError.decodingError(error)
+    }
+    return presidents
+  }
+}
+  ```
+  
+</details>
+
 ## 5. Unit test the `Bundle` extension for decoding the `.json` file 
 
 ```swift 
