@@ -106,10 +106,10 @@ extension Bundle {
 }
 ```
 
-#### Generic Bundle extension 
+#### Generic `parseJSONFile(with name:)` method 
 
 <details> 
-  <summary>Generic `Bundle` extension</summary> 
+  <summary>Bundle+ParseJSON.swift</summary> 
   
   ```swift 
   extension Bundle {
